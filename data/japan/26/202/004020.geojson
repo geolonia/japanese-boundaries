@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "26202004020",
+    "PREF": "26",
+    "CITY": "202",
+    "S_AREA": "004020",
+    "PREF_NAME": "京都府",
+    "CITY_NAME": "舞鶴市",
+    "S_NAME": "志楽舞鶴学園",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 5499.582,
+    "PERIMETER": 315.004,
+    "H27KAxx_": 1915,
+    "H27KAxx_ID": 1914,
+    "KEN": "26",
+    "KEN_NAME": "京都府",
+    "SITYO_NAME": null,
+    "GST_NAME": "舞鶴市",
+    "CSS_NAME": null,
+    "KIHON1": "0040",
+    "DUMMY1": "-",
+    "KIHON2": "20",
+    "KEYCODE1": "202004020",
+    "KEYCODE2": "202004020",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "志楽舞鶴学園",
+    "KBSUM": 1,
+    "JINKO": 56,
+    "SETAI": 12,
+    "X_CODE": 135.41458,
+    "Y_CODE": 35.48194,
+    "KCODE1": "0040-20"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.4151633777014,
+          35.48171935937326
+        ],
+        [
+          135.41398428217514,
+          35.48168729517273
+        ],
+        [
+          135.41402776767353,
+          35.48216701532936
+        ],
+        [
+          135.41516120784573,
+          35.482185445489186
+        ],
+        [
+          135.4151633777014,
+          35.48171935937326
+        ]
+      ]
+    ]
+  }
+}

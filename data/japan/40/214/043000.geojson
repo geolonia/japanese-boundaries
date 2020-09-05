@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "402140430",
+    "PREF": "40",
+    "CITY": "214",
+    "S_AREA": "043000",
+    "PREF_NAME": "福岡県",
+    "CITY_NAME": "豊前市",
+    "S_NAME": "大字才尾",
+    "KIGO_E": "E2",
+    "HCODE": 8101,
+    "AREA": 18598.87,
+    "PERIMETER": 600.501,
+    "H27KAxx_": 137,
+    "H27KAxx_ID": 136,
+    "KEN": "40",
+    "KEN_NAME": "福岡県",
+    "SITYO_NAME": null,
+    "GST_NAME": "豊前市",
+    "CSS_NAME": null,
+    "KIHON1": "0430",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "214043000",
+    "KEYCODE2": "2140430",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "大字才尾",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 131.1115,
+    "Y_CODE": 33.58316,
+    "KCODE1": "0430-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          131.11112853392245,
+          33.582178901656036
+        ],
+        [
+          131.11041236380007,
+          33.582673958312796
+        ],
+        [
+          131.11186112948616,
+          33.58416636540557
+        ],
+        [
+          131.11259122978484,
+          33.583652792827884
+        ],
+        [
+          131.11112853392245,
+          33.582178901656036
+        ]
+      ]
+    ]
+  }
+}

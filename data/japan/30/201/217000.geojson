@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "302012170",
+    "PREF": "30",
+    "CITY": "201",
+    "S_AREA": "217000",
+    "PREF_NAME": "和歌山県",
+    "CITY_NAME": "和歌山市",
+    "S_NAME": "畑屋敷円福院東ノ丁",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 5742.465,
+    "PERIMETER": 348.618,
+    "H27KAxx_": 39,
+    "H27KAxx_ID": 38,
+    "KEN": "30",
+    "KEN_NAME": "和歌山県",
+    "SITYO_NAME": null,
+    "GST_NAME": "和歌山市",
+    "CSS_NAME": null,
+    "KIHON1": "2170",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "201217000",
+    "KEYCODE2": "2012170",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "畑屋敷円福院東ノ丁",
+    "KBSUM": 1,
+    "JINKO": 17,
+    "SETAI": 9,
+    "X_CODE": 135.18321,
+    "Y_CODE": 34.23447,
+    "KCODE1": "2170-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.18392060050692,
+          34.23476032659648
+        ],
+        [
+          135.1839021032508,
+          34.23434731757388
+        ],
+        [
+          135.18254118511584,
+          34.2342056884297
+        ],
+        [
+          135.18249037097846,
+          34.23459443018744
+        ],
+        [
+          135.18392060050692,
+          34.23476032659648
+        ]
+      ]
+    ]
+  }
+}

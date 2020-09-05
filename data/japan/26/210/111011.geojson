@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "26210111011",
+    "PREF": "26",
+    "CITY": "210",
+    "S_AREA": "111011",
+    "PREF_NAME": "京都府",
+    "CITY_NAME": "八幡市",
+    "S_NAME": "橋本石ケ谷",
+    "KIGO_E": "E2",
+    "HCODE": 8101,
+    "AREA": 974.497,
+    "PERIMETER": 131.255,
+    "H27KAxx_": 8221,
+    "H27KAxx_ID": 8220,
+    "KEN": "26",
+    "KEN_NAME": "京都府",
+    "SITYO_NAME": null,
+    "GST_NAME": "八幡市",
+    "CSS_NAME": null,
+    "KIHON1": "1110",
+    "DUMMY1": "-",
+    "KIHON2": "11",
+    "KEYCODE1": "210111011",
+    "KEYCODE2": "210111011",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "橋本石ケ谷",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 135.68735,
+    "Y_CODE": 34.87784,
+    "KCODE1": "1110-11"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.68759756013117,
+          34.87793210191492
+        ],
+        [
+          135.68756398212813,
+          34.877753417974155
+        ],
+        [
+          135.68710819450982,
+          34.877735628433456
+        ],
+        [
+          135.6871237232024,
+          34.8779694089062
+        ],
+        [
+          135.68759756013117,
+          34.87793210191492
+        ]
+      ]
+    ]
+  }
+}

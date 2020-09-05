@@ -1,0 +1,63 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "182080550",
+    "PREF": "18",
+    "CITY": "208",
+    "S_AREA": "055000",
+    "PREF_NAME": "福井県",
+    "CITY_NAME": "あわら市",
+    "S_NAME": "権世市野々",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 387317.113,
+    "PERIMETER": 3064.794,
+    "H27KAxx_": 165,
+    "H27KAxx_ID": 164,
+    "KEN": "18",
+    "KEN_NAME": "福井県",
+    "SITYO_NAME": null,
+    "GST_NAME": "あわら市",
+    "CSS_NAME": null,
+    "KIHON1": "0550",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "208055000",
+    "KEYCODE2": "2080550",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "権世市野々",
+    "KBSUM": 1,
+    "JINKO": 41,
+    "SETAI": 12,
+    "X_CODE": 136.29953,
+    "Y_CODE": 36.22302,
+    "KCODE1": "0550-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.30252059866706,
+          36.22640240422079
+        ],
+        [
+          136.30218480817462,
+          36.21953439149554
+        ],
+        [
+          136.29088408324438,
+          36.21966014522499
+        ],
+        [
+          136.30252059866706,
+          36.22640240422079
+        ]
+      ]
+    ]
+  }
+}

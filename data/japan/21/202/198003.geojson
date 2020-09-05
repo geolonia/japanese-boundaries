@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "21202198003",
+    "PREF": "21",
+    "CITY": "202",
+    "S_AREA": "198003",
+    "PREF_NAME": "岐阜県",
+    "CITY_NAME": "大垣市",
+    "S_NAME": "稲葉東３丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 17941.921,
+    "PERIMETER": 589.017,
+    "H27KAxx_": 6944,
+    "H27KAxx_ID": 6943,
+    "KEN": "21",
+    "KEN_NAME": "岐阜県",
+    "SITYO_NAME": null,
+    "GST_NAME": "大垣市",
+    "CSS_NAME": null,
+    "KIHON1": "1980",
+    "DUMMY1": "-",
+    "KIHON2": "03",
+    "KEYCODE1": "202198003",
+    "KEYCODE2": "202198003",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "稲葉東３丁目",
+    "KBSUM": 1,
+    "JINKO": 53,
+    "SETAI": 19,
+    "X_CODE": 136.55443,
+    "Y_CODE": 35.37554,
+    "KCODE1": "1980-03"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.55553999950249,
+          35.37584969064724
+        ],
+        [
+          136.55559941143142,
+          35.37523289081276
+        ],
+        [
+          136.55314555182193,
+          35.37516135664671
+        ],
+        [
+          136.55354304418327,
+          35.37612841530149
+        ],
+        [
+          136.55553999950249,
+          35.37584969064724
+        ]
+      ]
+    ]
+  }
+}

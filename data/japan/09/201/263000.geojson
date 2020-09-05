@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "092012630",
+    "PREF": "09",
+    "CITY": "201",
+    "S_AREA": "263000",
+    "PREF_NAME": "栃木県",
+    "CITY_NAME": "宇都宮市",
+    "S_NAME": "中岡本町",
+    "KIGO_E": "E2",
+    "HCODE": 8101,
+    "AREA": 3693.739,
+    "PERIMETER": 324.001,
+    "H27KAxx_": 2582,
+    "H27KAxx_ID": 2581,
+    "KEN": "09",
+    "KEN_NAME": "栃木県",
+    "SITYO_NAME": null,
+    "GST_NAME": "宇都宮市",
+    "CSS_NAME": null,
+    "KIHON1": "2630",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "201263000",
+    "KEYCODE2": "2012630",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "中岡本町",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 139.94801,
+    "Y_CODE": 36.60518,
+    "KCODE1": "2630-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          139.94901678678076,
+          36.605497822188795
+        ],
+        [
+          139.9484411869101,
+          36.605104594954504
+        ],
+        [
+          139.94754340666677,
+          36.6049698534576
+        ],
+        [
+          139.9474576663203,
+          36.60525726728776
+        ],
+        [
+          139.94901678678076,
+          36.605497822188795
+        ]
+      ]
+    ]
+  }
+}

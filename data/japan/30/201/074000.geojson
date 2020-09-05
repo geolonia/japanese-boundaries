@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "302010740",
+    "PREF": "30",
+    "CITY": "201",
+    "S_AREA": "074000",
+    "PREF_NAME": "和歌山県",
+    "CITY_NAME": "和歌山市",
+    "S_NAME": "鷺ノ森中ノ丁",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 6908.365,
+    "PERIMETER": 340.06,
+    "H27KAxx_": 1117,
+    "H27KAxx_ID": 1116,
+    "KEN": "30",
+    "KEN_NAME": "和歌山県",
+    "SITYO_NAME": null,
+    "GST_NAME": "和歌山市",
+    "CSS_NAME": null,
+    "KIHON1": "0740",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "201074000",
+    "KEYCODE2": "2010740",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "鷺ノ森中ノ丁",
+    "KBSUM": 1,
+    "JINKO": 41,
+    "SETAI": 28,
+    "X_CODE": 135.17072,
+    "Y_CODE": 34.23696,
+    "KCODE1": "0740-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.17128837156136,
+          34.236652275819566
+        ],
+        [
+          135.17017472913614,
+          34.23666251793685
+        ],
+        [
+          135.17014746047607,
+          34.23725525418311
+        ],
+        [
+          135.17126450002283,
+          34.23727166122841
+        ],
+        [
+          135.17128837156136,
+          34.236652275819566
+        ]
+      ]
+    ]
+  }
+}

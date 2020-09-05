@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "07209026009",
+    "PREF": "07",
+    "CITY": "209",
+    "S_AREA": "026009",
+    "PREF_NAME": "福島県",
+    "CITY_NAME": "相馬市",
+    "S_NAME": "大曲字三徳井",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 37395.42,
+    "PERIMETER": 962.097,
+    "H27KAxx_": 602,
+    "H27KAxx_ID": 601,
+    "KEN": "07",
+    "KEN_NAME": "福島県",
+    "SITYO_NAME": null,
+    "GST_NAME": "相馬市",
+    "CSS_NAME": null,
+    "KIHON1": "0260",
+    "DUMMY1": "-",
+    "KIHON2": "09",
+    "KEYCODE1": "209026009",
+    "KEYCODE2": "209026009",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "大曲字三徳井",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 140.94771,
+    "Y_CODE": 37.79375,
+    "KCODE1": "0260-09"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          140.95006350681155,
+          37.79423047685138
+        ],
+        [
+          140.94968393304123,
+          37.79335150299701
+        ],
+        [
+          140.94561399935267,
+          37.79323581956234
+        ],
+        [
+          140.945530722854,
+          37.79414240418199
+        ],
+        [
+          140.95006350681155,
+          37.79423047685138
+        ]
+      ]
+    ]
+  }
+}

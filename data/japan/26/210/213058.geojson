@@ -1,0 +1,63 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "26210213058",
+    "PREF": "26",
+    "CITY": "210",
+    "S_AREA": "213058",
+    "PREF_NAME": "京都府",
+    "CITY_NAME": "八幡市",
+    "S_NAME": "八幡（南山）一ノ坪",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 2967.491,
+    "PERIMETER": 257.226,
+    "H27KAxx_": 5682,
+    "H27KAxx_ID": 5681,
+    "KEN": "26",
+    "KEN_NAME": "京都府",
+    "SITYO_NAME": null,
+    "GST_NAME": "八幡市",
+    "CSS_NAME": null,
+    "KIHON1": "2130",
+    "DUMMY1": "-",
+    "KIHON2": "58",
+    "KEYCODE1": "210213058",
+    "KEYCODE2": "210213058",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "八幡（南山）一ノ坪",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 135.70946,
+    "Y_CODE": 34.86052,
+    "KCODE1": "2130-58"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.71002644823898,
+          34.86017465746431
+        ],
+        [
+          135.70921868299297,
+          34.8601446585159
+        ],
+        [
+          135.70929339502285,
+          34.860871838972386
+        ],
+        [
+          135.71002644823898,
+          34.86017465746431
+        ]
+      ]
+    ]
+  }
+}

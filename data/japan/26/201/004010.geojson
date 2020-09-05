@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "26201004010",
+    "PREF": "26",
+    "CITY": "201",
+    "S_AREA": "004010",
+    "PREF_NAME": "京都府",
+    "CITY_NAME": "福知山市",
+    "S_NAME": "雀部秋津が丘",
+    "KIGO_E": "E2",
+    "HCODE": 8101,
+    "AREA": 232.889,
+    "PERIMETER": 63.727,
+    "H27KAxx_": 9140,
+    "H27KAxx_ID": 9139,
+    "KEN": "26",
+    "KEN_NAME": "京都府",
+    "SITYO_NAME": null,
+    "GST_NAME": "福知山市",
+    "CSS_NAME": null,
+    "KIHON1": "0040",
+    "DUMMY1": "-",
+    "KIHON2": "10",
+    "KEYCODE1": "201004010",
+    "KEYCODE2": "201004010",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "雀部秋津が丘",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 135.15786,
+    "Y_CODE": 35.29861,
+    "KCODE1": "0040-10"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.15778832676844,
+          35.29852327248048
+        ],
+        [
+          135.15773316927013,
+          35.29861556057387
+        ],
+        [
+          135.15794295511787,
+          35.29868807645631
+        ],
+        [
+          135.15799348711056,
+          35.29859448868772
+        ],
+        [
+          135.15778832676844,
+          35.29852327248048
+        ]
+      ]
+    ]
+  }
+}

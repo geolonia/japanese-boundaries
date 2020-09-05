@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "05206027006",
+    "PREF": "05",
+    "CITY": "206",
+    "S_AREA": "027006",
+    "PREF_NAME": "秋田県",
+    "CITY_NAME": "男鹿市",
+    "S_NAME": "男鹿中滝川字寒風山横道",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 22848.171,
+    "PERIMETER": 629.145,
+    "H27KAxx_": 1146,
+    "H27KAxx_ID": 1145,
+    "KEN": "05",
+    "KEN_NAME": "秋田県",
+    "SITYO_NAME": null,
+    "GST_NAME": "男鹿市",
+    "CSS_NAME": null,
+    "KIHON1": "0270",
+    "DUMMY1": "-",
+    "KIHON2": "06",
+    "KEYCODE1": "206027006",
+    "KEYCODE2": "206027006",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "男鹿中滝川字寒風山横道",
+    "KBSUM": 1,
+    "JINKO": 80,
+    "SETAI": 1,
+    "X_CODE": 139.85744,
+    "Y_CODE": 39.93121,
+    "KCODE1": "0270-06"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          139.8562921267477,
+          39.93175477384217
+        ],
+        [
+          139.85744794731994,
+          39.93226421241673
+        ],
+        [
+          139.8585786268727,
+          39.93067446235606
+        ],
+        [
+          139.8574172320687,
+          39.93017297120412
+        ],
+        [
+          139.8562921267477,
+          39.93175477384217
+        ]
+      ]
+    ]
+  }
+}

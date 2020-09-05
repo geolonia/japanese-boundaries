@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "23211103002",
+    "PREF": "23",
+    "CITY": "211",
+    "S_AREA": "103002",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "豊田市",
+    "S_NAME": "若宮町２丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 13419.945,
+    "PERIMETER": 464.487,
+    "H27KAxx_": 12452,
+    "H27KAxx_ID": 12451,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "豊田市",
+    "CSS_NAME": null,
+    "KIHON1": "1030",
+    "DUMMY1": "-",
+    "KIHON2": "02",
+    "KEYCODE1": "211103002",
+    "KEYCODE2": "211103002",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "若宮町２丁目",
+    "KBSUM": 1,
+    "JINKO": 125,
+    "SETAI": 52,
+    "X_CODE": 137.15546,
+    "Y_CODE": 35.08877,
+    "KCODE1": "1030-02"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.1561964236935,
+          35.0892424550965
+        ],
+        [
+          137.1559160052565,
+          35.08813777831101
+        ],
+        [
+          137.15474111737063,
+          35.08829947597905
+        ],
+        [
+          137.15498347591324,
+          35.08935689411626
+        ],
+        [
+          137.1561964236935,
+          35.0892424550965
+        ]
+      ]
+    ]
+  }
+}

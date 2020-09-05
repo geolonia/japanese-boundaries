@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "36201027001",
+    "PREF": "36",
+    "CITY": "201",
+    "S_AREA": "027001",
+    "PREF_NAME": "徳島県",
+    "CITY_NAME": "徳島市",
+    "S_NAME": "伊月町１丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 5879.298,
+    "PERIMETER": 340.373,
+    "H27KAxx_": 769,
+    "H27KAxx_ID": 768,
+    "KEN": "36",
+    "KEN_NAME": "徳島県",
+    "SITYO_NAME": null,
+    "GST_NAME": "徳島市",
+    "CSS_NAME": null,
+    "KIHON1": "0270",
+    "DUMMY1": "-",
+    "KIHON2": "01",
+    "KEYCODE1": "201027001",
+    "KEYCODE2": "201027001",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "伊月町１丁目",
+    "KBSUM": 1,
+    "JINKO": 69,
+    "SETAI": 36,
+    "X_CODE": 134.55079,
+    "Y_CODE": 34.06543,
+    "KCODE1": "0270-01"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          134.5514954618805,
+          34.06553053530106
+        ],
+        [
+          134.55134047652356,
+          34.06509749966969
+        ],
+        [
+          134.5501194093988,
+          34.065324458701575
+        ],
+        [
+          134.55014382486368,
+          34.065752768959435
+        ],
+        [
+          134.5514954618805,
+          34.06553053530106
+        ]
+      ]
+    ]
+  }
+}

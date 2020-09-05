@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "21213286005",
+    "PREF": "21",
+    "CITY": "213",
+    "S_AREA": "286005",
+    "PREF_NAME": "岐阜県",
+    "CITY_NAME": "各務原市",
+    "S_NAME": "成清町５丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 28568.76,
+    "PERIMETER": 723.877,
+    "H27KAxx_": 3849,
+    "H27KAxx_ID": 3848,
+    "KEN": "21",
+    "KEN_NAME": "岐阜県",
+    "SITYO_NAME": null,
+    "GST_NAME": "各務原市",
+    "CSS_NAME": null,
+    "KIHON1": "2860",
+    "DUMMY1": "-",
+    "KIHON2": "05",
+    "KEYCODE1": "213286005",
+    "KEYCODE2": "213286005",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "成清町５丁目",
+    "KBSUM": 1,
+    "JINKO": 70,
+    "SETAI": 21,
+    "X_CODE": 136.82318,
+    "Y_CODE": 35.3835,
+    "KCODE1": "2860-05"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.82465820284906,
+          35.38410902521349
+        ],
+        [
+          136.82423612143032,
+          35.382659720023035
+        ],
+        [
+          136.82176259622855,
+          35.38314097241541
+        ],
+        [
+          136.82197364655167,
+          35.38386112475293
+        ],
+        [
+          136.82465820284906,
+          35.38410902521349
+        ]
+      ]
+    ]
+  }
+}

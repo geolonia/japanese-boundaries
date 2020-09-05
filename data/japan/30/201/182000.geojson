@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "302011820",
+    "PREF": "30",
+    "CITY": "201",
+    "S_AREA": "182000",
+    "PREF_NAME": "和歌山県",
+    "CITY_NAME": "和歌山市",
+    "S_NAME": "岡円福院西ノ丁",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 3620.405,
+    "PERIMETER": 252.036,
+    "H27KAxx_": 880,
+    "H27KAxx_ID": 879,
+    "KEN": "30",
+    "KEN_NAME": "和歌山県",
+    "SITYO_NAME": null,
+    "GST_NAME": "和歌山市",
+    "CSS_NAME": null,
+    "KIHON1": "1820",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "201182000",
+    "KEYCODE2": "2011820",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "岡円福院西ノ丁",
+    "KBSUM": 1,
+    "JINKO": 76,
+    "SETAI": 52,
+    "X_CODE": 135.18213,
+    "Y_CODE": 34.23397,
+    "KCODE1": "1820-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.18254118511584,
+          34.2342056884297
+        ],
+        [
+          135.18260228748017,
+          34.23380518320217
+        ],
+        [
+          135.18171313289838,
+          34.233743182245895
+        ],
+        [
+          135.1816643866526,
+          34.23413700910807
+        ],
+        [
+          135.18254118511584,
+          34.2342056884297
+        ]
+      ]
+    ]
+  }
+}

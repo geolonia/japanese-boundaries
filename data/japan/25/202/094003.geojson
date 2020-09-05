@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "25202094003",
+    "PREF": "25",
+    "CITY": "202",
+    "S_AREA": "094003",
+    "PREF_NAME": "滋賀県",
+    "CITY_NAME": "彦根市",
+    "S_NAME": "南川瀬町",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 610.932,
+    "PERIMETER": 101.398,
+    "H27KAxx_": 1470,
+    "H27KAxx_ID": 1469,
+    "KEN": "25",
+    "KEN_NAME": "滋賀県",
+    "SITYO_NAME": null,
+    "GST_NAME": "彦根市",
+    "CSS_NAME": null,
+    "KIHON1": "0940",
+    "DUMMY1": "-",
+    "KIHON2": "03",
+    "KEYCODE1": "202094003",
+    "KEYCODE2": "202094003",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "南川瀬町",
+    "KBSUM": 1,
+    "JINKO": 6,
+    "SETAI": 2,
+    "X_CODE": 136.23306,
+    "Y_CODE": 35.22278,
+    "KCODE1": "0940-03"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.23326849722147,
+          35.22275534858247
+        ],
+        [
+          136.23308976955835,
+          35.222628924148026
+        ],
+        [
+          136.23285243602714,
+          35.22280494300876
+        ],
+        [
+          136.2329915349242,
+          35.222931443089166
+        ],
+        [
+          136.23326849722147,
+          35.22275534858247
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "28214606103",
+    "PREF": "28",
+    "CITY": "214",
+    "S_AREA": "606103",
+    "PREF_NAME": "兵庫県",
+    "CITY_NAME": "宝塚市",
+    "S_NAME": "口谷西３丁目",
+    "KIGO_E": "E3",
+    "HCODE": 8101,
+    "AREA": 1482.284,
+    "PERIMETER": 179.278,
+    "H27KAxx_": 969,
+    "H27KAxx_ID": 968,
+    "KEN": "28",
+    "KEN_NAME": "兵庫県",
+    "SITYO_NAME": null,
+    "GST_NAME": "宝塚市",
+    "CSS_NAME": null,
+    "KIHON1": "6061",
+    "DUMMY1": "-",
+    "KIHON2": "03",
+    "KEYCODE1": "214606103",
+    "KEYCODE2": "214606103",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "口谷西３丁目",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 135.39925,
+    "Y_CODE": 34.81174,
+    "KCODE1": "6061-03"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.3989364355705,
+          34.8115510686759
+        ],
+        [
+          135.39886761623515,
+          34.81173719180114
+        ],
+        [
+          135.3995759313772,
+          34.81194346759983
+        ],
+        [
+          135.39962385433734,
+          34.811744529857386
+        ],
+        [
+          135.3989364355705,
+          34.8115510686759
+        ]
+      ]
+    ]
+  }
+}

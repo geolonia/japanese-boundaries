@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "121040270",
+    "PREF": "12",
+    "CITY": "104",
+    "S_AREA": "027000",
+    "PREF_NAME": "千葉県",
+    "CITY_NAME": "若葉区",
+    "S_NAME": "下泉町",
+    "KIGO_E": "E3",
+    "HCODE": 8101,
+    "AREA": 2994.553,
+    "PERIMETER": 244.751,
+    "H27KAxx_": 4696,
+    "H27KAxx_ID": 4695,
+    "KEN": "12",
+    "KEN_NAME": "千葉県",
+    "SITYO_NAME": null,
+    "GST_NAME": "千葉市",
+    "CSS_NAME": "若葉区",
+    "KIHON1": "0270",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "104027000",
+    "KEYCODE2": "1040270",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "下泉町",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 140.25152,
+    "Y_CODE": 35.62216,
+    "KCODE1": "0270-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          140.25103145814987,
+          35.62201031371957
+        ],
+        [
+          140.2517682262706,
+          35.62253505736998
+        ],
+        [
+          140.25201357761665,
+          35.62230536681631
+        ],
+        [
+          140.2512768101812,
+          35.62178062456091
+        ],
+        [
+          140.25103145814987,
+          35.62201031371957
+        ]
+      ]
+    ]
+  }
+}

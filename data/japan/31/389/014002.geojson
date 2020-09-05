@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "31389014002",
+    "PREF": "31",
+    "CITY": "389",
+    "S_AREA": "014002",
+    "PREF_NAME": "鳥取県",
+    "CITY_NAME": "南部町",
+    "S_NAME": "倭病院",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 20959.656,
+    "PERIMETER": 620.228,
+    "H27KAxx_": 1266,
+    "H27KAxx_ID": 1265,
+    "KEN": "31",
+    "KEN_NAME": "鳥取県",
+    "SITYO_NAME": null,
+    "GST_NAME": "西伯郡",
+    "CSS_NAME": "南部町",
+    "KIHON1": "0140",
+    "DUMMY1": "-",
+    "KIHON2": "02",
+    "KEYCODE1": "389014002",
+    "KEYCODE2": "389014002",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "倭病院",
+    "KBSUM": 1,
+    "JINKO": 96,
+    "SETAI": 1,
+    "X_CODE": 133.32572,
+    "Y_CODE": 35.3473,
+    "KCODE1": "0140-02"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          133.32589367454798,
+          35.346701547208895
+        ],
+        [
+          133.32480948489302,
+          35.347864096694266
+        ],
+        [
+          133.3249001828399,
+          35.34878095761854
+        ],
+        [
+          133.3265112178336,
+          35.3484860896733
+        ],
+        [
+          133.32589367454798,
+          35.346701547208895
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "162013290",
+    "PREF": "16",
+    "CITY": "201",
+    "S_AREA": "329000",
+    "PREF_NAME": "富山県",
+    "CITY_NAME": "富山市",
+    "S_NAME": "秋吉",
+    "KIGO_E": "E2",
+    "HCODE": 8101,
+    "AREA": 957.723,
+    "PERIMETER": 162.489,
+    "H27KAxx_": 283,
+    "H27KAxx_ID": 282,
+    "KEN": "16",
+    "KEN_NAME": "富山県",
+    "SITYO_NAME": null,
+    "GST_NAME": "富山市",
+    "CSS_NAME": null,
+    "KIHON1": "3290",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "201329000",
+    "KEYCODE2": "2013290",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "秋吉",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 137.24167,
+    "Y_CODE": 36.67801,
+    "KCODE1": "3290-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.24191362572202,
+          36.677921414670315
+        ],
+        [
+          137.2422128209372,
+          36.67772972390883
+        ],
+        [
+          137.2415613390627,
+          36.6778341928784
+        ],
+        [
+          137.24158509299917,
+          36.678122558435646
+        ],
+        [
+          137.24191362572202,
+          36.677921414670315
+        ]
+      ]
+    ]
+  }
+}

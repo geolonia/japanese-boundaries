@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "131010380",
+    "PREF": "13",
+    "CITY": "101",
+    "S_AREA": "038000",
+    "PREF_NAME": "東京都",
+    "CITY_NAME": "千代田区",
+    "S_NAME": "神田北乗物町",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 6804.821,
+    "PERIMETER": 384.294,
+    "H27KAxx_": 5067,
+    "H27KAxx_ID": 5066,
+    "KEN": "13",
+    "KEN_NAME": "東京都",
+    "SITYO_NAME": null,
+    "GST_NAME": "千代田区",
+    "CSS_NAME": null,
+    "KIHON1": "0380",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "101038000",
+    "KEYCODE2": "1010380",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "神田北乗物町",
+    "KBSUM": 1,
+    "JINKO": 55,
+    "SETAI": 29,
+    "X_CODE": 139.77385,
+    "Y_CODE": 35.69245,
+    "KCODE1": "0380-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          139.77469093704005,
+          35.69245944909339
+        ],
+        [
+          139.77317458478484,
+          35.69203589612278
+        ],
+        [
+          139.7730148287181,
+          35.69243618603623
+        ],
+        [
+          139.77453538331372,
+          35.692863473667906
+        ],
+        [
+          139.77469093704005,
+          35.69245944909339
+        ]
+      ]
+    ]
+  }
+}

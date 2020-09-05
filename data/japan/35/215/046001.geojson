@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "35215046001",
+    "PREF": "35",
+    "CITY": "215",
+    "S_AREA": "046001",
+    "PREF_NAME": "山口県",
+    "CITY_NAME": "周南市",
+    "S_NAME": "毛利町１丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 8655.861,
+    "PERIMETER": 426.359,
+    "H27KAxx_": 1121,
+    "H27KAxx_ID": 1120,
+    "KEN": "35",
+    "KEN_NAME": "山口県",
+    "SITYO_NAME": null,
+    "GST_NAME": "周南市",
+    "CSS_NAME": null,
+    "KIHON1": "0460",
+    "DUMMY1": "-",
+    "KIHON2": "01",
+    "KEYCODE1": "215046001",
+    "KEYCODE2": "215046001",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "毛利町１丁目",
+    "KBSUM": 1,
+    "JINKO": 16,
+    "SETAI": 7,
+    "X_CODE": 131.81001,
+    "Y_CODE": 34.05408,
+    "KCODE1": "0460-01"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          131.81064166404494,
+          34.054620268507676
+        ],
+        [
+          131.80991521206445,
+          34.05332206839622
+        ],
+        [
+          131.80938144174516,
+          34.05353379846396
+        ],
+        [
+          131.81010589027798,
+          34.05482804863619
+        ],
+        [
+          131.81064166404494,
+          34.054620268507676
+        ]
+      ]
+    ]
+  }
+}

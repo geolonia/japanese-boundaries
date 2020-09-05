@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "36201135006",
+    "PREF": "36",
+    "CITY": "201",
+    "S_AREA": "135006",
+    "PREF_NAME": "徳島県",
+    "CITY_NAME": "徳島市",
+    "S_NAME": "川内町平石夷野",
+    "KIGO_E": "E2",
+    "HCODE": 8101,
+    "AREA": 3739.299,
+    "PERIMETER": 246.019,
+    "H27KAxx_": 893,
+    "H27KAxx_ID": 892,
+    "KEN": "36",
+    "KEN_NAME": "徳島県",
+    "SITYO_NAME": null,
+    "GST_NAME": "徳島市",
+    "CSS_NAME": null,
+    "KIHON1": "1350",
+    "DUMMY1": "-",
+    "KIHON2": "06",
+    "KEYCODE1": "201135006",
+    "KEYCODE2": "201135006",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "川内町平石夷野",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 134.57953,
+    "Y_CODE": 34.11771,
+    "KCODE1": "1350-06"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          134.57998035120906,
+          34.11755992164423
+        ],
+        [
+          134.57937604311329,
+          34.117393024415634
+        ],
+        [
+          134.57904562075964,
+          34.11785409158074
+        ],
+        [
+          134.57973260530517,
+          34.11806259461327
+        ],
+        [
+          134.57998035120906,
+          34.11755992164423
+        ]
+      ]
+    ]
+  }
+}

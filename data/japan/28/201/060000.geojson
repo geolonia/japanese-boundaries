@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "282010600",
+    "PREF": "28",
+    "CITY": "201",
+    "S_AREA": "060000",
+    "PREF_NAME": "兵庫県",
+    "CITY_NAME": "姫路市",
+    "S_NAME": "天神町",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 1580.075,
+    "PERIMETER": 159.235,
+    "H27KAxx_": 5327,
+    "H27KAxx_ID": 5326,
+    "KEN": "28",
+    "KEN_NAME": "兵庫県",
+    "SITYO_NAME": null,
+    "GST_NAME": "姫路市",
+    "CSS_NAME": null,
+    "KIHON1": "0600",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "201060000",
+    "KEYCODE2": "2010600",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "天神町",
+    "KBSUM": 1,
+    "JINKO": 1,
+    "SETAI": 1,
+    "X_CODE": 134.70506,
+    "Y_CODE": 34.83327,
+    "KCODE1": "0600-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          134.70535624213554,
+          34.83335523054712
+        ],
+        [
+          134.70517293095494,
+          34.83304879433462
+        ],
+        [
+          134.7047668900044,
+          34.83318427809949
+        ],
+        [
+          134.7049235725068,
+          34.83350495268234
+        ],
+        [
+          134.70535624213554,
+          34.83335523054712
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "31201022001",
+    "PREF": "31",
+    "CITY": "201",
+    "S_AREA": "022001",
+    "PREF_NAME": "鳥取県",
+    "CITY_NAME": "鳥取市",
+    "S_NAME": "二階町１丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 10486.657,
+    "PERIMETER": 421.775,
+    "H27KAxx_": 1488,
+    "H27KAxx_ID": 1487,
+    "KEN": "31",
+    "KEN_NAME": "鳥取県",
+    "SITYO_NAME": null,
+    "GST_NAME": "鳥取市",
+    "CSS_NAME": null,
+    "KIHON1": "0220",
+    "DUMMY1": "-",
+    "KIHON2": "01",
+    "KEYCODE1": "201022001",
+    "KEYCODE2": "201022001",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "二階町１丁目",
+    "KBSUM": 1,
+    "JINKO": 75,
+    "SETAI": 30,
+    "X_CODE": 134.23213,
+    "Y_CODE": 35.50036,
+    "KCODE1": "0220-01"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          134.23191640357194,
+          35.50103264249388
+        ],
+        [
+          134.23295500240405,
+          35.500207123274585
+        ],
+        [
+          134.23232835550746,
+          35.49969485629922
+        ],
+        [
+          134.23130378462363,
+          35.50051069937694
+        ],
+        [
+          134.23191640357194,
+          35.50103264249388
+        ]
+      ]
+    ]
+  }
+}

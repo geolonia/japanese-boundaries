@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "11237024000",
+    "PREF": "11",
+    "CITY": "237",
+    "S_AREA": "024000",
+    "PREF_NAME": "埼玉県",
+    "CITY_NAME": "三郷市",
+    "S_NAME": "彦沢",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 2945.849,
+    "PERIMETER": 219.448,
+    "H27KAxx_": 409,
+    "H27KAxx_ID": 408,
+    "KEN": "11",
+    "KEN_NAME": "埼玉県",
+    "SITYO_NAME": null,
+    "GST_NAME": "三郷市",
+    "CSS_NAME": null,
+    "KIHON1": "0240",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "237024000",
+    "KEYCODE2": "237024000",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "彦沢",
+    "KBSUM": 1,
+    "JINKO": 4,
+    "SETAI": 2,
+    "X_CODE": 139.87303,
+    "Y_CODE": 35.83455,
+    "KCODE1": "0240-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          139.87343197664038,
+          35.834408202595235
+        ],
+        [
+          139.87276986695667,
+          35.83427130148626
+        ],
+        [
+          139.87262863012953,
+          35.83468914921731
+        ],
+        [
+          139.8733189375552,
+          35.834810988141165
+        ],
+        [
+          139.87343197664038,
+          35.834408202595235
+        ]
+      ]
+    ]
+  }
+}

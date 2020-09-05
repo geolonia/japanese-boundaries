@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "012350990",
+    "PREF": "01",
+    "CITY": "235",
+    "S_AREA": "099000",
+    "PREF_NAME": "北海道",
+    "CITY_NAME": "石狩市",
+    "S_NAME": "仲町",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 5711.503,
+    "PERIMETER": 302.41,
+    "H27KAxx_": 18900,
+    "H27KAxx_ID": 18899,
+    "KEN": "01",
+    "KEN_NAME": "北海道",
+    "SITYO_NAME": "石狩振興局",
+    "GST_NAME": "石狩市",
+    "CSS_NAME": null,
+    "KIHON1": "0990",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "235099000",
+    "KEYCODE2": "2350990",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "仲町",
+    "KBSUM": 1,
+    "JINKO": 1,
+    "SETAI": 1,
+    "X_CODE": 141.35566,
+    "Y_CODE": 43.24772,
+    "KCODE1": "0990-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          141.3556733404918,
+          43.24819338046537
+        ],
+        [
+          141.35632239598792,
+          43.24768505438806
+        ],
+        [
+          141.35564704313632,
+          43.247235037049506
+        ],
+        [
+          141.35500311732247,
+          43.24775430060845
+        ],
+        [
+          141.3556733404918,
+          43.24819338046537
+        ]
+      ]
+    ]
+  }
+}

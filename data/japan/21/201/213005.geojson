@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "21201213005",
+    "PREF": "21",
+    "CITY": "201",
+    "S_AREA": "213005",
+    "PREF_NAME": "岐阜県",
+    "CITY_NAME": "岐阜市",
+    "S_NAME": "三笠町５丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 5616.939,
+    "PERIMETER": 497.005,
+    "H27KAxx_": 5764,
+    "H27KAxx_ID": 5763,
+    "KEN": "21",
+    "KEN_NAME": "岐阜県",
+    "SITYO_NAME": null,
+    "GST_NAME": "岐阜市",
+    "CSS_NAME": null,
+    "KIHON1": "2130",
+    "DUMMY1": "-",
+    "KIHON2": "05",
+    "KEYCODE1": "201213005",
+    "KEYCODE2": "201213005",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "三笠町５丁目",
+    "KBSUM": 1,
+    "JINKO": 2,
+    "SETAI": 1,
+    "X_CODE": 136.78391,
+    "Y_CODE": 35.41292,
+    "KCODE1": "2130-05"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.78514922487122,
+          35.412978550133396
+        ],
+        [
+          136.78513526837676,
+          35.412754747866224
+        ],
+        [
+          136.7826788360673,
+          35.41286981460004
+        ],
+        [
+          136.78269542766637,
+          35.413098695389195
+        ],
+        [
+          136.78514922487122,
+          35.412978550133396
+        ]
+      ]
+    ]
+  }
+}

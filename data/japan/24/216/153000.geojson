@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "242161530",
+    "PREF": "24",
+    "CITY": "216",
+    "S_AREA": "153000",
+    "PREF_NAME": "三重県",
+    "CITY_NAME": "伊賀市",
+    "S_NAME": "円徳院",
+    "KIGO_E": "E4",
+    "HCODE": 8101,
+    "AREA": 461.56,
+    "PERIMETER": 199.117,
+    "H27KAxx_": 2455,
+    "H27KAxx_ID": 2454,
+    "KEN": "24",
+    "KEN_NAME": "三重県",
+    "SITYO_NAME": null,
+    "GST_NAME": "伊賀市",
+    "CSS_NAME": null,
+    "KIHON1": "1530",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "216153000",
+    "KEYCODE2": "2161530",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "円徳院",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 136.18345,
+    "Y_CODE": 34.80937,
+    "KCODE1": "1530-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.18355539640538,
+          34.80915300654046
+        ],
+        [
+          136.18304343768,
+          34.809005167028864
+        ],
+        [
+          136.18342476586952,
+          34.809171655972
+        ],
+        [
+          136.18340263830092,
+          34.8096501935996
+        ],
+        [
+          136.18355539640538,
+          34.80915300654046
+        ]
+      ]
+    ]
+  }
+}

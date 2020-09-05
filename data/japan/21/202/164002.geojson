@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "21202164002",
+    "PREF": "21",
+    "CITY": "202",
+    "S_AREA": "164002",
+    "PREF_NAME": "岐阜県",
+    "CITY_NAME": "大垣市",
+    "S_NAME": "小野２丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 38781.122,
+    "PERIMETER": 790.273,
+    "H27KAxx_": 58,
+    "H27KAxx_ID": 57,
+    "KEN": "21",
+    "KEN_NAME": "岐阜県",
+    "SITYO_NAME": null,
+    "GST_NAME": "大垣市",
+    "CSS_NAME": null,
+    "KIHON1": "1640",
+    "DUMMY1": "-",
+    "KIHON2": "02",
+    "KEYCODE1": "202164002",
+    "KEYCODE2": "202164002",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "小野２丁目",
+    "KBSUM": 1,
+    "JINKO": 92,
+    "SETAI": 38,
+    "X_CODE": 136.64519,
+    "Y_CODE": 35.36799,
+    "KCODE1": "1640-02"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.6462871034468,
+          35.36889443553334
+        ],
+        [
+          136.6464384598784,
+          35.36726024761918
+        ],
+        [
+          136.6441215815561,
+          35.36709686318818
+        ],
+        [
+          136.64392532671832,
+          35.368726978126986
+        ],
+        [
+          136.6462871034468,
+          35.36889443553334
+        ]
+      ]
+    ]
+  }
+}

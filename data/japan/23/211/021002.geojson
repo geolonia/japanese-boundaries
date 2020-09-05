@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "23211021002",
+    "PREF": "23",
+    "CITY": "211",
+    "S_AREA": "021002",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "豊田市",
+    "S_NAME": "鴻ノ巣町２丁目",
+    "KIGO_E": "E1",
+    "HCODE": 8101,
+    "AREA": 3013.104,
+    "PERIMETER": 279.411,
+    "H27KAxx_": 9303,
+    "H27KAxx_ID": 9302,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "豊田市",
+    "CSS_NAME": null,
+    "KIHON1": "0210",
+    "DUMMY1": "-",
+    "KIHON2": "02",
+    "KEYCODE1": "211021002",
+    "KEYCODE2": "211021002",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "鴻ノ巣町２丁目",
+    "KBSUM": 2,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 137.13868,
+    "Y_CODE": 35.06595,
+    "KCODE1": "0210-02"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.1383487123911,
+          35.06636260143436
+        ],
+        [
+          137.1392531484356,
+          35.06568294151134
+        ],
+        [
+          137.1390290711615,
+          35.06551195594408
+        ],
+        [
+          137.13812436217003,
+          35.06621879958993
+        ],
+        [
+          137.1383487123911,
+          35.06636260143436
+        ]
+      ]
+    ]
+  }
+}

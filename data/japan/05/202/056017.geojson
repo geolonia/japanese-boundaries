@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "05202056017",
+    "PREF": "05",
+    "CITY": "202",
+    "S_AREA": "056017",
+    "PREF_NAME": "秋田県",
+    "CITY_NAME": "能代市",
+    "S_NAME": "落合字大開",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 20378.687,
+    "PERIMETER": 573.908,
+    "H27KAxx_": 3017,
+    "H27KAxx_ID": 3016,
+    "KEN": "05",
+    "KEN_NAME": "秋田県",
+    "SITYO_NAME": null,
+    "GST_NAME": "能代市",
+    "CSS_NAME": null,
+    "KIHON1": "0560",
+    "DUMMY1": "-",
+    "KIHON2": "17",
+    "KEYCODE1": "202056017",
+    "KEYCODE2": "202056017",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "落合字大開",
+    "KBSUM": 1,
+    "JINKO": 100,
+    "SETAI": 1,
+    "X_CODE": 140.0138,
+    "Y_CODE": 40.23836,
+    "KCODE1": "0560-17"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          140.01471656938213,
+          40.23778386113974
+        ],
+        [
+          140.01282965476517,
+          40.237803248286205
+        ],
+        [
+          140.01291310914903,
+          40.238991320421704
+        ],
+        [
+          140.0147272645686,
+          40.23892468147704
+        ],
+        [
+          140.01471656938213,
+          40.23778386113974
+        ]
+      ]
+    ]
+  }
+}

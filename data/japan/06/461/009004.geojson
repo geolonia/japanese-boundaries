@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "06461009004",
+    "PREF": "06",
+    "CITY": "461",
+    "S_AREA": "009004",
+    "PREF_NAME": "山形県",
+    "CITY_NAME": "遊佐町",
+    "S_NAME": "吉出岩野",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 2903.836,
+    "PERIMETER": 216.415,
+    "H27KAxx_": 1723,
+    "H27KAxx_ID": 1722,
+    "KEN": "06",
+    "KEN_NAME": "山形県",
+    "SITYO_NAME": null,
+    "GST_NAME": "飽海郡",
+    "CSS_NAME": "遊佐町",
+    "KIHON1": "0090",
+    "DUMMY1": "-",
+    "KIHON2": "04",
+    "KEYCODE1": "461009004",
+    "KEYCODE2": "461009004",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "吉出岩野",
+    "KBSUM": 1,
+    "JINKO": 3,
+    "SETAI": 1,
+    "X_CODE": 139.9718,
+    "Y_CODE": 39.03645,
+    "KCODE1": "0090-04"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          139.97176890277538,
+          39.03663398346979
+        ],
+        [
+          139.97226411711853,
+          39.03627730636898
+        ],
+        [
+          139.9719074346095,
+          39.03592559557233
+        ],
+        [
+          139.97141235764704,
+          39.03627101704453
+        ],
+        [
+          139.97176890277538,
+          39.03663398346979
+        ]
+      ]
+    ]
+  }
+}

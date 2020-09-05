@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "21213236007",
+    "PREF": "21",
+    "CITY": "213",
+    "S_AREA": "236007",
+    "PREF_NAME": "岐阜県",
+    "CITY_NAME": "各務原市",
+    "S_NAME": "下切町７丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 42119.249,
+    "PERIMETER": 829.156,
+    "H27KAxx_": 2582,
+    "H27KAxx_ID": 2581,
+    "KEN": "21",
+    "KEN_NAME": "岐阜県",
+    "SITYO_NAME": null,
+    "GST_NAME": "各務原市",
+    "CSS_NAME": null,
+    "KIHON1": "2360",
+    "DUMMY1": "-",
+    "KIHON2": "07",
+    "KEYCODE1": "213236007",
+    "KEYCODE2": "213236007",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "下切町７丁目",
+    "KBSUM": 1,
+    "JINKO": 3,
+    "SETAI": 1,
+    "X_CODE": 136.86351,
+    "Y_CODE": 35.38431,
+    "KCODE1": "2360-07"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.86330969628136,
+          35.38563296540418
+        ],
+        [
+          136.86511959381573,
+          35.384117097281944
+        ],
+        [
+          136.86374661250755,
+          35.38298817689823
+        ],
+        [
+          136.8618959005634,
+          35.38450159795703
+        ],
+        [
+          136.86330969628136,
+          35.38563296540418
+        ]
+      ]
+    ]
+  }
+}

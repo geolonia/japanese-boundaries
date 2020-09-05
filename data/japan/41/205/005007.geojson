@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "41205005007",
+    "PREF": "41",
+    "CITY": "205",
+    "S_AREA": "005007",
+    "PREF_NAME": "佐賀県",
+    "CITY_NAME": "伊万里市",
+    "S_NAME": "黒川町小黒川",
+    "KIGO_E": "E2",
+    "HCODE": 8101,
+    "AREA": 5840.515,
+    "PERIMETER": 309.136,
+    "H27KAxx_": 1490,
+    "H27KAxx_ID": 1489,
+    "KEN": "41",
+    "KEN_NAME": "佐賀県",
+    "SITYO_NAME": null,
+    "GST_NAME": "伊万里市",
+    "CSS_NAME": null,
+    "KIHON1": "0050",
+    "DUMMY1": "-",
+    "KIHON2": "07",
+    "KEYCODE1": "205005007",
+    "KEYCODE2": "205005007",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "黒川町小黒川",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 129.84848,
+    "Y_CODE": 33.3261,
+    "KCODE1": "0050-07"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          129.8486148726992,
+          33.32567351699105
+        ],
+        [
+          129.84794642662916,
+          33.32585477619605
+        ],
+        [
+          129.8483395473213,
+          33.326583367092326
+        ],
+        [
+          129.84903885201965,
+          33.326352801830474
+        ],
+        [
+          129.8486148726992,
+          33.32567351699105
+        ]
+      ]
+    ]
+  }
+}

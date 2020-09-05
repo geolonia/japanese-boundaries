@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "11385011005",
+    "PREF": "11",
+    "CITY": "385",
+    "S_AREA": "011005",
+    "PREF_NAME": "埼玉県",
+    "CITY_NAME": "上里町",
+    "S_NAME": "大字嘉美",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 6586.224,
+    "PERIMETER": 341.543,
+    "H27KAxx_": 813,
+    "H27KAxx_ID": 812,
+    "KEN": "11",
+    "KEN_NAME": "埼玉県",
+    "SITYO_NAME": null,
+    "GST_NAME": "児玉郡",
+    "CSS_NAME": "上里町",
+    "KIHON1": "0110",
+    "DUMMY1": "-",
+    "KIHON2": "05",
+    "KEYCODE1": "385011005",
+    "KEYCODE2": "385011005",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "大字嘉美",
+    "KBSUM": 1,
+    "JINKO": 19,
+    "SETAI": 18,
+    "X_CODE": 139.14231,
+    "Y_CODE": 36.22419,
+    "KCODE1": "0110-05"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          139.1419944486006,
+          36.22470943606351
+        ],
+        [
+          139.14299753304567,
+          36.22411441728787
+        ],
+        [
+          139.14263331044003,
+          36.223682294829615
+        ],
+        [
+          139.14161724489688,
+          36.2242666545071
+        ],
+        [
+          139.1419944486006,
+          36.22470943606351
+        ]
+      ]
+    ]
+  }
+}

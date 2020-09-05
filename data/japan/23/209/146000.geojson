@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "232091460",
+    "PREF": "23",
+    "CITY": "209",
+    "S_AREA": "146000",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "碧南市",
+    "S_NAME": "桃山町",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 154560.101,
+    "PERIMETER": 1583.559,
+    "H27KAxx_": 5327,
+    "H27KAxx_ID": 5326,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "碧南市",
+    "CSS_NAME": null,
+    "KIHON1": "1460",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "209146000",
+    "KEYCODE2": "2091460",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "桃山町",
+    "KBSUM": 1,
+    "JINKO": 12,
+    "SETAI": 4,
+    "X_CODE": 137.02326,
+    "Y_CODE": 34.92291,
+    "KCODE1": "1460-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.02327670922702,
+          34.925486020692844
+        ],
+        [
+          137.02629300117155,
+          34.92240625744286
+        ],
+        [
+          137.02345194231867,
+          34.92048902421658
+        ],
+        [
+          137.0201541660686,
+          34.923406506442205
+        ],
+        [
+          137.02327670922702,
+          34.925486020692844
+        ]
+      ]
+    ]
+  }
+}

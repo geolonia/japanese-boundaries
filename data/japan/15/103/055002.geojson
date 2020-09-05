@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "15103055002",
+    "PREF": "15",
+    "CITY": "103",
+    "S_AREA": "055002",
+    "PREF_NAME": "新潟県",
+    "CITY_NAME": "中央区",
+    "S_NAME": "栄町２丁目",
+    "KIGO_E": "E2",
+    "HCODE": 8101,
+    "AREA": 115.274,
+    "PERIMETER": 49.126,
+    "H27KAxx_": 3620,
+    "H27KAxx_ID": 3619,
+    "KEN": "15",
+    "KEN_NAME": "新潟県",
+    "SITYO_NAME": null,
+    "GST_NAME": "新潟市",
+    "CSS_NAME": "中央区",
+    "KIHON1": "0550",
+    "DUMMY1": "-",
+    "KIHON2": "02",
+    "KEYCODE1": "103055002",
+    "KEYCODE2": "103055002",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "栄町２丁目",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 139.04929,
+    "Y_CODE": 37.9348,
+    "KCODE1": "0550-02"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          139.04939830535707,
+          37.9348281315842
+        ],
+        [
+          139.04923511722723,
+          37.93473583799913
+        ],
+        [
+          139.049183565139,
+          37.93477704799212
+        ],
+        [
+          139.04935719433536,
+          37.934874922241406
+        ],
+        [
+          139.04939830535707,
+          37.9348281315842
+        ]
+      ]
+    ]
+  }
+}

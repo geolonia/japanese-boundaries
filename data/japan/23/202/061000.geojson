@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "23202061000",
+    "PREF": "23",
+    "CITY": "202",
+    "S_AREA": "061000",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "岡崎市",
+    "S_NAME": "竜美西１丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 2958.76,
+    "PERIMETER": 227.421,
+    "H27KAxx_": 13481,
+    "H27KAxx_ID": 13480,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "岡崎市",
+    "CSS_NAME": null,
+    "KIHON1": "0610",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "202061000",
+    "KEYCODE2": "202061000",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "竜美西１丁目",
+    "KBSUM": 1,
+    "JINKO": 54,
+    "SETAI": 42,
+    "X_CODE": 137.1694,
+    "Y_CODE": 34.94341,
+    "KCODE1": "0610-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.16968186187248,
+          34.94372580406272
+        ],
+        [
+          137.16955863916138,
+          34.943088492304426
+        ],
+        [
+          137.16919546045722,
+          34.94307721933195
+        ],
+        [
+          137.1691482262572,
+          34.94374192750508
+        ],
+        [
+          137.16968186187248,
+          34.94372580406272
+        ]
+      ]
+    ]
+  }
+}

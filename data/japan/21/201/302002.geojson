@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "21201302002",
+    "PREF": "21",
+    "CITY": "201",
+    "S_AREA": "302002",
+    "PREF_NAME": "岐阜県",
+    "CITY_NAME": "岐阜市",
+    "S_NAME": "葭町２丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 5713.327,
+    "PERIMETER": 340.666,
+    "H27KAxx_": 6421,
+    "H27KAxx_ID": 6420,
+    "KEN": "21",
+    "KEN_NAME": "岐阜県",
+    "SITYO_NAME": null,
+    "GST_NAME": "岐阜市",
+    "CSS_NAME": null,
+    "KIHON1": "3020",
+    "DUMMY1": "-",
+    "KIHON2": "02",
+    "KEYCODE1": "201302002",
+    "KEYCODE2": "201302002",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "葭町２丁目",
+    "KBSUM": 1,
+    "JINKO": 31,
+    "SETAI": 14,
+    "X_CODE": 136.74397,
+    "Y_CODE": 35.41234,
+    "KCODE1": "3020-02"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.74470242829545,
+          35.41237841336768
+        ],
+        [
+          136.74344744348588,
+          35.411932277683135
+        ],
+        [
+          136.74324506404648,
+          35.41230751039142
+        ],
+        [
+          136.74449932488508,
+          35.412761638398706
+        ],
+        [
+          136.74470242829545,
+          35.41237841336768
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "22211191003",
+    "PREF": "22",
+    "CITY": "211",
+    "S_AREA": "191003",
+    "PREF_NAME": "静岡県",
+    "CITY_NAME": "磐田市",
+    "S_NAME": "東原",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 4868.192,
+    "PERIMETER": 289.722,
+    "H27KAxx_": 4533,
+    "H27KAxx_ID": 4532,
+    "KEN": "22",
+    "KEN_NAME": "静岡県",
+    "SITYO_NAME": null,
+    "GST_NAME": "磐田市",
+    "CSS_NAME": null,
+    "KIHON1": "1910",
+    "DUMMY1": "-",
+    "KIHON2": "03",
+    "KEYCODE1": "211191003",
+    "KEYCODE2": "211191003",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "東原",
+    "KBSUM": 1,
+    "JINKO": 40,
+    "SETAI": 1,
+    "X_CODE": 137.8446,
+    "Y_CODE": 34.7431,
+    "KCODE1": "1910-03"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.84476670296667,
+          34.743494672157524
+        ],
+        [
+          137.8450271268447,
+          34.74274530696605
+        ],
+        [
+          137.84445349992453,
+          34.74262319318063
+        ],
+        [
+          137.84418068118603,
+          34.743450525691706
+        ],
+        [
+          137.84476670296667,
+          34.743494672157524
+        ]
+      ]
+    ]
+  }
+}

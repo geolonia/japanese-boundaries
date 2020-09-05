@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "04445011013",
+    "PREF": "04",
+    "CITY": "445",
+    "S_AREA": "011013",
+    "PREF_NAME": "宮城県",
+    "CITY_NAME": "加美町",
+    "S_NAME": "字雁原",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 51880.63,
+    "PERIMETER": 1100.918,
+    "H27KAxx_": 2448,
+    "H27KAxx_ID": 2447,
+    "KEN": "04",
+    "KEN_NAME": "宮城県",
+    "SITYO_NAME": null,
+    "GST_NAME": "加美郡",
+    "CSS_NAME": "加美町",
+    "KIHON1": "0110",
+    "DUMMY1": "-",
+    "KIHON2": "13",
+    "KEYCODE1": "445011013",
+    "KEYCODE2": "445011013",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "字雁原",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 140.87738,
+    "Y_CODE": 38.57183,
+    "KCODE1": "0110-13"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          140.87775287596227,
+          38.57093886424743
+        ],
+        [
+          140.87461450226792,
+          38.57270835990557
+        ],
+        [
+          140.87655544051955,
+          38.57288953554197
+        ],
+        [
+          140.879830107079,
+          38.57317127927328
+        ],
+        [
+          140.87775287596227,
+          38.57093886424743
+        ]
+      ]
+    ]
+  }
+}

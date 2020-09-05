@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "29206063009",
+    "PREF": "29",
+    "CITY": "206",
+    "S_AREA": "063009",
+    "PREF_NAME": "奈良県",
+    "CITY_NAME": "桜井市",
+    "S_NAME": "大字三輪",
+    "KIGO_E": "E1",
+    "HCODE": 8101,
+    "AREA": 1556.141,
+    "PERIMETER": 174.587,
+    "H27KAxx_": 3048,
+    "H27KAxx_ID": 3047,
+    "KEN": "29",
+    "KEN_NAME": "奈良県",
+    "SITYO_NAME": null,
+    "GST_NAME": "桜井市",
+    "CSS_NAME": null,
+    "KIHON1": "0630",
+    "DUMMY1": "-",
+    "KIHON2": "09",
+    "KEYCODE1": "206063009",
+    "KEYCODE2": "206063009",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "大字三輪",
+    "KBSUM": 2,
+    "JINKO": 144,
+    "SETAI": 70,
+    "X_CODE": 135.83501,
+    "Y_CODE": 34.53014,
+    "KCODE1": "0630-09"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.8353250615661,
+          34.53021460946741
+        ],
+        [
+          135.8352597237688,
+          34.52997857120444
+        ],
+        [
+          135.83475955751646,
+          34.53006142993358
+        ],
+        [
+          135.83461426266044,
+          34.53034423273324
+        ],
+        [
+          135.8353250615661,
+          34.53021460946741
+        ]
+      ]
+    ]
+  }
+}

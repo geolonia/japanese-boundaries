@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "26202011052",
+    "PREF": "26",
+    "CITY": "202",
+    "S_AREA": "011052",
+    "PREF_NAME": "京都府",
+    "CITY_NAME": "舞鶴市",
+    "S_NAME": "旧舞鶴関西電力寮西",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 1356.397,
+    "PERIMETER": 155.147,
+    "H27KAxx_": 3124,
+    "H27KAxx_ID": 3123,
+    "KEN": "26",
+    "KEN_NAME": "京都府",
+    "SITYO_NAME": null,
+    "GST_NAME": "舞鶴市",
+    "CSS_NAME": null,
+    "KIHON1": "0110",
+    "DUMMY1": "-",
+    "KIHON2": "52",
+    "KEYCODE1": "202011052",
+    "KEYCODE2": "202011052",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "旧舞鶴関西電力寮西",
+    "KBSUM": 1,
+    "JINKO": 40,
+    "SETAI": 37,
+    "X_CODE": 135.33477,
+    "Y_CODE": 35.44236,
+    "KCODE1": "0110-52"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.33448895735046,
+          35.44247929296733
+        ],
+        [
+          135.3350501707206,
+          35.442482379041635
+        ],
+        [
+          135.3350521400381,
+          35.44224243628195
+        ],
+        [
+          135.33449092832555,
+          35.44223935023543
+        ],
+        [
+          135.33448895735046,
+          35.44247929296733
+        ]
+      ]
+    ]
+  }
+}

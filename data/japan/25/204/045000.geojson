@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "252040450",
+    "PREF": "25",
+    "CITY": "204",
+    "S_AREA": "045000",
+    "PREF_NAME": "滋賀県",
+    "CITY_NAME": "近江八幡市",
+    "S_NAME": "本町",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 10300.789,
+    "PERIMETER": 409.361,
+    "H27KAxx_": 2141,
+    "H27KAxx_ID": 2140,
+    "KEN": "25",
+    "KEN_NAME": "滋賀県",
+    "SITYO_NAME": null,
+    "GST_NAME": "近江八幡市",
+    "CSS_NAME": null,
+    "KIHON1": "0450",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "204045000",
+    "KEYCODE2": "2040450",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "本町",
+    "KBSUM": 1,
+    "JINKO": 55,
+    "SETAI": 19,
+    "X_CODE": 136.08592,
+    "Y_CODE": 35.13935,
+    "KCODE1": "0450-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.0860008342838,
+          35.13998868345747
+        ],
+        [
+          136.08669243801455,
+          35.13913157624629
+        ],
+        [
+          136.08587671476025,
+          35.138706380391966
+        ],
+        [
+          136.08514476162307,
+          35.13956210381993
+        ],
+        [
+          136.0860008342838,
+          35.13998868345747
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "21213141002",
+    "PREF": "21",
+    "CITY": "213",
+    "S_AREA": "141002",
+    "PREF_NAME": "岐阜県",
+    "CITY_NAME": "各務原市",
+    "S_NAME": "那加山下町２丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 90194.678,
+    "PERIMETER": 1264.259,
+    "H27KAxx_": 5579,
+    "H27KAxx_ID": 5578,
+    "KEN": "21",
+    "KEN_NAME": "岐阜県",
+    "SITYO_NAME": null,
+    "GST_NAME": "各務原市",
+    "CSS_NAME": null,
+    "KIHON1": "1410",
+    "DUMMY1": "-",
+    "KIHON2": "02",
+    "KEYCODE1": "213141002",
+    "KEYCODE2": "213141002",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "那加山下町２丁目",
+    "KBSUM": 1,
+    "JINKO": 23,
+    "SETAI": 9,
+    "X_CODE": 136.83402,
+    "Y_CODE": 35.41373,
+    "KCODE1": "1410-02"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.83507120935855,
+          35.41563668506991
+        ],
+        [
+          136.83536485670035,
+          35.411931809556584
+        ],
+        [
+          136.8329863379126,
+          35.41177676645153
+        ],
+        [
+          136.83266891343112,
+          35.41552825759978
+        ],
+        [
+          136.83507120935855,
+          35.41563668506991
+        ]
+      ]
+    ]
+  }
+}

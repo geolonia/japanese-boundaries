@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "29201184000",
+    "PREF": "29",
+    "CITY": "201",
+    "S_AREA": "184000",
+    "PREF_NAME": "奈良県",
+    "CITY_NAME": "奈良市",
+    "S_NAME": "南京終町",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 494.76,
+    "PERIMETER": 97.195,
+    "H27KAxx_": 255,
+    "H27KAxx_ID": 254,
+    "KEN": "29",
+    "KEN_NAME": "奈良県",
+    "SITYO_NAME": null,
+    "GST_NAME": "奈良市",
+    "CSS_NAME": null,
+    "KIHON1": "1840",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "201184000",
+    "KEYCODE2": "201184000",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "南京終町",
+    "KBSUM": 1,
+    "JINKO": 19,
+    "SETAI": 19,
+    "X_CODE": 135.82441,
+    "Y_CODE": 34.66408,
+    "KCODE1": "1840-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.8244916172324,
+          34.664228348942025
+        ],
+        [
+          135.82449126170127,
+          34.66392507110537
+        ],
+        [
+          135.8243518320846,
+          34.663922617078526
+        ],
+        [
+          135.82431266698714,
+          34.66423076764855
+        ],
+        [
+          135.8244916172324,
+          34.664228348942025
+        ]
+      ]
+    ]
+  }
+}

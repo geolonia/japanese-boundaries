@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "23220130309",
+    "PREF": "23",
+    "CITY": "220",
+    "S_AREA": "130309",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "稲沢市",
+    "S_NAME": "大塚北９丁目",
+    "KIGO_E": "E2",
+    "HCODE": 8101,
+    "AREA": 6575.49,
+    "PERIMETER": 334.411,
+    "H27KAxx_": 4758,
+    "H27KAxx_ID": 4757,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "稲沢市",
+    "CSS_NAME": null,
+    "KIHON1": "1303",
+    "DUMMY1": "-",
+    "KIHON2": "09",
+    "KEYCODE1": "220130309",
+    "KEYCODE2": "220130309",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "大塚北９丁目",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 136.8017,
+    "Y_CODE": 35.24245,
+    "KCODE1": "1303-09"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.80226707472514,
+          35.24216187911343
+        ],
+        [
+          136.80114032143675,
+          35.24216567063965
+        ],
+        [
+          136.80112525389876,
+          35.24273352528948
+        ],
+        [
+          136.80228195098894,
+          35.24273489430895
+        ],
+        [
+          136.80226707472514,
+          35.24216187911343
+        ]
+      ]
+    ]
+  }
+}

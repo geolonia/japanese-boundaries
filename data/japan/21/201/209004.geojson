@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "21201209004",
+    "PREF": "21",
+    "CITY": "201",
+    "S_AREA": "209004",
+    "PREF_NAME": "岐阜県",
+    "CITY_NAME": "岐阜市",
+    "S_NAME": "瑞雲町４丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 11649.732,
+    "PERIMETER": 560.716,
+    "H27KAxx_": 66,
+    "H27KAxx_ID": 65,
+    "KEN": "21",
+    "KEN_NAME": "岐阜県",
+    "SITYO_NAME": null,
+    "GST_NAME": "岐阜市",
+    "CSS_NAME": null,
+    "KIHON1": "2090",
+    "DUMMY1": "-",
+    "KIHON2": "04",
+    "KEYCODE1": "201209004",
+    "KEYCODE2": "201209004",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "瑞雲町４丁目",
+    "KBSUM": 1,
+    "JINKO": 32,
+    "SETAI": 15,
+    "X_CODE": 136.78154,
+    "Y_CODE": 35.41505,
+    "KCODE1": "2090-04"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.78280448954567,
+          35.415234232494264
+        ],
+        [
+          136.78279914547687,
+          35.414773812572285
+        ],
+        [
+          136.78021813411917,
+          35.41486316134564
+        ],
+        [
+          136.7803458682653,
+          35.415315978086014
+        ],
+        [
+          136.78280448954567,
+          35.415234232494264
+        ]
+      ]
+    ]
+  }
+}

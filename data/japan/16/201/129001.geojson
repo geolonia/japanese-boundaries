@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "16201129001",
+    "PREF": "16",
+    "CITY": "201",
+    "S_AREA": "129001",
+    "PREF_NAME": "富山県",
+    "CITY_NAME": "富山市",
+    "S_NAME": "東石金町山室",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 926.9,
+    "PERIMETER": 131.718,
+    "H27KAxx_": 3574,
+    "H27KAxx_ID": 3573,
+    "KEN": "16",
+    "KEN_NAME": "富山県",
+    "SITYO_NAME": null,
+    "GST_NAME": "富山市",
+    "CSS_NAME": null,
+    "KIHON1": "1290",
+    "DUMMY1": "-",
+    "KIHON2": "01",
+    "KEYCODE1": "201129001",
+    "KEYCODE2": "201129001",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "東石金町山室",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 137.23958,
+    "Y_CODE": 36.68272,
+    "KCODE1": "1290-01"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.23938884921307,
+          36.68288421860359
+        ],
+        [
+          137.2398577238959,
+          36.68273200127026
+        ],
+        [
+          137.23978104233993,
+          36.68256258152479
+        ],
+        [
+          137.23930298024936,
+          36.68271030000355
+        ],
+        [
+          137.23938884921307,
+          36.68288421860359
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "25202044001",
+    "PREF": "25",
+    "CITY": "202",
+    "S_AREA": "044001",
+    "PREF_NAME": "滋賀県",
+    "CITY_NAME": "彦根市",
+    "S_NAME": "古沢町",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 5471.108,
+    "PERIMETER": 299.991,
+    "H27KAxx_": 1541,
+    "H27KAxx_ID": 1540,
+    "KEN": "25",
+    "KEN_NAME": "滋賀県",
+    "SITYO_NAME": null,
+    "GST_NAME": "彦根市",
+    "CSS_NAME": null,
+    "KIHON1": "0440",
+    "DUMMY1": "-",
+    "KIHON2": "01",
+    "KEYCODE1": "202044001",
+    "KEYCODE2": "202044001",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "古沢町",
+    "KBSUM": 1,
+    "JINKO": 69,
+    "SETAI": 21,
+    "X_CODE": 136.26216,
+    "Y_CODE": 35.27822,
+    "KCODE1": "0440-01"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.26202359454,
+          35.27881484152254
+        ],
+        [
+          136.2626729126474,
+          35.278330401669635
+        ],
+        [
+          136.26226291084703,
+          35.277788273003296
+        ],
+        [
+          136.2616669857206,
+          35.27811470149535
+        ],
+        [
+          136.26202359454,
+          35.27881484152254
+        ]
+      ]
+    ]
+  }
+}

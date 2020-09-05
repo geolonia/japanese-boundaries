@@ -1,0 +1,63 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "01101790812",
+    "PREF": "01",
+    "CITY": "101",
+    "S_AREA": "790812",
+    "PREF_NAME": "北海道",
+    "CITY_NAME": "中央区",
+    "S_NAME": "北八条西１２丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 4750.031,
+    "PERIMETER": 332.589,
+    "H27KAxx_": 9788,
+    "H27KAxx_ID": 9787,
+    "KEN": "01",
+    "KEN_NAME": "北海道",
+    "SITYO_NAME": "石狩振興局",
+    "GST_NAME": "札幌市",
+    "CSS_NAME": "中央区",
+    "KIHON1": "7908",
+    "DUMMY1": "-",
+    "KIHON2": "12",
+    "KEYCODE1": "101790812",
+    "KEYCODE2": "101790812",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "北八条西１２丁目",
+    "KBSUM": 1,
+    "JINKO": 12,
+    "SETAI": 1,
+    "X_CODE": 141.33603,
+    "Y_CODE": 43.06879,
+    "KCODE1": "7908-12"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          141.33709627038758,
+          43.068500366222004
+        ],
+        [
+          141.33580377757596,
+          43.06831189258494
+        ],
+        [
+          141.33562995929134,
+          43.069098893478625
+        ],
+        [
+          141.33709627038758,
+          43.068500366222004
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "23210042004",
+    "PREF": "23",
+    "CITY": "210",
+    "S_AREA": "042004",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "刈谷市",
+    "S_NAME": "稲場町４丁目",
+    "KIGO_E": "E1",
+    "HCODE": 8101,
+    "AREA": 6624.062,
+    "PERIMETER": 364.569,
+    "H27KAxx_": 13922,
+    "H27KAxx_ID": 13921,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "刈谷市",
+    "CSS_NAME": null,
+    "KIHON1": "0420",
+    "DUMMY1": "-",
+    "KIHON2": "04",
+    "KEYCODE1": "210042004",
+    "KEYCODE2": "210042004",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "稲場町４丁目",
+    "KBSUM": 2,
+    "JINKO": 173,
+    "SETAI": 67,
+    "X_CODE": 136.99811,
+    "Y_CODE": 35.00512,
+    "KCODE1": "0420-04"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.99737225238846,
+          35.005337635229864
+        ],
+        [
+          136.9988165455307,
+          35.005347126524946
+        ],
+        [
+          136.99884236514325,
+          35.00488959924231
+        ],
+        [
+          136.997392022246,
+          35.004891227933676
+        ],
+        [
+          136.99737225238846,
+          35.005337635229864
+        ]
+      ]
+    ]
+  }
+}

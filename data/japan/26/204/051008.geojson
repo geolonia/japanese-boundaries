@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "26204051008",
+    "PREF": "26",
+    "CITY": "204",
+    "S_AREA": "051008",
+    "PREF_NAME": "京都府",
+    "CITY_NAME": "宇治市",
+    "S_NAME": "大久保町成手",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 4294.286,
+    "PERIMETER": 287.296,
+    "H27KAxx_": 4878,
+    "H27KAxx_ID": 4877,
+    "KEN": "26",
+    "KEN_NAME": "京都府",
+    "SITYO_NAME": null,
+    "GST_NAME": "宇治市",
+    "CSS_NAME": null,
+    "KIHON1": "0510",
+    "DUMMY1": "-",
+    "KIHON2": "08",
+    "KEYCODE1": "204051008",
+    "KEYCODE2": "204051008",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "大久保町成手",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 135.7708,
+    "Y_CODE": 34.87729,
+    "KCODE1": "0510-08"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.77108074345765,
+          34.87770661245972
+        ],
+        [
+          135.77098758607985,
+          34.876843842977756
+        ],
+        [
+          135.77053286635578,
+          34.876871242252506
+        ],
+        [
+          135.7706104951098,
+          34.87781476171093
+        ],
+        [
+          135.77108074345765,
+          34.87770661245972
+        ]
+      ]
+    ]
+  }
+}

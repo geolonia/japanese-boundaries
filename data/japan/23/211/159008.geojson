@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "23211159008",
+    "PREF": "23",
+    "CITY": "211",
+    "S_AREA": "159008",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "豊田市",
+    "S_NAME": "大林町８丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 5274.797,
+    "PERIMETER": 298.919,
+    "H27KAxx_": 1198,
+    "H27KAxx_ID": 1197,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "豊田市",
+    "CSS_NAME": null,
+    "KIHON1": "1590",
+    "DUMMY1": "-",
+    "KIHON2": "08",
+    "KEYCODE1": "211159008",
+    "KEYCODE2": "211159008",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "大林町８丁目",
+    "KBSUM": 1,
+    "JINKO": 27,
+    "SETAI": 15,
+    "X_CODE": 137.13635,
+    "Y_CODE": 35.0408,
+    "KCODE1": "1590-08"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.13693989081042,
+          35.040690832569695
+        ],
+        [
+          137.1359873974554,
+          35.04042752565833
+        ],
+        [
+          137.13576596881506,
+          35.040905522927694
+        ],
+        [
+          137.13672763912464,
+          35.04118010354342
+        ],
+        [
+          137.13693989081042,
+          35.040690832569695
+        ]
+      ]
+    ]
+  }
+}

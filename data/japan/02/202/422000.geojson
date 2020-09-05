@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "022024220",
+    "PREF": "02",
+    "CITY": "202",
+    "S_AREA": "422000",
+    "PREF_NAME": "青森県",
+    "CITY_NAME": "弘前市",
+    "S_NAME": "大字昴",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 60107.583,
+    "PERIMETER": 991.728,
+    "H27KAxx_": 2177,
+    "H27KAxx_ID": 2176,
+    "KEN": "02",
+    "KEN_NAME": "青森県",
+    "SITYO_NAME": null,
+    "GST_NAME": "弘前市",
+    "CSS_NAME": null,
+    "KIHON1": "4220",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "202422000",
+    "KEYCODE2": "2024220",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "大字昴",
+    "KBSUM": 1,
+    "JINKO": 265,
+    "SETAI": 88,
+    "X_CODE": 140.40805,
+    "Y_CODE": 40.58777,
+    "KCODE1": "4220-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          140.40941139119016,
+          40.58898484179017
+        ],
+        [
+          140.40918008304004,
+          40.58639578238662
+        ],
+        [
+          140.4066818197612,
+          40.58655963022607
+        ],
+        [
+          140.40693406126908,
+          40.58908586649498
+        ],
+        [
+          140.40941139119016,
+          40.58898484179017
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "26109029005",
+    "PREF": "26",
+    "CITY": "109",
+    "S_AREA": "029005",
+    "PREF_NAME": "京都府",
+    "CITY_NAME": "伏見区",
+    "S_NAME": "池田小栗栖小阪町",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 986.923,
+    "PERIMETER": 165.518,
+    "H27KAxx_": 8290,
+    "H27KAxx_ID": 8289,
+    "KEN": "26",
+    "KEN_NAME": "京都府",
+    "SITYO_NAME": null,
+    "GST_NAME": "京都市",
+    "CSS_NAME": "伏見区",
+    "KIHON1": "0290",
+    "DUMMY1": "-",
+    "KIHON2": "05",
+    "KEYCODE1": "109029005",
+    "KEYCODE2": "109029005",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "池田小栗栖小阪町",
+    "KBSUM": 1,
+    "JINKO": 2,
+    "SETAI": 1,
+    "X_CODE": 135.80335,
+    "Y_CODE": 34.94637,
+    "KCODE1": "0290-05"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.803415945656,
+          34.94614754833499
+        ],
+        [
+          135.80299773411562,
+          34.946094891388384
+        ],
+        [
+          135.8034890740901,
+          34.946622572353824
+        ],
+        [
+          135.803415945656,
+          34.94614754833499
+        ]
+      ]
+    ]
+  }
+}

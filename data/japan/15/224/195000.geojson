@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "152241950",
+    "PREF": "15",
+    "CITY": "224",
+    "S_AREA": "195000",
+    "PREF_NAME": "新潟県",
+    "CITY_NAME": "佐渡市",
+    "S_NAME": "下新穂",
+    "KIGO_E": "E3",
+    "HCODE": 8101,
+    "AREA": 3950.384,
+    "PERIMETER": 252.645,
+    "H27KAxx_": 2529,
+    "H27KAxx_ID": 2528,
+    "KEN": "15",
+    "KEN_NAME": "新潟県",
+    "SITYO_NAME": null,
+    "GST_NAME": "佐渡市",
+    "CSS_NAME": null,
+    "KIHON1": "1950",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "224195000",
+    "KEYCODE2": "2241950",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "下新穂",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 138.41785,
+    "Y_CODE": 38.01423,
+    "KCODE1": "1950-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          138.4175268534037,
+          38.01453660886655
+        ],
+        [
+          138.4181737468081,
+          38.01454325284463
+        ],
+        [
+          138.41818058983165,
+          38.01391142649376
+        ],
+        [
+          138.41753031764895,
+          38.01391843585321
+        ],
+        [
+          138.4175268534037,
+          38.01453660886655
+        ]
+      ]
+    ]
+  }
+}

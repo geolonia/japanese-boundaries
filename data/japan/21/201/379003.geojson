@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "21201379003",
+    "PREF": "21",
+    "CITY": "201",
+    "S_AREA": "379003",
+    "PREF_NAME": "岐阜県",
+    "CITY_NAME": "岐阜市",
+    "S_NAME": "平和通３丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 3124.876,
+    "PERIMETER": 291.212,
+    "H27KAxx_": 5219,
+    "H27KAxx_ID": 5218,
+    "KEN": "21",
+    "KEN_NAME": "岐阜県",
+    "SITYO_NAME": null,
+    "GST_NAME": "岐阜市",
+    "CSS_NAME": null,
+    "KIHON1": "3790",
+    "DUMMY1": "-",
+    "KIHON2": "03",
+    "KEYCODE1": "201379003",
+    "KEYCODE2": "201379003",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "平和通３丁目",
+    "KBSUM": 1,
+    "JINKO": 20,
+    "SETAI": 8,
+    "X_CODE": 136.76842,
+    "Y_CODE": 35.44684,
+    "KCODE1": "3790-03"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.7690919703027,
+          35.446872201494465
+        ],
+        [
+          136.76905385983648,
+          35.446633176612494
+        ],
+        [
+          136.76775617760688,
+          35.446811978929325
+        ],
+        [
+          136.7677930860821,
+          35.44704089452732
+        ],
+        [
+          136.7690919703027,
+          35.446872201494465
+        ]
+      ]
+    ]
+  }
+}

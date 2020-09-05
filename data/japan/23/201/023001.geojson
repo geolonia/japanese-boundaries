@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "232010230",
+    "PREF": "23",
+    "CITY": "201",
+    "S_AREA": "023001",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "豊橋市",
+    "S_NAME": "市場",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 2601.729,
+    "PERIMETER": 231.237,
+    "H27KAxx_": 10943,
+    "H27KAxx_ID": 10942,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "豊橋市",
+    "CSS_NAME": null,
+    "KIHON1": "0230",
+    "DUMMY1": "-",
+    "KIHON2": "01",
+    "KEYCODE1": "201023001",
+    "KEYCODE2": "2010230",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "市場",
+    "KBSUM": 1,
+    "JINKO": 3,
+    "SETAI": 2,
+    "X_CODE": 137.35968,
+    "Y_CODE": 34.75004,
+    "KCODE1": "0230-01"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.36011838427254,
+          34.75004439014122
+        ],
+        [
+          137.35920050614317,
+          34.74974905346238
+        ],
+        [
+          137.35925081397593,
+          34.75003618386927
+        ],
+        [
+          137.35993227791084,
+          34.75034654308481
+        ],
+        [
+          137.36011838427254,
+          34.75004439014122
+        ]
+      ]
+    ]
+  }
+}

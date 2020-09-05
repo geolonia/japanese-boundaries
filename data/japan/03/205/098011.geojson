@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "03205098011",
+    "PREF": "03",
+    "CITY": "205",
+    "S_AREA": "098011",
+    "PREF_NAME": "岩手県",
+    "CITY_NAME": "花巻市",
+    "S_NAME": "栃内",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 76307.743,
+    "PERIMETER": 1144.906,
+    "H27KAxx_": 3774,
+    "H27KAxx_ID": 3773,
+    "KEN": "03",
+    "KEN_NAME": "岩手県",
+    "SITYO_NAME": null,
+    "GST_NAME": "花巻市",
+    "CSS_NAME": null,
+    "KIHON1": "0980",
+    "DUMMY1": "-",
+    "KIHON2": "11",
+    "KEYCODE1": "205098011",
+    "KEYCODE2": "205098011",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "栃内",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 141.02335,
+    "Y_CODE": 39.3623,
+    "KCODE1": "0980-11"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          141.02575613304847,
+          39.36250495547995
+        ],
+        [
+          141.02475717970734,
+          39.360763972779345
+        ],
+        [
+          141.0209470578314,
+          39.36208763403414
+        ],
+        [
+          141.02191290411957,
+          39.36383448694122
+        ],
+        [
+          141.02575613304847,
+          39.36250495547995
+        ]
+      ]
+    ]
+  }
+}

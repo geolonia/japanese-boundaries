@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "22211165001",
+    "PREF": "22",
+    "CITY": "211",
+    "S_AREA": "165001",
+    "PREF_NAME": "静岡県",
+    "CITY_NAME": "磐田市",
+    "S_NAME": "東平松工専",
+    "KIGO_E": "E1",
+    "HCODE": 8101,
+    "AREA": 41062.654,
+    "PERIMETER": 924.265,
+    "H27KAxx_": 3505,
+    "H27KAxx_ID": 3504,
+    "KEN": "22",
+    "KEN_NAME": "静岡県",
+    "SITYO_NAME": null,
+    "GST_NAME": "磐田市",
+    "CSS_NAME": null,
+    "KIHON1": "1650",
+    "DUMMY1": "-",
+    "KIHON2": "01",
+    "KEYCODE1": "211165001",
+    "KEYCODE2": "211165001",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "東平松工専",
+    "KBSUM": 2,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 137.83142,
+    "Y_CODE": 34.66418,
+    "KCODE1": "1650-01"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.83138679773236,
+          34.66582473260729
+        ],
+        [
+          137.83267324620215,
+          34.66293602399084
+        ],
+        [
+          137.83145234068007,
+          34.66253012247172
+        ],
+        [
+          137.8301718462008,
+          34.665431949680034
+        ],
+        [
+          137.83138679773236,
+          34.66582473260729
+        ]
+      ]
+    ]
+  }
+}

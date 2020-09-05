@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "26210604032",
+    "PREF": "26",
+    "CITY": "210",
+    "S_AREA": "604032",
+    "PREF_NAME": "京都府",
+    "CITY_NAME": "八幡市",
+    "S_NAME": "内里（有都）丸林",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 34666.857,
+    "PERIMETER": 750.624,
+    "H27KAxx_": 2733,
+    "H27KAxx_ID": 2732,
+    "KEN": "26",
+    "KEN_NAME": "京都府",
+    "SITYO_NAME": null,
+    "GST_NAME": "八幡市",
+    "CSS_NAME": null,
+    "KIHON1": "6040",
+    "DUMMY1": "-",
+    "KIHON2": "32",
+    "KEYCODE1": "210604032",
+    "KEYCODE2": "210604032",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "内里（有都）丸林",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 135.72332,
+    "Y_CODE": 34.85421,
+    "KCODE1": "6040-32"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.72424016992636,
+          34.855159435242086
+        ],
+        [
+          135.72420112159958,
+          34.85324519299303
+        ],
+        [
+          135.72241722370555,
+          34.8532695279197
+        ],
+        [
+          135.72243102032027,
+          34.8551596976522
+        ],
+        [
+          135.72424016992636,
+          34.855159435242086
+        ]
+      ]
+    ]
+  }
+}

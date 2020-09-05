@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "045810220",
+    "PREF": "04",
+    "CITY": "581",
+    "S_AREA": "022001",
+    "PREF_NAME": "宮城県",
+    "CITY_NAME": "女川町",
+    "S_NAME": "野々浜",
+    "KIGO_E": "E2",
+    "HCODE": 8101,
+    "AREA": 720.554,
+    "PERIMETER": 107.847,
+    "H27KAxx_": 1519,
+    "H27KAxx_ID": 1518,
+    "KEN": "04",
+    "KEN_NAME": "宮城県",
+    "SITYO_NAME": null,
+    "GST_NAME": "牡鹿郡",
+    "CSS_NAME": "女川町",
+    "KIHON1": "0220",
+    "DUMMY1": "-",
+    "KIHON2": "01",
+    "KEYCODE1": "581022001",
+    "KEYCODE2": "5810220",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "野々浜",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 141.49143,
+    "Y_CODE": 38.40394,
+    "KCODE1": "0220-01"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          141.4916361256722,
+          38.403863427242385
+        ],
+        [
+          141.49137619208645,
+          38.40376119729486
+        ],
+        [
+          141.49123766993378,
+          38.404009764542
+        ],
+        [
+          141.49148825944445,
+          38.40409309447044
+        ],
+        [
+          141.4916361256722,
+          38.403863427242385
+        ]
+      ]
+    ]
+  }
+}

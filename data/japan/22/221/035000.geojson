@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "222210350",
+    "PREF": "22",
+    "CITY": "221",
+    "S_AREA": "035000",
+    "PREF_NAME": "静岡県",
+    "CITY_NAME": "湖西市",
+    "S_NAME": "新所・岡崎・梅田入会地",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 4385.744,
+    "PERIMETER": 279.418,
+    "H27KAxx_": 3557,
+    "H27KAxx_ID": 3556,
+    "KEN": "22",
+    "KEN_NAME": "静岡県",
+    "SITYO_NAME": null,
+    "GST_NAME": "湖西市",
+    "CSS_NAME": null,
+    "KIHON1": "0350",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "221035000",
+    "KEYCODE2": "2210350",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "新所・岡崎・梅田入会地",
+    "KBSUM": 1,
+    "JINKO": 48,
+    "SETAI": 1,
+    "X_CODE": 137.50118,
+    "Y_CODE": 34.716,
+    "KCODE1": "0350-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.50089210210623,
+          34.716179817265825
+        ],
+        [
+          137.50175053239897,
+          34.71628827095542
+        ],
+        [
+          137.50131738224226,
+          34.715561305256664
+        ],
+        [
+          137.50067368031168,
+          34.71582476892716
+        ],
+        [
+          137.50089210210623,
+          34.716179817265825
+        ]
+      ]
+    ]
+  }
+}

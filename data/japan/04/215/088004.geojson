@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "04215088004",
+    "PREF": "04",
+    "CITY": "215",
+    "S_AREA": "088004",
+    "PREF_NAME": "宮城県",
+    "CITY_NAME": "大崎市",
+    "S_NAME": "古川堤根字竪堀",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 1063.503,
+    "PERIMETER": 132.189,
+    "H27KAxx_": 2765,
+    "H27KAxx_ID": 2764,
+    "KEN": "04",
+    "KEN_NAME": "宮城県",
+    "SITYO_NAME": null,
+    "GST_NAME": "大崎市",
+    "CSS_NAME": null,
+    "KIHON1": "0880",
+    "DUMMY1": "-",
+    "KIHON2": "04",
+    "KEYCODE1": "215088004",
+    "KEYCODE2": "215088004",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "古川堤根字竪堀",
+    "KBSUM": 1,
+    "JINKO": 2,
+    "SETAI": 1,
+    "X_CODE": 140.91677,
+    "Y_CODE": 38.54892,
+    "KCODE1": "0880-04"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          140.9169622353042,
+          38.54871487031573
+        ],
+        [
+          140.91655312583873,
+          38.54881554854302
+        ],
+        [
+          140.91657841347737,
+          38.54902886677945
+        ],
+        [
+          140.9169883675009,
+          38.54903226905303
+        ],
+        [
+          140.9169622353042,
+          38.54871487031573
+        ]
+      ]
+    ]
+  }
+}

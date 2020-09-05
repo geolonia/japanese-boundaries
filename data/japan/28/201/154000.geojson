@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "282011540",
+    "PREF": "28",
+    "CITY": "201",
+    "S_AREA": "154000",
+    "PREF_NAME": "兵庫県",
+    "CITY_NAME": "姫路市",
+    "S_NAME": "上片町",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 2900.167,
+    "PERIMETER": 240.135,
+    "H27KAxx_": 7516,
+    "H27KAxx_ID": 7515,
+    "KEN": "28",
+    "KEN_NAME": "兵庫県",
+    "SITYO_NAME": null,
+    "GST_NAME": "姫路市",
+    "CSS_NAME": null,
+    "KIHON1": "1540",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "201154000",
+    "KEYCODE2": "2011540",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "上片町",
+    "KBSUM": 1,
+    "JINKO": 11,
+    "SETAI": 2,
+    "X_CODE": 134.68541,
+    "Y_CODE": 34.83512,
+    "KCODE1": "1540-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          134.68569759745034,
+          34.8354507276148
+        ],
+        [
+          134.68547962028865,
+          34.83469756578817
+        ],
+        [
+          134.6851071787517,
+          34.83478182391055
+        ],
+        [
+          134.68536648390128,
+          34.83553768337828
+        ],
+        [
+          134.68569759745034,
+          34.8354507276148
+        ]
+      ]
+    ]
+  }
+}

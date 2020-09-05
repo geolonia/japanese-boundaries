@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "33214137033",
+    "PREF": "33",
+    "CITY": "214",
+    "S_AREA": "137033",
+    "PREF_NAME": "岡山県",
+    "CITY_NAME": "真庭市",
+    "S_NAME": "宮地",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 3838.499,
+    "PERIMETER": 249.813,
+    "H27KAxx_": 2646,
+    "H27KAxx_ID": 2645,
+    "KEN": "33",
+    "KEN_NAME": "岡山県",
+    "SITYO_NAME": null,
+    "GST_NAME": "真庭市",
+    "CSS_NAME": null,
+    "KIHON1": "1370",
+    "DUMMY1": "-",
+    "KIHON2": "33",
+    "KEYCODE1": "214137033",
+    "KEYCODE2": "214137033",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "宮地",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 133.67634,
+    "Y_CODE": 34.97696,
+    "KCODE1": "1370-33"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          133.67677964436356,
+          34.97716147750442
+        ],
+        [
+          133.67644726027825,
+          34.9765801932082
+        ],
+        [
+          133.6759158050676,
+          34.97676635797751
+        ],
+        [
+          133.67619539403043,
+          34.977342357997756
+        ],
+        [
+          133.67677964436356,
+          34.97716147750442
+        ]
+      ]
+    ]
+  }
+}

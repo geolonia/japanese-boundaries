@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "33214100002",
+    "PREF": "33",
+    "CITY": "214",
+    "S_AREA": "100002",
+    "PREF_NAME": "岡山県",
+    "CITY_NAME": "真庭市",
+    "S_NAME": "目木",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 4705.612,
+    "PERIMETER": 292.244,
+    "H27KAxx_": 1989,
+    "H27KAxx_ID": 1988,
+    "KEN": "33",
+    "KEN_NAME": "岡山県",
+    "SITYO_NAME": null,
+    "GST_NAME": "真庭市",
+    "CSS_NAME": null,
+    "KIHON1": "1000",
+    "DUMMY1": "-",
+    "KIHON2": "02",
+    "KEYCODE1": "214100002",
+    "KEYCODE2": "214100002",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "目木",
+    "KBSUM": 1,
+    "JINKO": 69,
+    "SETAI": 32,
+    "X_CODE": 133.77112,
+    "Y_CODE": 35.07726,
+    "KCODE1": "1000-02"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          133.77161015656375,
+          35.07692463911153
+        ],
+        [
+          133.77044675933706,
+          35.07709787766487
+        ],
+        [
+          133.77090843498155,
+          35.077520874006815
+        ],
+        [
+          133.77161538622485,
+          35.07743060537243
+        ],
+        [
+          133.77161015656375,
+          35.07692463911153
+        ]
+      ]
+    ]
+  }
+}

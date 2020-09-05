@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "26203010025",
+    "PREF": "26",
+    "CITY": "203",
+    "S_AREA": "010025",
+    "PREF_NAME": "京都府",
+    "CITY_NAME": "綾部市",
+    "S_NAME": "豊里鍛治屋",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 4959.112,
+    "PERIMETER": 283.035,
+    "H27KAxx_": 6992,
+    "H27KAxx_ID": 6991,
+    "KEN": "26",
+    "KEN_NAME": "京都府",
+    "SITYO_NAME": null,
+    "GST_NAME": "綾部市",
+    "CSS_NAME": null,
+    "KIHON1": "0100",
+    "DUMMY1": "-",
+    "KIHON2": "25",
+    "KEYCODE1": "203010025",
+    "KEYCODE2": "203010025",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "豊里鍛治屋",
+    "KBSUM": 1,
+    "JINKO": 167,
+    "SETAI": 3,
+    "X_CODE": 135.20538,
+    "Y_CODE": 35.34401,
+    "KCODE1": "0100-25"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.20521242436277,
+          35.343596583156845
+        ],
+        [
+          135.20485007088993,
+          35.344089954099715
+        ],
+        [
+          135.20558885393575,
+          35.34447788908573
+        ],
+        [
+          135.20589675274573,
+          35.343927823070764
+        ],
+        [
+          135.20521242436277,
+          35.343596583156845
+        ]
+      ]
+    ]
+  }
+}

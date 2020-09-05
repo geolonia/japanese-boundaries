@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "151080020",
+    "PREF": "15",
+    "CITY": "108",
+    "S_AREA": "002000",
+    "PREF_NAME": "新潟県",
+    "CITY_NAME": "西蒲区",
+    "S_NAME": "味方",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 4172.243,
+    "PERIMETER": 259.845,
+    "H27KAxx_": 5660,
+    "H27KAxx_ID": 5659,
+    "KEN": "15",
+    "KEN_NAME": "新潟県",
+    "SITYO_NAME": null,
+    "GST_NAME": "新潟市",
+    "CSS_NAME": "西蒲区",
+    "KIHON1": "0020",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "108002000",
+    "KEYCODE2": "1080020",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "味方",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 138.97905,
+    "Y_CODE": 37.78904,
+    "KCODE1": "0020-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          138.97934290658637,
+          37.788687660162985
+        ],
+        [
+          138.97856373981836,
+          37.78889004453838
+        ],
+        [
+          138.97875914715814,
+          37.78938411131534
+        ],
+        [
+          138.97953445266296,
+          37.78919427105218
+        ],
+        [
+          138.97934290658637,
+          37.788687660162985
+        ]
+      ]
+    ]
+  }
+}

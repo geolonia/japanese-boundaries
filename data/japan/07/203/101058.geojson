@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "07203101058",
+    "PREF": "07",
+    "CITY": "203",
+    "S_AREA": "101058",
+    "PREF_NAME": "福島県",
+    "CITY_NAME": "郡山市",
+    "S_NAME": "安積町荒井字火口内",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 934.938,
+    "PERIMETER": 141.216,
+    "H27KAxx_": 5176,
+    "H27KAxx_ID": 5175,
+    "KEN": "07",
+    "KEN_NAME": "福島県",
+    "SITYO_NAME": null,
+    "GST_NAME": "郡山市",
+    "CSS_NAME": null,
+    "KIHON1": "1010",
+    "DUMMY1": "-",
+    "KIHON2": "58",
+    "KEYCODE1": "203101058",
+    "KEYCODE2": "203101058",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "安積町荒井字火口内",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 140.34466,
+    "Y_CODE": 37.37328,
+    "KCODE1": "1010-58"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          140.34489770300567,
+          37.373426978172255
+        ],
+        [
+          140.34479460223125,
+          37.37308331157828
+        ],
+        [
+          140.34431403456642,
+          37.373210410255545
+        ],
+        [
+          140.34462844590405,
+          37.373347601210845
+        ],
+        [
+          140.34489770300567,
+          37.373426978172255
+        ]
+      ]
+    ]
+  }
+}

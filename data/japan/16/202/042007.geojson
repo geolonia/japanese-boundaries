@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "16202042007",
+    "PREF": "16",
+    "CITY": "202",
+    "S_AREA": "042007",
+    "PREF_NAME": "富山県",
+    "CITY_NAME": "高岡市",
+    "S_NAME": "御旅屋町大福院",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 357.701,
+    "PERIMETER": 82.234,
+    "H27KAxx_": 1816,
+    "H27KAxx_ID": 1815,
+    "KEN": "16",
+    "KEN_NAME": "富山県",
+    "SITYO_NAME": null,
+    "GST_NAME": "高岡市",
+    "CSS_NAME": null,
+    "KIHON1": "0420",
+    "DUMMY1": "-",
+    "KIHON2": "07",
+    "KEYCODE1": "202042007",
+    "KEYCODE2": "202042007",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "御旅屋町大福院",
+    "KBSUM": 1,
+    "JINKO": 1,
+    "SETAI": 1,
+    "X_CODE": 137.0142,
+    "Y_CODE": 36.74605,
+    "KCODE1": "0420-07"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.0143467664816,
+          36.745966173206284
+        ],
+        [
+          137.01420777024325,
+          36.74590536451466
+        ],
+        [
+          137.01407040082307,
+          36.74613998919528
+        ],
+        [
+          137.01418019716442,
+          36.74618395183828
+        ],
+        [
+          137.0143467664816,
+          36.745966173206284
+        ]
+      ]
+    ]
+  }
+}

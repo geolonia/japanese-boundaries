@@ -1,0 +1,63 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "28107031005",
+    "PREF": "28",
+    "CITY": "107",
+    "S_AREA": "031005",
+    "PREF_NAME": "兵庫県",
+    "CITY_NAME": "須磨区",
+    "S_NAME": "須磨寺町５丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 15579.953,
+    "PERIMETER": 569.538,
+    "H27KAxx_": 8070,
+    "H27KAxx_ID": 8069,
+    "KEN": "28",
+    "KEN_NAME": "兵庫県",
+    "SITYO_NAME": null,
+    "GST_NAME": "神戸市",
+    "CSS_NAME": "須磨区",
+    "KIHON1": "0310",
+    "DUMMY1": "-",
+    "KIHON2": "05",
+    "KEYCODE1": "107031005",
+    "KEYCODE2": "107031005",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "須磨寺町５丁目",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 135.11005,
+    "Y_CODE": 34.64962,
+    "KCODE1": "0310-05"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.11133885091004,
+          34.65016933826193
+        ],
+        [
+          135.1096785065194,
+          34.649055321276116
+        ],
+        [
+          135.10939944265377,
+          34.65071358205762
+        ],
+        [
+          135.11133885091004,
+          34.65016933826193
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "38214082008",
+    "PREF": "38",
+    "CITY": "214",
+    "S_AREA": "082008",
+    "PREF_NAME": "愛媛県",
+    "CITY_NAME": "西予市",
+    "S_NAME": "城川町魚成",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 10798.974,
+    "PERIMETER": 421.261,
+    "H27KAxx_": 1850,
+    "H27KAxx_ID": 1849,
+    "KEN": "38",
+    "KEN_NAME": "愛媛県",
+    "SITYO_NAME": null,
+    "GST_NAME": "西予市",
+    "CSS_NAME": null,
+    "KIHON1": "0820",
+    "DUMMY1": "-",
+    "KIHON2": "08",
+    "KEYCODE1": "214082008",
+    "KEYCODE2": "214082008",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "城川町魚成",
+    "KBSUM": 1,
+    "JINKO": 50,
+    "SETAI": 1,
+    "X_CODE": 132.73094,
+    "Y_CODE": 33.38001,
+    "KCODE1": "0820-08"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          132.73172765116763,
+          33.380185333140865
+        ],
+        [
+          132.7308966216653,
+          33.379329669250076
+        ],
+        [
+          132.73016163421894,
+          33.379832113712645
+        ],
+        [
+          132.73099266224557,
+          33.38068778424809
+        ],
+        [
+          132.73172765116763,
+          33.380185333140865
+        ]
+      ]
+    ]
+  }
+}

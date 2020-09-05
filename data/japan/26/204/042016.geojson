@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "26204042016",
+    "PREF": "26",
+    "CITY": "204",
+    "S_AREA": "042016",
+    "PREF_NAME": "京都府",
+    "CITY_NAME": "宇治市",
+    "S_NAME": "伊勢田町東遊田",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 98970.587,
+    "PERIMETER": 1262.484,
+    "H27KAxx_": 6390,
+    "H27KAxx_ID": 6389,
+    "KEN": "26",
+    "KEN_NAME": "京都府",
+    "SITYO_NAME": null,
+    "GST_NAME": "宇治市",
+    "CSS_NAME": null,
+    "KIHON1": "0420",
+    "DUMMY1": "-",
+    "KIHON2": "16",
+    "KEYCODE1": "204042016",
+    "KEYCODE2": "204042016",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "伊勢田町東遊田",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 135.76925,
+    "Y_CODE": 34.89979,
+    "KCODE1": "0420-16"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.76962047151355,
+          34.90179475675388
+        ],
+        [
+          135.77157602289364,
+          34.8991615731751
+        ],
+        [
+          135.7688509917939,
+          34.89778969307969
+        ],
+        [
+          135.7669415153861,
+          34.900413776368275
+        ],
+        [
+          135.76962047151355,
+          34.90179475675388
+        ]
+      ]
+    ]
+  }
+}

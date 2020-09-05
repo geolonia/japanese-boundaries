@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "08220196001",
+    "PREF": "08",
+    "CITY": "220",
+    "S_AREA": "196001",
+    "PREF_NAME": "茨城県",
+    "CITY_NAME": "つくば市",
+    "S_NAME": "自由ケ丘",
+    "KIGO_E": "E5",
+    "HCODE": 8101,
+    "AREA": 2745.294,
+    "PERIMETER": 227.326,
+    "H27KAxx_": 2476,
+    "H27KAxx_ID": 2475,
+    "KEN": "08",
+    "KEN_NAME": "茨城県",
+    "SITYO_NAME": null,
+    "GST_NAME": "つくば市",
+    "CSS_NAME": null,
+    "KIHON1": "1960",
+    "DUMMY1": "-",
+    "KIHON2": "01",
+    "KEYCODE1": "220196001",
+    "KEYCODE2": "220196001",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "自由ケ丘",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 140.10791,
+    "Y_CODE": 35.96325,
+    "KCODE1": "1960-01"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          140.10815388789945,
+          35.96291383313898
+        ],
+        [
+          140.10776667391656,
+          35.9628656867411
+        ],
+        [
+          140.10766767792668,
+          35.963583829677404
+        ],
+        [
+          140.1080481782064,
+          35.96360622446344
+        ],
+        [
+          140.10815388789945,
+          35.96291383313898
+        ]
+      ]
+    ]
+  }
+}

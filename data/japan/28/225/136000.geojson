@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "282251360",
+    "PREF": "28",
+    "CITY": "225",
+    "S_AREA": "136000",
+    "PREF_NAME": "兵庫県",
+    "CITY_NAME": "朝来市",
+    "S_NAME": "山東町大内",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 2039.036,
+    "PERIMETER": 180.768,
+    "H27KAxx_": 8054,
+    "H27KAxx_ID": 8053,
+    "KEN": "28",
+    "KEN_NAME": "兵庫県",
+    "SITYO_NAME": null,
+    "GST_NAME": "朝来市",
+    "CSS_NAME": null,
+    "KIHON1": "1360",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "225136000",
+    "KEYCODE2": "2251360",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "山東町大内",
+    "KBSUM": 1,
+    "JINKO": 30,
+    "SETAI": 1,
+    "X_CODE": 134.90258,
+    "Y_CODE": 35.3253,
+    "KCODE1": "1360-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          134.90264017701065,
+          35.32502187498268
+        ],
+        [
+          134.9022295061408,
+          35.32527520434916
+        ],
+        [
+          134.90254210337025,
+          35.32558619529167
+        ],
+        [
+          134.9029384116126,
+          35.325318638062264
+        ],
+        [
+          134.90264017701065,
+          35.32502187498268
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "17210144002",
+    "PREF": "17",
+    "CITY": "210",
+    "S_AREA": "144002",
+    "PREF_NAME": "石川県",
+    "CITY_NAME": "白山市",
+    "S_NAME": "藤波２丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 16163.761,
+    "PERIMETER": 514.876,
+    "H27KAxx_": 802,
+    "H27KAxx_ID": 801,
+    "KEN": "17",
+    "KEN_NAME": "石川県",
+    "SITYO_NAME": null,
+    "GST_NAME": "白山市",
+    "CSS_NAME": null,
+    "KIHON1": "1440",
+    "DUMMY1": "-",
+    "KIHON2": "02",
+    "KEYCODE1": "210144002",
+    "KEYCODE2": "210144002",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "藤波２丁目",
+    "KBSUM": 1,
+    "JINKO": 131,
+    "SETAI": 46,
+    "X_CODE": 136.57632,
+    "Y_CODE": 36.48624,
+    "KCODE1": "1440-02"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.57683244638238,
+          36.487446398972715
+        ],
+        [
+          136.57738487289063,
+          36.486666885159615
+        ],
+        [
+          136.57616000062143,
+          36.4858016499646
+        ],
+        [
+          136.57546110518751,
+          36.48679693191568
+        ],
+        [
+          136.57683244638238,
+          36.487446398972715
+        ]
+      ]
+    ]
+  }
+}

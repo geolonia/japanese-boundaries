@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "22101110000",
+    "PREF": "22",
+    "CITY": "101",
+    "S_AREA": "110000",
+    "PREF_NAME": "静岡県",
+    "CITY_NAME": "葵区",
+    "S_NAME": "上足洗",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 3288.685,
+    "PERIMETER": 234.341,
+    "H27KAxx_": 2027,
+    "H27KAxx_ID": 2026,
+    "KEN": "22",
+    "KEN_NAME": "静岡県",
+    "SITYO_NAME": null,
+    "GST_NAME": "静岡市",
+    "CSS_NAME": "葵区",
+    "KIHON1": "1100",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "101110000",
+    "KEYCODE2": "101110000",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "上足洗",
+    "KBSUM": 1,
+    "JINKO": 20,
+    "SETAI": 8,
+    "X_CODE": 138.39629,
+    "Y_CODE": 34.98787,
+    "KCODE1": "1100-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          138.39673380072603,
+          34.987948858860015
+        ],
+        [
+          138.39621439967112,
+          34.98750143352078
+        ],
+        [
+          138.39584526568296,
+          34.98779789446231
+        ],
+        [
+          138.39639591122014,
+          34.98826323587706
+        ],
+        [
+          138.39673380072603,
+          34.987948858860015
+        ]
+      ]
+    ]
+  }
+}

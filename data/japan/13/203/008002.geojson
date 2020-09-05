@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "13203008002",
+    "PREF": "13",
+    "CITY": "203",
+    "S_AREA": "008002",
+    "PREF_NAME": "東京都",
+    "CITY_NAME": "武蔵野市",
+    "S_NAME": "緑町２丁目",
+    "KIGO_E": "E2",
+    "HCODE": 8101,
+    "AREA": 660.554,
+    "PERIMETER": 110.158,
+    "H27KAxx_": 455,
+    "H27KAxx_ID": 454,
+    "KEN": "13",
+    "KEN_NAME": "東京都",
+    "SITYO_NAME": null,
+    "GST_NAME": "武蔵野市",
+    "CSS_NAME": null,
+    "KIHON1": "0080",
+    "DUMMY1": "-",
+    "KIHON2": "02",
+    "KEYCODE1": "203008002",
+    "KEYCODE2": "203008002",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "緑町２丁目",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 139.56685,
+    "Y_CODE": 35.72045,
+    "KCODE1": "0080-02"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          139.5670168436437,
+          35.72057284723096
+        ],
+        [
+          139.56687048376818,
+          35.72026249398129
+        ],
+        [
+          139.5666831365526,
+          35.72031740807838
+        ],
+        [
+          139.5668409129139,
+          35.72063427473396
+        ],
+        [
+          139.5670168436437,
+          35.72057284723096
+        ]
+      ]
+    ]
+  }
+}

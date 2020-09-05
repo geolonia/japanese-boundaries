@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "23233084024",
+    "PREF": "23",
+    "CITY": "233",
+    "S_AREA": "084024",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "清須市",
+    "S_NAME": "春日長久寺",
+    "KIGO_E": "E2",
+    "HCODE": 8101,
+    "AREA": 5769.542,
+    "PERIMETER": 314.167,
+    "H27KAxx_": 8858,
+    "H27KAxx_ID": 8857,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "清須市",
+    "CSS_NAME": null,
+    "KIHON1": "0840",
+    "DUMMY1": "-",
+    "KIHON2": "24",
+    "KEYCODE1": "233084024",
+    "KEYCODE2": "233084024",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "春日長久寺",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 136.8516,
+    "Y_CODE": 35.22653,
+    "KCODE1": "0840-24"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.85218258550046,
+          35.22673904593662
+        ],
+        [
+          136.85209921041005,
+          35.22620218954056
+        ],
+        [
+          136.8510227364813,
+          35.22632531077005
+        ],
+        [
+          136.85111178702886,
+          35.22683517089025
+        ],
+        [
+          136.85218258550046,
+          35.22673904593662
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "231020650",
+    "PREF": "23",
+    "CITY": "102",
+    "S_AREA": "065005",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "東区",
+    "S_NAME": "武平町",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 2152.183,
+    "PERIMETER": 188.922,
+    "H27KAxx_": 2839,
+    "H27KAxx_ID": 2838,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "名古屋市",
+    "CSS_NAME": "東区",
+    "KIHON1": "0650",
+    "DUMMY1": "-",
+    "KIHON2": "05",
+    "KEYCODE1": "102065005",
+    "KEYCODE2": "1020650",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "武平町",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 136.91025,
+    "Y_CODE": 35.1698,
+    "KCODE1": "0650-05"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.91054098559061,
+          35.17001198468953
+        ],
+        [
+          136.9105678360775,
+          35.169655424990616
+        ],
+        [
+          136.90996166043556,
+          35.169616303642606
+        ],
+        [
+          136.90992355600514,
+          35.169950655966865
+        ],
+        [
+          136.91054098559061,
+          35.17001198468953
+        ]
+      ]
+    ]
+  }
+}

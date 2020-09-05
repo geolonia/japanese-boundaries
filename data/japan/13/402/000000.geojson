@@ -1,0 +1,71 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "13",
+    "PREF": "13",
+    "CITY": "402",
+    "S_AREA": "000000",
+    "PREF_NAME": "東京都",
+    "CITY_NAME": "青ヶ島村",
+    "S_NAME": null,
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 120269.424,
+    "PERIMETER": 1388.822,
+    "H27KAxx_": 5294,
+    "H27KAxx_ID": 5293,
+    "KEN": "13",
+    "KEN_NAME": "東京都",
+    "SITYO_NAME": "八丈支庁",
+    "GST_NAME": null,
+    "CSS_NAME": "青ヶ島村",
+    "KIHON1": "0000",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "402000000",
+    "KEYCODE2": null,
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": null,
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 139.91718,
+    "Y_CODE": 31.88707,
+    "KCODE1": "0000-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          139.91485732502642,
+          31.886505171209897
+        ],
+        [
+          139.91692939189699,
+          31.88909494784196
+        ],
+        [
+          139.91940758383,
+          31.889411627482637
+        ],
+        [
+          139.91973911450938,
+          31.887624132564383
+        ],
+        [
+          139.91694596838397,
+          31.885329895250102
+        ],
+        [
+          139.91485732502642,
+          31.886505171209897
+        ]
+      ]
+    ]
+  }
+}

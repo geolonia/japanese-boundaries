@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "21209001001",
+    "PREF": "21",
+    "CITY": "209",
+    "S_AREA": "001001",
+    "PREF_NAME": "岐阜県",
+    "CITY_NAME": "羽島市",
+    "S_NAME": "足近町１丁目",
+    "KIGO_E": "E4",
+    "HCODE": 8101,
+    "AREA": 3550.542,
+    "PERIMETER": 243.243,
+    "H27KAxx_": 3756,
+    "H27KAxx_ID": 3755,
+    "KEN": "21",
+    "KEN_NAME": "岐阜県",
+    "SITYO_NAME": null,
+    "GST_NAME": "羽島市",
+    "CSS_NAME": null,
+    "KIHON1": "0010",
+    "DUMMY1": "-",
+    "KIHON2": "01",
+    "KEYCODE1": "209001001",
+    "KEYCODE2": "209001001",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "足近町１丁目",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 136.72372,
+    "Y_CODE": 35.34999,
+    "KCODE1": "0010-01"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.72406159823257,
+          35.349793377333015
+        ],
+        [
+          136.72329552646636,
+          35.349768603519664
+        ],
+        [
+          136.7233593864009,
+          35.35025955510265
+        ],
+        [
+          136.72415923681666,
+          35.35019811091609
+        ],
+        [
+          136.72406159823257,
+          35.349793377333015
+        ]
+      ]
+    ]
+  }
+}

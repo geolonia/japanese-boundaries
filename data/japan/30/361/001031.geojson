@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "30361001031",
+    "PREF": "30",
+    "CITY": "361",
+    "S_AREA": "001031",
+    "PREF_NAME": "和歌山県",
+    "CITY_NAME": "湯浅町",
+    "S_NAME": "大字湯浅",
+    "KIGO_E": "E1",
+    "HCODE": 8101,
+    "AREA": 4228.745,
+    "PERIMETER": 263.429,
+    "H27KAxx_": 2099,
+    "H27KAxx_ID": 2098,
+    "KEN": "30",
+    "KEN_NAME": "和歌山県",
+    "SITYO_NAME": null,
+    "GST_NAME": "有田郡",
+    "CSS_NAME": "湯浅町",
+    "KIHON1": "0010",
+    "DUMMY1": "-",
+    "KIHON2": "31",
+    "KEYCODE1": "361001031",
+    "KEYCODE2": "361001031",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "大字湯浅",
+    "KBSUM": 3,
+    "JINKO": 116,
+    "SETAI": 15,
+    "X_CODE": 135.17411,
+    "Y_CODE": 34.03932,
+    "KCODE1": "0010-31"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.17426275096568,
+          34.03973907882027
+        ],
+        [
+          135.174535325259,
+          34.03905884035434
+        ],
+        [
+          135.17390638336389,
+          34.038978252705
+        ],
+        [
+          135.173698354161,
+          34.03958905608151
+        ],
+        [
+          135.17426275096568,
+          34.03973907882027
+        ]
+      ]
+    ]
+  }
+}

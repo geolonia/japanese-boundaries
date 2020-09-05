@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "01206021005",
+    "PREF": "01",
+    "CITY": "206",
+    "S_AREA": "021005",
+    "PREF_NAME": "北海道",
+    "CITY_NAME": "釧路市",
+    "S_NAME": "栄町５丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 8953.97,
+    "PERIMETER": 397.689,
+    "H27KAxx_": 822,
+    "H27KAxx_ID": 821,
+    "KEN": "01",
+    "KEN_NAME": "北海道",
+    "SITYO_NAME": "釧路総合振興局",
+    "GST_NAME": "釧路市",
+    "CSS_NAME": null,
+    "KIHON1": "0210",
+    "DUMMY1": "-",
+    "KIHON2": "05",
+    "KEYCODE1": "206021005",
+    "KEYCODE2": "206021005",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "栄町５丁目",
+    "KBSUM": 1,
+    "JINKO": 5,
+    "SETAI": 2,
+    "X_CODE": 144.38769,
+    "Y_CODE": 42.98478,
+    "KCODE1": "0210-05"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          144.3883744124177,
+          42.985210398387395
+        ],
+        [
+          144.3885626561213,
+          42.98461163423917
+        ],
+        [
+          144.38701552717316,
+          42.9843473145975
+        ],
+        [
+          144.3868159239176,
+          42.984955855034585
+        ],
+        [
+          144.3883744124177,
+          42.985210398387395
+        ]
+      ]
+    ]
+  }
+}

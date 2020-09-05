@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "16211077002",
+    "PREF": "16",
+    "CITY": "211",
+    "S_AREA": "077002",
+    "PREF_NAME": "富山県",
+    "CITY_NAME": "射水市",
+    "S_NAME": "戸破江上",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 8487.957,
+    "PERIMETER": 403.922,
+    "H27KAxx_": 2615,
+    "H27KAxx_ID": 2614,
+    "KEN": "16",
+    "KEN_NAME": "富山県",
+    "SITYO_NAME": null,
+    "GST_NAME": "射水市",
+    "CSS_NAME": null,
+    "KIHON1": "0770",
+    "DUMMY1": "-",
+    "KIHON2": "02",
+    "KEYCODE1": "211077002",
+    "KEYCODE2": "211077002",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "戸破江上",
+    "KBSUM": 1,
+    "JINKO": 24,
+    "SETAI": 8,
+    "X_CODE": 137.11267,
+    "Y_CODE": 36.71751,
+    "KCODE1": "0770-02"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.1119633502833,
+          36.717879164839125
+        ],
+        [
+          137.11352271777278,
+          36.717657746796924
+        ],
+        [
+          137.1133910295171,
+          36.71712887053047
+        ],
+        [
+          137.1118147347344,
+          36.717355771028046
+        ],
+        [
+          137.1119633502833,
+          36.717879164839125
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "21202063007",
+    "PREF": "21",
+    "CITY": "202",
+    "S_AREA": "063007",
+    "PREF_NAME": "岐阜県",
+    "CITY_NAME": "大垣市",
+    "S_NAME": "二葉町７丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 7063.38,
+    "PERIMETER": 362.352,
+    "H27KAxx_": 312,
+    "H27KAxx_ID": 311,
+    "KEN": "21",
+    "KEN_NAME": "岐阜県",
+    "SITYO_NAME": null,
+    "GST_NAME": "大垣市",
+    "CSS_NAME": null,
+    "KIHON1": "0630",
+    "DUMMY1": "-",
+    "KIHON2": "07",
+    "KEYCODE1": "202063007",
+    "KEYCODE2": "202063007",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "二葉町７丁目",
+    "KBSUM": 1,
+    "JINKO": 33,
+    "SETAI": 14,
+    "X_CODE": 136.63257,
+    "Y_CODE": 35.35715,
+    "KCODE1": "0630-07"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.63322078585261,
+          35.357459898543695
+        ],
+        [
+          136.63327865420086,
+          35.356888463069446
+        ],
+        [
+          136.6319113500118,
+          35.35691868745087
+        ],
+        [
+          136.63186258085298,
+          35.35737319001138
+        ],
+        [
+          136.63322078585261,
+          35.357459898543695
+        ]
+      ]
+    ]
+  }
+}

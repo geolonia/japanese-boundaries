@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "151032020",
+    "PREF": "15",
+    "CITY": "103",
+    "S_AREA": "202000",
+    "PREF_NAME": "新潟県",
+    "CITY_NAME": "中央区",
+    "S_NAME": "横六番町",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 852.458,
+    "PERIMETER": 140.277,
+    "H27KAxx_": 1433,
+    "H27KAxx_ID": 1432,
+    "KEN": "15",
+    "KEN_NAME": "新潟県",
+    "SITYO_NAME": null,
+    "GST_NAME": "新潟市",
+    "CSS_NAME": "中央区",
+    "KIHON1": "2020",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "103202000",
+    "KEYCODE2": "1032020",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "横六番町",
+    "KBSUM": 1,
+    "JINKO": 10,
+    "SETAI": 4,
+    "X_CODE": 139.04944,
+    "Y_CODE": 37.93029,
+    "KCODE1": "2020-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          139.0497472529343,
+          37.93036722429624
+        ],
+        [
+          139.04976015942617,
+          37.930214135238835
+        ],
+        [
+          139.04912663900382,
+          37.93022794114784
+        ],
+        [
+          139.0491432371027,
+          37.93035724244478
+        ],
+        [
+          139.0497472529343,
+          37.93036722429624
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "22213151055",
+    "PREF": "22",
+    "CITY": "213",
+    "S_AREA": "151055",
+    "PREF_NAME": "静岡県",
+    "CITY_NAME": "掛川市",
+    "S_NAME": "西大渕",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 9133.973,
+    "PERIMETER": 385.988,
+    "H27KAxx_": 782,
+    "H27KAxx_ID": 781,
+    "KEN": "22",
+    "KEN_NAME": "静岡県",
+    "SITYO_NAME": null,
+    "GST_NAME": "掛川市",
+    "CSS_NAME": null,
+    "KIHON1": "1510",
+    "DUMMY1": "-",
+    "KIHON2": "55",
+    "KEYCODE1": "213151055",
+    "KEYCODE2": "213151055",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "西大渕",
+    "KBSUM": 1,
+    "JINKO": 64,
+    "SETAI": 21,
+    "X_CODE": 137.97185,
+    "Y_CODE": 34.68325,
+    "KCODE1": "1510-55"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.97227389873711,
+          34.682805608037214
+        ],
+        [
+          137.97122622314583,
+          34.68300123599887
+        ],
+        [
+          137.97146634737032,
+          34.6839260224988
+        ],
+        [
+          137.97247392276293,
+          34.683495690614784
+        ],
+        [
+          137.97227389873711,
+          34.682805608037214
+        ]
+      ]
+    ]
+  }
+}

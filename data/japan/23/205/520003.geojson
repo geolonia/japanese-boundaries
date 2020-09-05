@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "23205520003",
+    "PREF": "23",
+    "CITY": "205",
+    "S_AREA": "520003",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "半田市",
+    "S_NAME": "東郷町３丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 18378.729,
+    "PERIMETER": 557.781,
+    "H27KAxx_": 12663,
+    "H27KAxx_ID": 12662,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "半田市",
+    "CSS_NAME": null,
+    "KIHON1": "5200",
+    "DUMMY1": "-",
+    "KIHON2": "03",
+    "KEYCODE1": "205520003",
+    "KEYCODE2": "205520003",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "東郷町３丁目",
+    "KBSUM": 1,
+    "JINKO": 52,
+    "SETAI": 24,
+    "X_CODE": 136.91804,
+    "Y_CODE": 34.88114,
+    "KCODE1": "5200-03"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.91907580113383,
+          34.881690424718265
+        ],
+        [
+          136.91823720545014,
+          34.8803254415156
+        ],
+        [
+          136.91704925258622,
+          34.88059900707056
+        ],
+        [
+          136.91772874613343,
+          34.88184034426293
+        ],
+        [
+          136.91907580113383,
+          34.881690424718265
+        ]
+      ]
+    ]
+  }
+}

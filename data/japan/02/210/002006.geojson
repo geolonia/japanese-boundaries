@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "02210002006",
+    "PREF": "02",
+    "CITY": "210",
+    "S_AREA": "002006",
+    "PREF_NAME": "青森県",
+    "CITY_NAME": "平川市",
+    "S_NAME": "大字南田中字北林元",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 2076.34,
+    "PERIMETER": 197.071,
+    "H27KAxx_": 3021,
+    "H27KAxx_ID": 3020,
+    "KEN": "02",
+    "KEN_NAME": "青森県",
+    "SITYO_NAME": null,
+    "GST_NAME": "平川市",
+    "CSS_NAME": null,
+    "KIHON1": "0020",
+    "DUMMY1": "-",
+    "KIHON2": "06",
+    "KEYCODE1": "210002006",
+    "KEYCODE2": "210002006",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "大字南田中字北林元",
+    "KBSUM": 1,
+    "JINKO": 1,
+    "SETAI": 1,
+    "X_CODE": 140.58672,
+    "Y_CODE": 40.61328,
+    "KCODE1": "0020-06"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          140.58690326944728,
+          40.61355250162564
+        ],
+        [
+          140.58693067275186,
+          40.61299834006113
+        ],
+        [
+          140.58668542863617,
+          40.612997818450836
+        ],
+        [
+          140.58635356605157,
+          40.61355780334467
+        ],
+        [
+          140.58690326944728,
+          40.61355250162564
+        ]
+      ]
+    ]
+  }
+}

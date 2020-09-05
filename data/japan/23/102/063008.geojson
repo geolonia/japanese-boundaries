@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "231020630",
+    "PREF": "23",
+    "CITY": "102",
+    "S_AREA": "063008",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "東区",
+    "S_NAME": "久屋町",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 1231.56,
+    "PERIMETER": 142.561,
+    "H27KAxx_": 5891,
+    "H27KAxx_ID": 5890,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "名古屋市",
+    "CSS_NAME": "東区",
+    "KIHON1": "0630",
+    "DUMMY1": "-",
+    "KIHON2": "08",
+    "KEYCODE1": "102063008",
+    "KEYCODE2": "1020630",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "久屋町",
+    "KBSUM": 1,
+    "JINKO": 4,
+    "SETAI": 1,
+    "X_CODE": 136.90943,
+    "Y_CODE": 35.1698,
+    "KCODE1": "0630-08"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.9096540849336,
+          35.16994218773029
+        ],
+        [
+          136.90967087263417,
+          35.169683915777604
+        ],
+        [
+          136.90921583117964,
+          35.16964751537221
+        ],
+        [
+          136.90919385291198,
+          35.16991936888729
+        ],
+        [
+          136.9096540849336,
+          35.16994218773029
+        ]
+      ]
+    ]
+  }
+}

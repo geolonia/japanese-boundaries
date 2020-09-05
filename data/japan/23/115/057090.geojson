@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "231150570",
+    "PREF": "23",
+    "CITY": "115",
+    "S_AREA": "057090",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "名東区",
+    "S_NAME": "桜が丘",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 856.663,
+    "PERIMETER": 131.543,
+    "H27KAxx_": 6055,
+    "H27KAxx_ID": 6054,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "名古屋市",
+    "CSS_NAME": "名東区",
+    "KIHON1": "0570",
+    "DUMMY1": "-",
+    "KIHON2": "90",
+    "KEYCODE1": "115057090",
+    "KEYCODE2": "1150570",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "桜が丘",
+    "KBSUM": 1,
+    "JINKO": 8,
+    "SETAI": 4,
+    "X_CODE": 136.98987,
+    "Y_CODE": 35.16942,
+    "KCODE1": "0570-90"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.99011409760038,
+          35.16925407598811
+        ],
+        [
+          136.98955422080334,
+          35.169228181783545
+        ],
+        [
+          136.98963161071939,
+          35.16934364758784
+        ],
+        [
+          136.9899136652761,
+          35.1695128665608
+        ],
+        [
+          136.99011409760038,
+          35.16925407598811
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "20215017039",
+    "PREF": "20",
+    "CITY": "215",
+    "S_AREA": "017039",
+    "PREF_NAME": "長野県",
+    "CITY_NAME": "塩尻市",
+    "S_NAME": "大字広丘高出高出五区",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 5451.742,
+    "PERIMETER": 344.478,
+    "H27KAxx_": 3301,
+    "H27KAxx_ID": 3300,
+    "KEN": "20",
+    "KEN_NAME": "長野県",
+    "SITYO_NAME": null,
+    "GST_NAME": "塩尻市",
+    "CSS_NAME": null,
+    "KIHON1": "0170",
+    "DUMMY1": "-",
+    "KIHON2": "39",
+    "KEYCODE1": "215017039",
+    "KEYCODE2": "215017039",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "大字広丘高出高出五区",
+    "KBSUM": 1,
+    "JINKO": 53,
+    "SETAI": 23,
+    "X_CODE": 137.95029,
+    "Y_CODE": 36.13,
+    "KCODE1": "0170-39"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.95135264910493,
+          36.1298604118327
+        ],
+        [
+          137.9513614089101,
+          36.12961866355445
+        ],
+        [
+          137.9499990245977,
+          36.129606641266264
+        ],
+        [
+          137.94991005627267,
+          36.13015313234063
+        ],
+        [
+          137.95135264910493,
+          36.1298604118327
+        ]
+      ]
+    ]
+  }
+}

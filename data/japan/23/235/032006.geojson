@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "23235032006",
+    "PREF": "23",
+    "CITY": "235",
+    "S_AREA": "032006",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "弥富市",
+    "S_NAME": "操出６丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 114566.383,
+    "PERIMETER": 1355.285,
+    "H27KAxx_": 2221,
+    "H27KAxx_ID": 2220,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "弥富市",
+    "CSS_NAME": null,
+    "KIHON1": "0320",
+    "DUMMY1": "-",
+    "KIHON2": "06",
+    "KEYCODE1": "235032006",
+    "KEYCODE2": "235032006",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "操出６丁目",
+    "KBSUM": 1,
+    "JINKO": 5,
+    "SETAI": 2,
+    "X_CODE": 136.7757,
+    "Y_CODE": 35.06706,
+    "KCODE1": "0320-06"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.77735796994537,
+          35.068739694074175
+        ],
+        [
+          136.77758331614126,
+          35.06555665834801
+        ],
+        [
+          136.77403966468611,
+          35.065378948604796
+        ],
+        [
+          136.77381919190677,
+          35.06856917975212
+        ],
+        [
+          136.77735796994537,
+          35.068739694074175
+        ]
+      ]
+    ]
+  }
+}

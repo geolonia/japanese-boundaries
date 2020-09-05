@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "152121890",
+    "PREF": "15",
+    "CITY": "212",
+    "S_AREA": "189000",
+    "PREF_NAME": "新潟県",
+    "CITY_NAME": "村上市",
+    "S_NAME": "山屋",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 2341.768,
+    "PERIMETER": 193.726,
+    "H27KAxx_": 8023,
+    "H27KAxx_ID": 8022,
+    "KEN": "15",
+    "KEN_NAME": "新潟県",
+    "SITYO_NAME": null,
+    "GST_NAME": "村上市",
+    "CSS_NAME": null,
+    "KIHON1": "1890",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "212189000",
+    "KEYCODE2": "2121890",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "山屋",
+    "KBSUM": 1,
+    "JINKO": 49,
+    "SETAI": 1,
+    "X_CODE": 139.48393,
+    "Y_CODE": 38.20628,
+    "KCODE1": "1890-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          139.48422078498143,
+          38.20606238559709
+        ],
+        [
+          139.48364081882517,
+          38.206070479228245
+        ],
+        [
+          139.48364649501661,
+          38.20649317026005
+        ],
+        [
+          139.48421036899725,
+          38.20648211415321
+        ],
+        [
+          139.48422078498143,
+          38.20606238559709
+        ]
+      ]
+    ]
+  }
+}

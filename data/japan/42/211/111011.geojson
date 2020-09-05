@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "42211111011",
+    "PREF": "42",
+    "CITY": "211",
+    "S_AREA": "111011",
+    "PREF_NAME": "長崎県",
+    "CITY_NAME": "五島市",
+    "S_NAME": "富江町土取",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 2544.898,
+    "PERIMETER": 243.299,
+    "H27KAxx_": 1573,
+    "H27KAxx_ID": 1572,
+    "KEN": "42",
+    "KEN_NAME": "長崎県",
+    "SITYO_NAME": null,
+    "GST_NAME": "五島市",
+    "CSS_NAME": null,
+    "KIHON1": "1110",
+    "DUMMY1": "-",
+    "KIHON2": "11",
+    "KEYCODE1": "211111011",
+    "KEYCODE2": "211111011",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "富江町土取",
+    "KBSUM": 1,
+    "JINKO": 2,
+    "SETAI": 1,
+    "X_CODE": 128.77213,
+    "Y_CODE": 32.61256,
+    "KCODE1": "1110-11"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          128.7727185332938,
+          32.61209798538461
+        ],
+        [
+          128.77186847749445,
+          32.61232145648079
+        ],
+        [
+          128.7720377206712,
+          32.612814523814016
+        ],
+        [
+          128.772107105956,
+          32.61278860949111
+        ],
+        [
+          128.7727185332938,
+          32.61209798538461
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "33212010014",
+    "PREF": "33",
+    "CITY": "212",
+    "S_AREA": "010014",
+    "PREF_NAME": "岡山県",
+    "CITY_NAME": "瀬戸内市",
+    "S_NAME": "邑久町山田庄中庄西",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 3686.709,
+    "PERIMETER": 243.58,
+    "H27KAxx_": 4519,
+    "H27KAxx_ID": 4518,
+    "KEN": "33",
+    "KEN_NAME": "岡山県",
+    "SITYO_NAME": null,
+    "GST_NAME": "瀬戸内市",
+    "CSS_NAME": null,
+    "KIHON1": "0100",
+    "DUMMY1": "-",
+    "KIHON2": "14",
+    "KEYCODE1": "212010014",
+    "KEYCODE2": "212010014",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "邑久町山田庄中庄西",
+    "KBSUM": 1,
+    "JINKO": 18,
+    "SETAI": 7,
+    "X_CODE": 134.09402,
+    "Y_CODE": 34.6704,
+    "KCODE1": "0100-14"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          134.0937341355419,
+          34.6707041886309
+        ],
+        [
+          134.0944340686674,
+          34.67058640511504
+        ],
+        [
+          134.09431265472676,
+          34.67008764567655
+        ],
+        [
+          134.09361205617688,
+          34.670208667296954
+        ],
+        [
+          134.0937341355419,
+          34.6707041886309
+        ]
+      ]
+    ]
+  }
+}

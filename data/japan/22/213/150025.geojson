@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "22213150025",
+    "PREF": "22",
+    "CITY": "213",
+    "S_AREA": "150025",
+    "PREF_NAME": "静岡県",
+    "CITY_NAME": "掛川市",
+    "S_NAME": "横須賀",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 14327.179,
+    "PERIMETER": 479.872,
+    "H27KAxx_": 3145,
+    "H27KAxx_ID": 3144,
+    "KEN": "22",
+    "KEN_NAME": "静岡県",
+    "SITYO_NAME": null,
+    "GST_NAME": "掛川市",
+    "CSS_NAME": null,
+    "KIHON1": "1500",
+    "DUMMY1": "-",
+    "KIHON2": "25",
+    "KEYCODE1": "213150025",
+    "KEYCODE2": "213150025",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "横須賀",
+    "KBSUM": 1,
+    "JINKO": 23,
+    "SETAI": 9,
+    "X_CODE": 137.97978,
+    "Y_CODE": 34.67779,
+    "KCODE1": "1500-25"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.98050808106981,
+          34.67826598644437
+        ],
+        [
+          137.9802604996142,
+          34.677129472980056
+        ],
+        [
+          137.9790607357508,
+          34.677316772770986
+        ],
+        [
+          137.97930715900966,
+          34.67845187509343
+        ],
+        [
+          137.98050808106981,
+          34.67826598644437
+        ]
+      ]
+    ]
+  }
+}

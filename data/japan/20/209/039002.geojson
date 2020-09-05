@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "20209039002",
+    "PREF": "20",
+    "CITY": "209",
+    "S_AREA": "039002",
+    "PREF_NAME": "長野県",
+    "CITY_NAME": "伊那市",
+    "S_NAME": "中央北町",
+    "KIGO_E": "E2",
+    "HCODE": 8101,
+    "AREA": 1976.466,
+    "PERIMETER": 178.117,
+    "H27KAxx_": 518,
+    "H27KAxx_ID": 517,
+    "KEN": "20",
+    "KEN_NAME": "長野県",
+    "SITYO_NAME": null,
+    "GST_NAME": "伊那市",
+    "CSS_NAME": null,
+    "KIHON1": "0390",
+    "DUMMY1": "-",
+    "KIHON2": "02",
+    "KEYCODE1": "209039002",
+    "KEYCODE2": "209039002",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "中央北町",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 137.97967,
+    "Y_CODE": 35.84719,
+    "KCODE1": "0390-02"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.97975520338744,
+          35.84691488131698
+        ],
+        [
+          137.9793275998374,
+          35.84714117651075
+        ],
+        [
+          137.97955713246282,
+          35.84746671269175
+        ],
+        [
+          137.98000617720305,
+          35.847241970387365
+        ],
+        [
+          137.97975520338744,
+          35.84691488131698
+        ]
+      ]
+    ]
+  }
+}

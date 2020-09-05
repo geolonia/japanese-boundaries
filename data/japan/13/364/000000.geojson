@@ -1,0 +1,71 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "13",
+    "PREF": "13",
+    "CITY": "364",
+    "S_AREA": "000000",
+    "PREF_NAME": "東京都",
+    "CITY_NAME": "神津島村",
+    "S_NAME": null,
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 1309851.21,
+    "PERIMETER": 6740.82,
+    "H27KAxx_": 87,
+    "H27KAxx_ID": 86,
+    "KEN": "13",
+    "KEN_NAME": "東京都",
+    "SITYO_NAME": "大島支庁",
+    "GST_NAME": null,
+    "CSS_NAME": "神津島村",
+    "KIHON1": "0000",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "364000000",
+    "KEYCODE2": null,
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": null,
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 138.8274,
+    "Y_CODE": 33.95441,
+    "KCODE1": "0000-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          138.83534702175172,
+          33.963443272542555
+        ],
+        [
+          138.83864401020148,
+          33.96346480404506
+        ],
+        [
+          138.83894255639788,
+          33.962205201125734
+        ],
+        [
+          138.81748617109713,
+          33.94187672231077
+        ],
+        [
+          138.81437036856695,
+          33.94660769113125
+        ],
+        [
+          138.83534702175172,
+          33.963443272542555
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "23208066003",
+    "PREF": "23",
+    "CITY": "208",
+    "S_AREA": "066003",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "津島市",
+    "S_NAME": "東洋町１丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 1084.128,
+    "PERIMETER": 154.612,
+    "H27KAxx_": 4580,
+    "H27KAxx_ID": 4579,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "津島市",
+    "CSS_NAME": null,
+    "KIHON1": "0660",
+    "DUMMY1": "-",
+    "KIHON2": "03",
+    "KEYCODE1": "208066003",
+    "KEYCODE2": "208066003",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "東洋町１丁目",
+    "KBSUM": 1,
+    "JINKO": 11,
+    "SETAI": 4,
+    "X_CODE": 136.73047,
+    "Y_CODE": 35.17192,
+    "KCODE1": "0660-03"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.73060986316358,
+          35.17202220331014
+        ],
+        [
+          136.73062557037096,
+          35.1718111383353
+        ],
+        [
+          136.730035004791,
+          35.172015270394596
+        ],
+        [
+          136.73003859847938,
+          35.172177321837076
+        ],
+        [
+          136.73060986316358,
+          35.17202220331014
+        ]
+      ]
+    ]
+  }
+}

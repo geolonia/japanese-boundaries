@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "06203198056",
+    "PREF": "06",
+    "CITY": "203",
+    "S_AREA": "198056",
+    "PREF_NAME": "山形県",
+    "CITY_NAME": "鶴岡市",
+    "S_NAME": "箕升新田字西新田",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 1243.477,
+    "PERIMETER": 147.92,
+    "H27KAxx_": 665,
+    "H27KAxx_ID": 664,
+    "KEN": "06",
+    "KEN_NAME": "山形県",
+    "SITYO_NAME": null,
+    "GST_NAME": "鶴岡市",
+    "CSS_NAME": null,
+    "KIHON1": "1980",
+    "DUMMY1": "-",
+    "KIHON2": "56",
+    "KEYCODE1": "203198056",
+    "KEYCODE2": "203198056",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "箕升新田字西新田",
+    "KBSUM": 1,
+    "JINKO": 2,
+    "SETAI": 1,
+    "X_CODE": 139.88196,
+    "Y_CODE": 38.74194,
+    "KCODE1": "1980-56"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          139.88219726172838,
+          38.74164430698767
+        ],
+        [
+          139.88178286413148,
+          38.74179506889077
+        ],
+        [
+          139.88183690410403,
+          38.74206365720568
+        ],
+        [
+          139.88236414675833,
+          38.74183371926215
+        ],
+        [
+          139.88219726172838,
+          38.74164430698767
+        ]
+      ]
+    ]
+  }
+}

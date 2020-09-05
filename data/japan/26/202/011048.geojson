@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "26202011048",
+    "PREF": "26",
+    "CITY": "202",
+    "S_AREA": "011048",
+    "PREF_NAME": "京都府",
+    "CITY_NAME": "舞鶴市",
+    "S_NAME": "旧舞鶴拘置所",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 3039.966,
+    "PERIMETER": 224.071,
+    "H27KAxx_": 6768,
+    "H27KAxx_ID": 6767,
+    "KEN": "26",
+    "KEN_NAME": "京都府",
+    "SITYO_NAME": null,
+    "GST_NAME": "舞鶴市",
+    "CSS_NAME": null,
+    "KIHON1": "0110",
+    "DUMMY1": "-",
+    "KIHON2": "48",
+    "KEYCODE1": "202011048",
+    "KEYCODE2": "202011048",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "旧舞鶴拘置所",
+    "KBSUM": 1,
+    "JINKO": 19,
+    "SETAI": 7,
+    "X_CODE": 135.32923,
+    "Y_CODE": 35.44312,
+    "KCODE1": "0110-48"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.32958618317667,
+          35.442905805135204
+        ],
+        [
+          135.32885592432697,
+          35.44291760198417
+        ],
+        [
+          135.32887240096417,
+          35.44333841353687
+        ],
+        [
+          135.3295933266711,
+          35.44331635402207
+        ],
+        [
+          135.32958618317667,
+          35.442905805135204
+        ]
+      ]
+    ]
+  }
+}

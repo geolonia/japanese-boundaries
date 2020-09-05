@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "21213142001",
+    "PREF": "21",
+    "CITY": "213",
+    "S_AREA": "142001",
+    "PREF_NAME": "岐阜県",
+    "CITY_NAME": "各務原市",
+    "S_NAME": "那加萱場町１丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 8060.467,
+    "PERIMETER": 362.482,
+    "H27KAxx_": 7359,
+    "H27KAxx_ID": 7358,
+    "KEN": "21",
+    "KEN_NAME": "岐阜県",
+    "SITYO_NAME": null,
+    "GST_NAME": "各務原市",
+    "CSS_NAME": null,
+    "KIHON1": "1420",
+    "DUMMY1": "-",
+    "KIHON2": "01",
+    "KEYCODE1": "213142001",
+    "KEYCODE2": "213142001",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "那加萱場町１丁目",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 136.82479,
+    "Y_CODE": 35.39364,
+    "KCODE1": "1420-01"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.82504825036116,
+          35.39418010017804
+        ],
+        [
+          136.82535618334364,
+          35.39328394732731
+        ],
+        [
+          136.82450518264034,
+          35.39310867807661
+        ],
+        [
+          136.82422826821306,
+          35.394004281835535
+        ],
+        [
+          136.82504825036116,
+          35.39418010017804
+        ]
+      ]
+    ]
+  }
+}

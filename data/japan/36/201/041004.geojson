@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "36201041004",
+    "PREF": "36",
+    "CITY": "201",
+    "S_AREA": "041004",
+    "PREF_NAME": "徳島県",
+    "CITY_NAME": "徳島市",
+    "S_NAME": "幟町４丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 13500.627,
+    "PERIMETER": 482.075,
+    "H27KAxx_": 1101,
+    "H27KAxx_ID": 1100,
+    "KEN": "36",
+    "KEN_NAME": "徳島県",
+    "SITYO_NAME": null,
+    "GST_NAME": "徳島市",
+    "CSS_NAME": null,
+    "KIHON1": "0410",
+    "DUMMY1": "-",
+    "KIHON2": "04",
+    "KEYCODE1": "201041004",
+    "KEYCODE2": "201041004",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "幟町４丁目",
+    "KBSUM": 1,
+    "JINKO": 93,
+    "SETAI": 44,
+    "X_CODE": 134.54677,
+    "Y_CODE": 34.06174,
+    "KCODE1": "0410-04"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          134.5472653507727,
+          34.062404347304515
+        ],
+        [
+          134.547242957845,
+          34.061011711416626
+        ],
+        [
+          134.5462464753985,
+          34.061081264776014
+        ],
+        [
+          134.54634442620917,
+          34.062432760349296
+        ],
+        [
+          134.5472653507727,
+          34.062404347304515
+        ]
+      ]
+    ]
+  }
+}

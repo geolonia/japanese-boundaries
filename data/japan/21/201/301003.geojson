@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "21201301003",
+    "PREF": "21",
+    "CITY": "201",
+    "S_AREA": "301003",
+    "PREF_NAME": "岐阜県",
+    "CITY_NAME": "岐阜市",
+    "S_NAME": "此花町３丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 5334.941,
+    "PERIMETER": 333.345,
+    "H27KAxx_": 4615,
+    "H27KAxx_ID": 4614,
+    "KEN": "21",
+    "KEN_NAME": "岐阜県",
+    "SITYO_NAME": null,
+    "GST_NAME": "岐阜市",
+    "CSS_NAME": null,
+    "KIHON1": "3010",
+    "DUMMY1": "-",
+    "KIHON2": "03",
+    "KEYCODE1": "201301003",
+    "KEYCODE2": "201301003",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "此花町３丁目",
+    "KBSUM": 1,
+    "JINKO": 21,
+    "SETAI": 8,
+    "X_CODE": 136.74253,
+    "Y_CODE": 35.41227,
+    "KCODE1": "3010-03"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.74324506404648,
+          35.41230751039142
+        ],
+        [
+          136.74198242384534,
+          35.41188752909217
+        ],
+        [
+          136.74181445406504,
+          35.412236367542825
+        ],
+        [
+          136.7430563678609,
+          35.412681170814984
+        ],
+        [
+          136.74324506404648,
+          35.41230751039142
+        ]
+      ]
+    ]
+  }
+}

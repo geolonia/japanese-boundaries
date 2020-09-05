@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "31403003002",
+    "PREF": "31",
+    "CITY": "403",
+    "S_AREA": "003002",
+    "PREF_NAME": "鳥取県",
+    "CITY_NAME": "江府町",
+    "S_NAME": "久連白住",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 18946.542,
+    "PERIMETER": 576.579,
+    "H27KAxx_": 865,
+    "H27KAxx_ID": 864,
+    "KEN": "31",
+    "KEN_NAME": "鳥取県",
+    "SITYO_NAME": null,
+    "GST_NAME": "日野郡",
+    "CSS_NAME": "江府町",
+    "KIHON1": "0030",
+    "DUMMY1": "-",
+    "KIHON2": "02",
+    "KEYCODE1": "403003002",
+    "KEYCODE2": "403003002",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "久連白住",
+    "KBSUM": 1,
+    "JINKO": 59,
+    "SETAI": 2,
+    "X_CODE": 133.48283,
+    "Y_CODE": 35.28216,
+    "KCODE1": "0030-02"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          133.48339853964777,
+          35.28130394998071
+        ],
+        [
+          133.48228888062752,
+          35.2813388890305
+        ],
+        [
+          133.4822579202624,
+          35.283021275751466
+        ],
+        [
+          133.48338099828598,
+          35.28298625205114
+        ],
+        [
+          133.48339853964777,
+          35.28130394998071
+        ]
+      ]
+    ]
+  }
+}

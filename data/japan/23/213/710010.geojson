@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "23213710010",
+    "PREF": "23",
+    "CITY": "213",
+    "S_AREA": "710010",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "西尾市",
+    "S_NAME": "一色町一色西荒子",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 9145.216,
+    "PERIMETER": 385.847,
+    "H27KAxx_": 1891,
+    "H27KAxx_ID": 1890,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "西尾市",
+    "CSS_NAME": null,
+    "KIHON1": "7100",
+    "DUMMY1": "-",
+    "KIHON2": "10",
+    "KEYCODE1": "213710010",
+    "KEYCODE2": "213710010",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "一色町一色西荒子",
+    "KBSUM": 1,
+    "JINKO": 57,
+    "SETAI": 16,
+    "X_CODE": 137.02863,
+    "Y_CODE": 34.81993,
+    "KCODE1": "7100-10"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.02932322549793,
+          34.820155568454624
+        ],
+        [
+          137.02870999194607,
+          34.81931339597232
+        ],
+        [
+          137.02793223269822,
+          34.81970885127455
+        ],
+        [
+          137.02854107022577,
+          34.82055496478311
+        ],
+        [
+          137.02932322549793,
+          34.820155568454624
+        ]
+      ]
+    ]
+  }
+}

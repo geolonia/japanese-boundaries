@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "282141171",
+    "PREF": "28",
+    "CITY": "214",
+    "S_AREA": "117103",
+    "PREF_NAME": "兵庫県",
+    "CITY_NAME": "宝塚市",
+    "S_NAME": "安倉南",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 2025.731,
+    "PERIMETER": 181.295,
+    "H27KAxx_": 8665,
+    "H27KAxx_ID": 8664,
+    "KEN": "28",
+    "KEN_NAME": "兵庫県",
+    "SITYO_NAME": null,
+    "GST_NAME": "宝塚市",
+    "CSS_NAME": null,
+    "KIHON1": "1171",
+    "DUMMY1": "-",
+    "KIHON2": "03",
+    "KEYCODE1": "214117103",
+    "KEYCODE2": "2141171",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "安倉南",
+    "KBSUM": 1,
+    "JINKO": 42,
+    "SETAI": 12,
+    "X_CODE": 135.37968,
+    "Y_CODE": 34.79434,
+    "KCODE1": "1171-03"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.3793035098926,
+          34.79448067830313
+        ],
+        [
+          135.37953994183084,
+          34.794757652783126
+        ],
+        [
+          135.37999307845834,
+          34.79452137102502
+        ],
+        [
+          135.37973935690727,
+          34.794190723605674
+        ],
+        [
+          135.3793035098926,
+          34.79448067830313
+        ]
+      ]
+    ]
+  }
+}

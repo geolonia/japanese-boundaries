@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "03205105603",
+    "PREF": "03",
+    "CITY": "205",
+    "S_AREA": "105603",
+    "PREF_NAME": "岩手県",
+    "CITY_NAME": "花巻市",
+    "S_NAME": "北寺林第５地割",
+    "KIGO_E": "E2",
+    "HCODE": 8101,
+    "AREA": 5770.871,
+    "PERIMETER": 304.619,
+    "H27KAxx_": 2932,
+    "H27KAxx_ID": 2931,
+    "KEN": "03",
+    "KEN_NAME": "岩手県",
+    "SITYO_NAME": null,
+    "GST_NAME": "花巻市",
+    "CSS_NAME": null,
+    "KIHON1": "1056",
+    "DUMMY1": "-",
+    "KIHON2": "03",
+    "KEYCODE1": "205105603",
+    "KEYCODE2": "205105603",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "北寺林第５地割",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 141.14085,
+    "Y_CODE": 39.49424,
+    "KCODE1": "1056-03"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          141.1402309456791,
+          39.494075209611864
+        ],
+        [
+          141.1406250910117,
+          39.49465615191319
+        ],
+        [
+          141.1414629813653,
+          39.49440009736702
+        ],
+        [
+          141.14110072218756,
+          39.49380049477486
+        ],
+        [
+          141.1402309456791,
+          39.494075209611864
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "21202053001",
+    "PREF": "21",
+    "CITY": "202",
+    "S_AREA": "053001",
+    "PREF_NAME": "岐阜県",
+    "CITY_NAME": "大垣市",
+    "S_NAME": "恵比寿町１丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 3895.363,
+    "PERIMETER": 276.646,
+    "H27KAxx_": 7249,
+    "H27KAxx_ID": 7248,
+    "KEN": "21",
+    "KEN_NAME": "岐阜県",
+    "SITYO_NAME": null,
+    "GST_NAME": "大垣市",
+    "CSS_NAME": null,
+    "KIHON1": "0530",
+    "DUMMY1": "-",
+    "KIHON2": "01",
+    "KEYCODE1": "202053001",
+    "KEYCODE2": "202053001",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "恵比寿町１丁目",
+    "KBSUM": 1,
+    "JINKO": 18,
+    "SETAI": 7,
+    "X_CODE": 136.62458,
+    "Y_CODE": 35.35812,
+    "KCODE1": "0530-01"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.62514984326063,
+          35.358297019160936
+        ],
+        [
+          136.62510374288757,
+          35.357945686814915
+        ],
+        [
+          136.62402737058218,
+          35.35793501231595
+        ],
+        [
+          136.6240549585535,
+          35.35829583921247
+        ],
+        [
+          136.62514984326063,
+          35.358297019160936
+        ]
+      ]
+    ]
+  }
+}

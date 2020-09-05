@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "26108016013",
+    "PREF": "26",
+    "CITY": "108",
+    "S_AREA": "016013",
+    "PREF_NAME": "京都府",
+    "CITY_NAME": "右京区",
+    "S_NAME": "広沢山越中町",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 61.731,
+    "PERIMETER": 39.492,
+    "H27KAxx_": 7884,
+    "H27KAxx_ID": 7883,
+    "KEN": "26",
+    "KEN_NAME": "京都府",
+    "SITYO_NAME": null,
+    "GST_NAME": "京都市",
+    "CSS_NAME": "右京区",
+    "KIHON1": "0160",
+    "DUMMY1": "-",
+    "KIHON2": "13",
+    "KEYCODE1": "108016013",
+    "KEYCODE2": "108016013",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "広沢山越中町",
+    "KBSUM": 1,
+    "JINKO": 4,
+    "SETAI": 1,
+    "X_CODE": 135.69429,
+    "Y_CODE": 35.02453,
+    "KCODE1": "0160-13"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.6943277914924,
+          35.02459270209154
+        ],
+        [
+          135.69428956286743,
+          35.02447217768544
+        ],
+        [
+          135.69423052726793,
+          35.02445562073543
+        ],
+        [
+          135.6942877344656,
+          35.024594996074086
+        ],
+        [
+          135.6943277914924,
+          35.02459270209154
+        ]
+      ]
+    ]
+  }
+}

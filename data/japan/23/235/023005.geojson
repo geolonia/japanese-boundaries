@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "23235023005",
+    "PREF": "23",
+    "CITY": "235",
+    "S_AREA": "023005",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "弥富市",
+    "S_NAME": "稲元５丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 56385.683,
+    "PERIMETER": 973.097,
+    "H27KAxx_": 2531,
+    "H27KAxx_ID": 2530,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "弥富市",
+    "CSS_NAME": null,
+    "KIHON1": "0230",
+    "DUMMY1": "-",
+    "KIHON2": "05",
+    "KEYCODE1": "235023005",
+    "KEYCODE2": "235023005",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "稲元５丁目",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 136.76426,
+    "Y_CODE": 35.07802,
+    "KCODE1": "0230-05"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.7658495728384,
+          35.07892652581546
+        ],
+        [
+          136.76591201099941,
+          35.07720385080678
+        ],
+        [
+          136.76266760103218,
+          35.07712587500878
+        ],
+        [
+          136.7626022402471,
+          35.078834179232295
+        ],
+        [
+          136.7658495728384,
+          35.07892652581546
+        ]
+      ]
+    ]
+  }
+}

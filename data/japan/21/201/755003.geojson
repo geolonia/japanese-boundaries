@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "21201755003",
+    "PREF": "21",
+    "CITY": "201",
+    "S_AREA": "755003",
+    "PREF_NAME": "岐阜県",
+    "CITY_NAME": "岐阜市",
+    "S_NAME": "雄総桜町３丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 15385.237,
+    "PERIMETER": 531.587,
+    "H27KAxx_": 6672,
+    "H27KAxx_ID": 6671,
+    "KEN": "21",
+    "KEN_NAME": "岐阜県",
+    "SITYO_NAME": null,
+    "GST_NAME": "岐阜市",
+    "CSS_NAME": null,
+    "KIHON1": "7550",
+    "DUMMY1": "-",
+    "KIHON2": "03",
+    "KEYCODE1": "201755003",
+    "KEYCODE2": "201755003",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "雄総桜町３丁目",
+    "KBSUM": 1,
+    "JINKO": 97,
+    "SETAI": 36,
+    "X_CODE": 136.7899,
+    "Y_CODE": 35.44209,
+    "KCODE1": "7550-03"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.79071190359664,
+          35.441612984295695
+        ],
+        [
+          136.78940795944058,
+          35.44118705940302
+        ],
+        [
+          136.78835906999447,
+          35.44176367859655
+        ],
+        [
+          136.7903124514959,
+          35.442427601472446
+        ],
+        [
+          136.79071190359664,
+          35.441612984295695
+        ]
+      ]
+    ]
+  }
+}

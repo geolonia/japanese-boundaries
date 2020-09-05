@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "282250590",
+    "PREF": "28",
+    "CITY": "225",
+    "S_AREA": "059000",
+    "PREF_NAME": "兵庫県",
+    "CITY_NAME": "朝来市",
+    "S_NAME": "和田山町宮",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 452494.437,
+    "PERIMETER": 2787.784,
+    "H27KAxx_": 7325,
+    "H27KAxx_ID": 7324,
+    "KEN": "28",
+    "KEN_NAME": "兵庫県",
+    "SITYO_NAME": null,
+    "GST_NAME": "朝来市",
+    "CSS_NAME": null,
+    "KIHON1": "0590",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "225059000",
+    "KEYCODE2": "2250590",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "和田山町宮",
+    "KBSUM": 1,
+    "JINKO": 101,
+    "SETAI": 41,
+    "X_CODE": 134.89817,
+    "Y_CODE": 35.34956,
+    "KCODE1": "0590-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          134.90198764817399,
+          35.35481223242904
+        ],
+        [
+          134.9013644934631,
+          35.34667787617887
+        ],
+        [
+          134.8945833138965,
+          35.34706752945253
+        ],
+        [
+          134.89493336467652,
+          35.35207237155725
+        ],
+        [
+          134.90198764817399,
+          35.35481223242904
+        ]
+      ]
+    ]
+  }
+}

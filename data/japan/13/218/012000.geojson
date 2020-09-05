@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "132180120",
+    "PREF": "13",
+    "CITY": "218",
+    "S_AREA": "012000",
+    "PREF_NAME": "東京都",
+    "CITY_NAME": "福生市",
+    "S_NAME": "大字熊川二宮",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 1360.984,
+    "PERIMETER": 149.759,
+    "H27KAxx_": 1964,
+    "H27KAxx_ID": 1963,
+    "KEN": "13",
+    "KEN_NAME": "東京都",
+    "SITYO_NAME": null,
+    "GST_NAME": "福生市",
+    "CSS_NAME": null,
+    "KIHON1": "0120",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "218012000",
+    "KEYCODE2": "2180120",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "大字熊川二宮",
+    "KBSUM": 1,
+    "JINKO": 9,
+    "SETAI": 4,
+    "X_CODE": 139.33895,
+    "Y_CODE": 35.73325,
+    "KCODE1": "0120-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          139.33917825905448,
+          35.733393767446636
+        ],
+        [
+          139.33915198654648,
+          35.733095512394456
+        ],
+        [
+          139.338789666472,
+          35.73309826728647
+        ],
+        [
+          139.3386843621004,
+          35.733437862620114
+        ],
+        [
+          139.33917825905448,
+          35.733393767446636
+        ]
+      ]
+    ]
+  }
+}

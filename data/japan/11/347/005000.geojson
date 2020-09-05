@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "113470050",
+    "PREF": "11",
+    "CITY": "347",
+    "S_AREA": "005000",
+    "PREF_NAME": "埼玉県",
+    "CITY_NAME": "吉見町",
+    "S_NAME": "大字上銀谷",
+    "KIGO_E": "E2",
+    "HCODE": 8101,
+    "AREA": 1145.755,
+    "PERIMETER": 138.401,
+    "H27KAxx_": 1150,
+    "H27KAxx_ID": 1149,
+    "KEN": "11",
+    "KEN_NAME": "埼玉県",
+    "SITYO_NAME": null,
+    "GST_NAME": "比企郡",
+    "CSS_NAME": "吉見町",
+    "KIHON1": "0050",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "347005000",
+    "KEYCODE2": "3470050",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "大字上銀谷",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 139.47164,
+    "Y_CODE": 36.03574,
+    "KCODE1": "0050-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          139.47143052106287,
+          36.035634122495914
+        ],
+        [
+          139.47141721446582,
+          36.03584209931124
+        ],
+        [
+          139.47185895564476,
+          36.03586195097065
+        ],
+        [
+          139.4718587258328,
+          36.035541933174606
+        ],
+        [
+          139.47143052106287,
+          36.035634122495914
+        ]
+      ]
+    ]
+  }
+}

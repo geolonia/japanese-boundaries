@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "16201758002",
+    "PREF": "16",
+    "CITY": "201",
+    "S_AREA": "758002",
+    "PREF_NAME": "富山県",
+    "CITY_NAME": "富山市",
+    "S_NAME": "八尾町奥田椿寿荘",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 8071.642,
+    "PERIMETER": 390.95,
+    "H27KAxx_": 2105,
+    "H27KAxx_ID": 2104,
+    "KEN": "16",
+    "KEN_NAME": "富山県",
+    "SITYO_NAME": null,
+    "GST_NAME": "富山市",
+    "CSS_NAME": null,
+    "KIHON1": "7580",
+    "DUMMY1": "-",
+    "KIHON2": "02",
+    "KEYCODE1": "201758002",
+    "KEYCODE2": "201758002",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "八尾町奥田椿寿荘",
+    "KBSUM": 1,
+    "JINKO": 80,
+    "SETAI": 2,
+    "X_CODE": 137.13107,
+    "Y_CODE": 36.61866,
+    "KCODE1": "7580-02"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.131821359914,
+          36.61839705782989
+        ],
+        [
+          137.13031056661768,
+          36.61840189755747
+        ],
+        [
+          137.1303103262378,
+          36.618941082459614
+        ],
+        [
+          137.1318448157152,
+          36.61892597011303
+        ],
+        [
+          137.131821359914,
+          36.61839705782989
+        ]
+      ]
+    ]
+  }
+}

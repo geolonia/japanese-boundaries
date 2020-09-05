@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "041020820",
+    "PREF": "04",
+    "CITY": "102",
+    "S_AREA": "082000",
+    "PREF_NAME": "宮城県",
+    "CITY_NAME": "宮城野区",
+    "S_NAME": "二十人町通",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 256.631,
+    "PERIMETER": 75.697,
+    "H27KAxx_": 4684,
+    "H27KAxx_ID": 4683,
+    "KEN": "04",
+    "KEN_NAME": "宮城県",
+    "SITYO_NAME": null,
+    "GST_NAME": "仙台市",
+    "CSS_NAME": "宮城野区",
+    "KIHON1": "0820",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "102082000",
+    "KEYCODE2": "1020820",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "二十人町通",
+    "KBSUM": 1,
+    "JINKO": 2,
+    "SETAI": 1,
+    "X_CODE": 140.89691,
+    "Y_CODE": 38.26263,
+    "KCODE1": "0820-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          140.89702770778968,
+          38.26252335223518
+        ],
+        [
+          140.8969328394548,
+          38.26249341470063
+        ],
+        [
+          140.89680231059938,
+          38.262731822867224
+        ],
+        [
+          140.89689375519353,
+          38.262764013824246
+        ],
+        [
+          140.89702770778968,
+          38.26252335223518
+        ]
+      ]
+    ]
+  }
+}

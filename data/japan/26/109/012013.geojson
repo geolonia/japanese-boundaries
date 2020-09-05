@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "26109012013",
+    "PREF": "26",
+    "CITY": "109",
+    "S_AREA": "012013",
+    "PREF_NAME": "京都府",
+    "CITY_NAME": "伏見区",
+    "S_NAME": "南浜常盤町",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 226.652,
+    "PERIMETER": 60.623,
+    "H27KAxx_": 7935,
+    "H27KAxx_ID": 7934,
+    "KEN": "26",
+    "KEN_NAME": "京都府",
+    "SITYO_NAME": null,
+    "GST_NAME": "京都市",
+    "CSS_NAME": "伏見区",
+    "KIHON1": "0120",
+    "DUMMY1": "-",
+    "KIHON2": "13",
+    "KEYCODE1": "109012013",
+    "KEYCODE2": "109012013",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "南浜常盤町",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 135.76819,
+    "Y_CODE": 34.93085,
+    "KCODE1": "0120-13"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.76826829820763,
+          34.93077884673558
+        ],
+        [
+          135.768105537559,
+          34.93077290392495
+        ],
+        [
+          135.7681170717515,
+          34.930931528588395
+        ],
+        [
+          135.768258217688,
+          34.93091454107378
+        ],
+        [
+          135.76826829820763,
+          34.93077884673558
+        ]
+      ]
+    ]
+  }
+}

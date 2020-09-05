@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "15106042015",
+    "PREF": "15",
+    "CITY": "106",
+    "S_AREA": "042015",
+    "PREF_NAME": "新潟県",
+    "CITY_NAME": "南区",
+    "S_NAME": "上下諏訪木",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 560.011,
+    "PERIMETER": 96.997,
+    "H27KAxx_": 7414,
+    "H27KAxx_ID": 7413,
+    "KEN": "15",
+    "KEN_NAME": "新潟県",
+    "SITYO_NAME": null,
+    "GST_NAME": "新潟市",
+    "CSS_NAME": "南区",
+    "KIHON1": "0420",
+    "DUMMY1": "-",
+    "KIHON2": "15",
+    "KEYCODE1": "106042015",
+    "KEYCODE2": "106042015",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "上下諏訪木",
+    "KBSUM": 1,
+    "JINKO": 3,
+    "SETAI": 1,
+    "X_CODE": 139.01815,
+    "Y_CODE": 37.76001,
+    "KCODE1": "0420-15"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          139.0182585230502,
+          37.759870130953836
+        ],
+        [
+          139.0180354526498,
+          37.759877588612916
+        ],
+        [
+          139.0180594309935,
+          37.76014328592767
+        ],
+        [
+          139.01826658559563,
+          37.760135755926115
+        ],
+        [
+          139.0182585230502,
+          37.759870130953836
+        ]
+      ]
+    ]
+  }
+}

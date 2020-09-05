@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "40210050008",
+    "PREF": "40",
+    "CITY": "210",
+    "S_AREA": "050008",
+    "PREF_NAME": "福岡県",
+    "CITY_NAME": "八女市",
+    "S_NAME": "黒木町木屋",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 1896.589,
+    "PERIMETER": 221.476,
+    "H27KAxx_": 5834,
+    "H27KAxx_ID": 5833,
+    "KEN": "40",
+    "KEN_NAME": "福岡県",
+    "SITYO_NAME": null,
+    "GST_NAME": "八女市",
+    "CSS_NAME": null,
+    "KIHON1": "0500",
+    "DUMMY1": "-",
+    "KIHON2": "08",
+    "KEYCODE1": "210050008",
+    "KEYCODE2": "210050008",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "黒木町木屋",
+    "KBSUM": 1,
+    "JINKO": 50,
+    "SETAI": 1,
+    "X_CODE": 130.70064,
+    "Y_CODE": 33.20846,
+    "KCODE1": "0500-08"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          130.7008964114593,
+          33.20815993842305
+        ],
+        [
+          130.70016884667103,
+          33.20864470244873
+        ],
+        [
+          130.70039418706085,
+          33.20872770265455
+        ],
+        [
+          130.7011412490075,
+          33.20827595509717
+        ],
+        [
+          130.7008964114593,
+          33.20815993842305
+        ]
+      ]
+    ]
+  }
+}

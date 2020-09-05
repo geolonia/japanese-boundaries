@@ -1,0 +1,63 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "024410120",
+    "PREF": "02",
+    "CITY": "441",
+    "S_AREA": "012000",
+    "PREF_NAME": "青森県",
+    "CITY_NAME": "三戸町",
+    "S_NAME": "大字馬喰町",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 3302.362,
+    "PERIMETER": 290.202,
+    "H27KAxx_": 3691,
+    "H27KAxx_ID": 3690,
+    "KEN": "02",
+    "KEN_NAME": "青森県",
+    "SITYO_NAME": null,
+    "GST_NAME": "三戸郡",
+    "CSS_NAME": "三戸町",
+    "KIHON1": "0120",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "441012000",
+    "KEYCODE2": "4410120",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "大字馬喰町",
+    "KBSUM": 1,
+    "JINKO": 9,
+    "SETAI": 3,
+    "X_CODE": 141.25588,
+    "Y_CODE": 40.37625,
+    "KCODE1": "0120-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          141.25624712517921,
+          40.376018309623646
+        ],
+        [
+          141.25491332311267,
+          40.37646491468692
+        ],
+        [
+          141.2560923063309,
+          40.37659534835829
+        ],
+        [
+          141.25624712517921,
+          40.376018309623646
+        ]
+      ]
+    ]
+  }
+}

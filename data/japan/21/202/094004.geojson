@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "21202094004",
+    "PREF": "21",
+    "CITY": "202",
+    "S_AREA": "094004",
+    "PREF_NAME": "岐阜県",
+    "CITY_NAME": "大垣市",
+    "S_NAME": "住吉町４丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 6198.052,
+    "PERIMETER": 346.381,
+    "H27KAxx_": 4511,
+    "H27KAxx_ID": 4510,
+    "KEN": "21",
+    "KEN_NAME": "岐阜県",
+    "SITYO_NAME": null,
+    "GST_NAME": "大垣市",
+    "CSS_NAME": null,
+    "KIHON1": "0940",
+    "DUMMY1": "-",
+    "KIHON2": "04",
+    "KEYCODE1": "202094004",
+    "KEYCODE2": "202094004",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "住吉町４丁目",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 136.63227,
+    "Y_CODE": 35.3606,
+    "KCODE1": "0940-04"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.63292024747193,
+          35.36087413690154
+        ],
+        [
+          136.63296104617024,
+          35.36040868277182
+        ],
+        [
+          136.63161294193256,
+          35.36035398656088
+        ],
+        [
+          136.6315740849491,
+          35.36079733524412
+        ],
+        [
+          136.63292024747193,
+          35.36087413690154
+        ]
+      ]
+    ]
+  }
+}

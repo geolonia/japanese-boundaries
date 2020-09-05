@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "33214094002",
+    "PREF": "33",
+    "CITY": "214",
+    "S_AREA": "094002",
+    "PREF_NAME": "岡山県",
+    "CITY_NAME": "真庭市",
+    "S_NAME": "多田多田中",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 943.839,
+    "PERIMETER": 124.233,
+    "H27KAxx_": 5342,
+    "H27KAxx_ID": 5341,
+    "KEN": "33",
+    "KEN_NAME": "岡山県",
+    "SITYO_NAME": null,
+    "GST_NAME": "真庭市",
+    "CSS_NAME": null,
+    "KIHON1": "0940",
+    "DUMMY1": "-",
+    "KIHON2": "02",
+    "KEYCODE1": "214094002",
+    "KEYCODE2": "214094002",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "多田多田中",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 133.7553,
+    "Y_CODE": 35.08089,
+    "KCODE1": "0940-02"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          133.75529835400675,
+          35.08069141398537
+        ],
+        [
+          133.75505294858527,
+          35.080940544269666
+        ],
+        [
+          133.7552915798269,
+          35.081075204276274
+        ],
+        [
+          133.75554098492043,
+          35.08083609233739
+        ],
+        [
+          133.75529835400675,
+          35.08069141398537
+        ]
+      ]
+    ]
+  }
+}

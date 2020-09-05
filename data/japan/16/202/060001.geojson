@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "16202060001",
+    "PREF": "16",
+    "CITY": "202",
+    "S_AREA": "060001",
+    "PREF_NAME": "富山県",
+    "CITY_NAME": "高岡市",
+    "S_NAME": "上関",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 381.346,
+    "PERIMETER": 80.54,
+    "H27KAxx_": 1158,
+    "H27KAxx_ID": 1157,
+    "KEN": "16",
+    "KEN_NAME": "富山県",
+    "SITYO_NAME": null,
+    "GST_NAME": "高岡市",
+    "CSS_NAME": null,
+    "KIHON1": "0600",
+    "DUMMY1": "-",
+    "KIHON2": "01",
+    "KEYCODE1": "202060001",
+    "KEYCODE2": "202060001",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "上関",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 137.00914,
+    "Y_CODE": 36.73766,
+    "KCODE1": "0600-01"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.00926219908044,
+          36.737716821664506
+        ],
+        [
+          137.00928955602382,
+          36.737575762429714
+        ],
+        [
+          137.00899576580377,
+          36.737593679868354
+        ],
+        [
+          137.00901047084892,
+          36.737735639988585
+        ],
+        [
+          137.00926219908044,
+          36.737716821664506
+        ]
+      ]
+    ]
+  }
+}

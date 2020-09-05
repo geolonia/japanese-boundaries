@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "172020560",
+    "PREF": "17",
+    "CITY": "202",
+    "S_AREA": "056000",
+    "PREF_NAME": "石川県",
+    "CITY_NAME": "七尾市",
+    "S_NAME": "所口町",
+    "KIGO_E": "E8",
+    "HCODE": 8101,
+    "AREA": 300.478,
+    "PERIMETER": 85.092,
+    "H27KAxx_": 1876,
+    "H27KAxx_ID": 1875,
+    "KEN": "17",
+    "KEN_NAME": "石川県",
+    "SITYO_NAME": null,
+    "GST_NAME": "七尾市",
+    "CSS_NAME": null,
+    "KIHON1": "0560",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "202056000",
+    "KEYCODE2": "2020560",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "所口町",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 136.95659,
+    "Y_CODE": 37.04254,
+    "KCODE1": "0560-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.95672131637613,
+          37.042688264382846
+        ],
+        [
+          136.95657367740955,
+          37.042387452948766
+        ],
+        [
+          136.95648080101898,
+          37.042419954455546
+        ],
+        [
+          136.95658407927365,
+          37.04265218505677
+        ],
+        [
+          136.95672131637613,
+          37.042688264382846
+        ]
+      ]
+    ]
+  }
+}

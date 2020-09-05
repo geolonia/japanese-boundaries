@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "21201338002",
+    "PREF": "21",
+    "CITY": "201",
+    "S_AREA": "338002",
+    "PREF_NAME": "岐阜県",
+    "CITY_NAME": "岐阜市",
+    "S_NAME": "長良白妙町２丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 4149.686,
+    "PERIMETER": 279.844,
+    "H27KAxx_": 6427,
+    "H27KAxx_ID": 6426,
+    "KEN": "21",
+    "KEN_NAME": "岐阜県",
+    "SITYO_NAME": null,
+    "GST_NAME": "岐阜市",
+    "CSS_NAME": null,
+    "KIHON1": "3380",
+    "DUMMY1": "-",
+    "KIHON2": "02",
+    "KEYCODE1": "201338002",
+    "KEYCODE2": "201338002",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "長良白妙町２丁目",
+    "KBSUM": 1,
+    "JINKO": 37,
+    "SETAI": 15,
+    "X_CODE": 136.77889,
+    "Y_CODE": 35.44412,
+    "KCODE1": "3380-02"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.7794415432132,
+          35.44427707454335
+        ],
+        [
+          136.7793981617555,
+          35.443893173508414
+        ],
+        [
+          136.77833737381525,
+          35.44396087597485
+        ],
+        [
+          136.77836633948425,
+          35.44434399081385
+        ],
+        [
+          136.7794415432132,
+          35.44427707454335
+        ]
+      ]
+    ]
+  }
+}

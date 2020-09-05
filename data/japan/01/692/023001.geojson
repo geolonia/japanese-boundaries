@@ -1,0 +1,63 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "01692023001",
+    "PREF": "01",
+    "CITY": "692",
+    "S_AREA": "023001",
+    "PREF_NAME": "北海道",
+    "CITY_NAME": "中標津町",
+    "S_NAME": "西二条北５丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 1000.001,
+    "PERIMETER": 181.543,
+    "H27KAxx_": 4949,
+    "H27KAxx_ID": 4948,
+    "KEN": "01",
+    "KEN_NAME": "北海道",
+    "SITYO_NAME": "根室振興局",
+    "GST_NAME": "標津郡",
+    "CSS_NAME": "中標津町",
+    "KIHON1": "0230",
+    "DUMMY1": "-",
+    "KIHON2": "01",
+    "KEYCODE1": "692023001",
+    "KEYCODE2": "692023001",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "西二条北５丁目",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 144.96809,
+    "Y_CODE": 43.54966,
+    "KCODE1": "0230-01"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          144.96782656083394,
+          43.549387949792276
+        ],
+        [
+          144.96751907697364,
+          43.54953315885102
+        ],
+        [
+          144.9684611097317,
+          43.549812026020895
+        ],
+        [
+          144.96782656083394,
+          43.549387949792276
+        ]
+      ]
+    ]
+  }
+}

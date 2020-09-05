@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "35206058023",
+    "PREF": "35",
+    "CITY": "206",
+    "S_AREA": "058023",
+    "PREF_NAME": "山口県",
+    "CITY_NAME": "防府市",
+    "S_NAME": "大字田島西須賀",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 5215.269,
+    "PERIMETER": 313.056,
+    "H27KAxx_": 1929,
+    "H27KAxx_ID": 1928,
+    "KEN": "35",
+    "KEN_NAME": "山口県",
+    "SITYO_NAME": null,
+    "GST_NAME": "防府市",
+    "CSS_NAME": null,
+    "KIHON1": "0580",
+    "DUMMY1": "-",
+    "KIHON2": "23",
+    "KEYCODE1": "206058023",
+    "KEYCODE2": "206058023",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "大字田島西須賀",
+    "KBSUM": 1,
+    "JINKO": 22,
+    "SETAI": 7,
+    "X_CODE": 131.56251,
+    "Y_CODE": 34.0285,
+    "KCODE1": "0580-23"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          131.5630884406019,
+          34.02815459537291
+        ],
+        [
+          131.5625237160864,
+          34.02804320440831
+        ],
+        [
+          131.56193518460776,
+          34.02883723688305
+        ],
+        [
+          131.56250434910478,
+          34.02893766254938
+        ],
+        [
+          131.5630884406019,
+          34.02815459537291
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "21219032004",
+    "PREF": "21",
+    "CITY": "219",
+    "S_AREA": "032004",
+    "PREF_NAME": "岐阜県",
+    "CITY_NAME": "郡上市",
+    "S_NAME": "初納",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 5293.22,
+    "PERIMETER": 305.343,
+    "H27KAxx_": 1548,
+    "H27KAxx_ID": 1547,
+    "KEN": "21",
+    "KEN_NAME": "岐阜県",
+    "SITYO_NAME": null,
+    "GST_NAME": "郡上市",
+    "CSS_NAME": null,
+    "KIHON1": "0320",
+    "DUMMY1": "-",
+    "KIHON2": "04",
+    "KEYCODE1": "219032004",
+    "KEYCODE2": "219032004",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "初納",
+    "KBSUM": 1,
+    "JINKO": 100,
+    "SETAI": 42,
+    "X_CODE": 137.00654,
+    "Y_CODE": 35.78595,
+    "KCODE1": "0320-04"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.0063544779038,
+          35.78643302648557
+        ],
+        [
+          137.00693320982774,
+          35.78634455882617
+        ],
+        [
+          137.00673038973108,
+          35.785463605513726
+        ],
+        [
+          137.0061516525306,
+          35.78555205498339
+        ],
+        [
+          137.0063544779038,
+          35.78643302648557
+        ]
+      ]
+    ]
+  }
+}

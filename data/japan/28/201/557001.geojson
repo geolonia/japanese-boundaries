@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "28201557001",
+    "PREF": "28",
+    "CITY": "201",
+    "S_AREA": "557001",
+    "PREF_NAME": "兵庫県",
+    "CITY_NAME": "姫路市",
+    "S_NAME": "広畑区鶴町１丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 85982.248,
+    "PERIMETER": 1175.177,
+    "H27KAxx_": 7733,
+    "H27KAxx_ID": 7732,
+    "KEN": "28",
+    "KEN_NAME": "兵庫県",
+    "SITYO_NAME": null,
+    "GST_NAME": "姫路市",
+    "CSS_NAME": null,
+    "KIHON1": "5570",
+    "DUMMY1": "-",
+    "KIHON2": "01",
+    "KEYCODE1": "201557001",
+    "KEYCODE2": "201557001",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "広畑区鶴町１丁目",
+    "KBSUM": 1,
+    "JINKO": 53,
+    "SETAI": 18,
+    "X_CODE": 134.63131,
+    "Y_CODE": 34.79407,
+    "KCODE1": "5570-01"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          134.6330093232037,
+          34.79281421123477
+        ],
+        [
+          134.62959927031562,
+          34.79283793544421
+        ],
+        [
+          134.6296149438701,
+          34.79530954872859
+        ],
+        [
+          134.63302407172458,
+          34.79531118383733
+        ],
+        [
+          134.6330093232037,
+          34.79281421123477
+        ]
+      ]
+    ]
+  }
+}

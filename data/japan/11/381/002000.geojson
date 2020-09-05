@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "113810020",
+    "PREF": "11",
+    "CITY": "381",
+    "S_AREA": "002000",
+    "PREF_NAME": "埼玉県",
+    "CITY_NAME": "美里町",
+    "S_NAME": "大字関",
+    "KIGO_E": "E2",
+    "HCODE": 8101,
+    "AREA": 3172.42,
+    "PERIMETER": 234.167,
+    "H27KAxx_": 15,
+    "H27KAxx_ID": 14,
+    "KEN": "11",
+    "KEN_NAME": "埼玉県",
+    "SITYO_NAME": null,
+    "GST_NAME": "児玉郡",
+    "CSS_NAME": "美里町",
+    "KIHON1": "0020",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "381002000",
+    "KEYCODE2": "3810020",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "大字関",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 139.2,
+    "Y_CODE": 36.18485,
+    "KCODE1": "0020-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          139.19960193779175,
+          36.185057795680045
+        ],
+        [
+          139.20042206488242,
+          36.18502833887724
+        ],
+        [
+          139.20039734315844,
+          36.18464516870263
+        ],
+        [
+          139.19956332413994,
+          36.18467455166722
+        ],
+        [
+          139.19960193779175,
+          36.185057795680045
+        ]
+      ]
+    ]
+  }
+}

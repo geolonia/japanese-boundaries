@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "29211001005",
+    "PREF": "29",
+    "CITY": "211",
+    "S_AREA": "001005",
+    "PREF_NAME": "奈良県",
+    "CITY_NAME": "葛城市",
+    "S_NAME": "新庄",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 6899.015,
+    "PERIMETER": 342.662,
+    "H27KAxx_": 2216,
+    "H27KAxx_ID": 2215,
+    "KEN": "29",
+    "KEN_NAME": "奈良県",
+    "SITYO_NAME": null,
+    "GST_NAME": "葛城市",
+    "CSS_NAME": null,
+    "KIHON1": "0010",
+    "DUMMY1": "-",
+    "KIHON2": "05",
+    "KEYCODE1": "211001005",
+    "KEYCODE2": "211001005",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "新庄",
+    "KBSUM": 1,
+    "JINKO": 28,
+    "SETAI": 13,
+    "X_CODE": 135.72034,
+    "Y_CODE": 34.48783,
+    "KCODE1": "0010-05"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.72092237617875,
+          34.48811784385981
+        ],
+        [
+          135.72091874295907,
+          34.48753887434623
+        ],
+        [
+          135.71976022505365,
+          34.487525935667556
+        ],
+        [
+          135.71975929179553,
+          34.488113769525526
+        ],
+        [
+          135.72092237617875,
+          34.48811784385981
+        ]
+      ]
+    ]
+  }
+}

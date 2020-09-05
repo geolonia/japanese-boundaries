@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "11201096002",
+    "PREF": "11",
+    "CITY": "201",
+    "S_AREA": "096002",
+    "PREF_NAME": "埼玉県",
+    "CITY_NAME": "川越市",
+    "S_NAME": "大字今福",
+    "KIGO_E": "E4",
+    "HCODE": 8101,
+    "AREA": 2926.87,
+    "PERIMETER": 217.311,
+    "H27KAxx_": 2012,
+    "H27KAxx_ID": 2011,
+    "KEN": "11",
+    "KEN_NAME": "埼玉県",
+    "SITYO_NAME": null,
+    "GST_NAME": "川越市",
+    "CSS_NAME": null,
+    "KIHON1": "0960",
+    "DUMMY1": "-",
+    "KIHON2": "02",
+    "KEYCODE1": "201096002",
+    "KEYCODE2": "201096002",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "大字今福",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 139.47537,
+    "Y_CODE": 35.87106,
+    "KCODE1": "0960-02"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          139.4754310857585,
+          35.8714222058835
+        ],
+        [
+          139.47576171720786,
+          35.870985808638004
+        ],
+        [
+          139.47534923111897,
+          35.87070310823062
+        ],
+        [
+          139.47496517189757,
+          35.871126098212336
+        ],
+        [
+          139.4754310857585,
+          35.8714222058835
+        ]
+      ]
+    ]
+  }
+}

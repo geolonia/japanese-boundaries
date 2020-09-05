@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "163230250",
+    "PREF": "16",
+    "CITY": "323",
+    "S_AREA": "025000",
+    "PREF_NAME": "富山県",
+    "CITY_NAME": "立山町",
+    "S_NAME": "江崎",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 3127.345,
+    "PERIMETER": 224.308,
+    "H27KAxx_": 2792,
+    "H27KAxx_ID": 2791,
+    "KEN": "16",
+    "KEN_NAME": "富山県",
+    "SITYO_NAME": null,
+    "GST_NAME": "中新川郡",
+    "CSS_NAME": "立山町",
+    "KIHON1": "0250",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "323025000",
+    "KEYCODE2": "3230250",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "江崎",
+    "KBSUM": 1,
+    "JINKO": 59,
+    "SETAI": 29,
+    "X_CODE": 137.32723,
+    "Y_CODE": 36.66638,
+    "KCODE1": "0250-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.32753700414034,
+          36.66610641422233
+        ],
+        [
+          137.3269352131405,
+          36.66611321245166
+        ],
+        [
+          137.32694012740234,
+          36.666648662134016
+        ],
+        [
+          137.3275059360274,
+          36.66665120612169
+        ],
+        [
+          137.32753700414034,
+          36.66610641422233
+        ]
+      ]
+    ]
+  }
+}

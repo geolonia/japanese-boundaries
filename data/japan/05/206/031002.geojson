@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "05206031002",
+    "PREF": "05",
+    "CITY": "206",
+    "S_AREA": "031002",
+    "PREF_NAME": "秋田県",
+    "CITY_NAME": "男鹿市",
+    "S_NAME": "男鹿中国有地内",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 171791.466,
+    "PERIMETER": 1698.554,
+    "H27KAxx_": 3168,
+    "H27KAxx_ID": 3167,
+    "KEN": "05",
+    "KEN_NAME": "秋田県",
+    "SITYO_NAME": null,
+    "GST_NAME": "男鹿市",
+    "CSS_NAME": null,
+    "KIHON1": "0310",
+    "DUMMY1": "-",
+    "KIHON2": "02",
+    "KEYCODE1": "206031002",
+    "KEYCODE2": "206031002",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "男鹿中国有地内",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 139.75598,
+    "Y_CODE": 39.90752,
+    "KCODE1": "0310-02"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          139.7558563175262,
+          39.90965727953117
+        ],
+        [
+          139.75981254083214,
+          39.90816070431479
+        ],
+        [
+          139.75612491393235,
+          39.905049912666385
+        ],
+        [
+          139.75203235284135,
+          39.90688807423591
+        ],
+        [
+          139.7558563175262,
+          39.90965727953117
+        ]
+      ]
+    ]
+  }
+}

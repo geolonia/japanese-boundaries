@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "04213057058",
+    "PREF": "04",
+    "CITY": "213",
+    "S_AREA": "057058",
+    "PREF_NAME": "宮城県",
+    "CITY_NAME": "栗原市",
+    "S_NAME": "瀬峰根岸",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 4170.272,
+    "PERIMETER": 270.526,
+    "H27KAxx_": 4304,
+    "H27KAxx_ID": 4303,
+    "KEN": "04",
+    "KEN_NAME": "宮城県",
+    "SITYO_NAME": null,
+    "GST_NAME": "栗原市",
+    "CSS_NAME": null,
+    "KIHON1": "0570",
+    "DUMMY1": "-",
+    "KIHON2": "58",
+    "KEYCODE1": "213057058",
+    "KEYCODE2": "213057058",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "瀬峰根岸",
+    "KBSUM": 1,
+    "JINKO": 59,
+    "SETAI": 2,
+    "X_CODE": 141.0714,
+    "Y_CODE": 38.65173,
+    "KCODE1": "0570-58"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          141.07089582386766,
+          38.65151568890607
+        ],
+        [
+          141.07088888429035,
+          38.65193830160074
+        ],
+        [
+          141.071899803492,
+          38.6519461004469
+        ],
+        [
+          141.07190043766755,
+          38.651512099503755
+        ],
+        [
+          141.07089582386766,
+          38.65151568890607
+        ]
+      ]
+    ]
+  }
+}

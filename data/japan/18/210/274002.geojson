@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "18210274002",
+    "PREF": "18",
+    "CITY": "210",
+    "S_AREA": "274002",
+    "PREF_NAME": "福井県",
+    "CITY_NAME": "坂井市",
+    "S_NAME": "朝日２丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 5753.44,
+    "PERIMETER": 389.113,
+    "H27KAxx_": 1964,
+    "H27KAxx_ID": 1963,
+    "KEN": "18",
+    "KEN_NAME": "福井県",
+    "SITYO_NAME": null,
+    "GST_NAME": "坂井市",
+    "CSS_NAME": null,
+    "KIHON1": "2740",
+    "DUMMY1": "-",
+    "KIHON2": "02",
+    "KEYCODE1": "210274002",
+    "KEYCODE2": "210274002",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "朝日２丁目",
+    "KBSUM": 1,
+    "JINKO": 53,
+    "SETAI": 16,
+    "X_CODE": 136.23877,
+    "Y_CODE": 36.16057,
+    "KCODE1": "2740-02"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.23864301571436,
+          36.16128632519616
+        ],
+        [
+          136.2392920795545,
+          36.15993386530957
+        ],
+        [
+          136.2388648381171,
+          36.15992140567986
+        ],
+        [
+          136.2382422357298,
+          36.161197272119225
+        ],
+        [
+          136.23864301571436,
+          36.16128632519616
+        ]
+      ]
+    ]
+  }
+}

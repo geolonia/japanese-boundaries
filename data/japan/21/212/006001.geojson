@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "21212006001",
+    "PREF": "21",
+    "CITY": "212",
+    "S_AREA": "006001",
+    "PREF_NAME": "岐阜県",
+    "CITY_NAME": "土岐市",
+    "S_NAME": "泉大沼町１丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 10901.297,
+    "PERIMETER": 563.724,
+    "H27KAxx_": 2977,
+    "H27KAxx_ID": 2976,
+    "KEN": "21",
+    "KEN_NAME": "岐阜県",
+    "SITYO_NAME": null,
+    "GST_NAME": "土岐市",
+    "CSS_NAME": null,
+    "KIHON1": "0060",
+    "DUMMY1": "-",
+    "KIHON2": "01",
+    "KEYCODE1": "212006001",
+    "KEYCODE2": "212006001",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "泉大沼町１丁目",
+    "KBSUM": 1,
+    "JINKO": 56,
+    "SETAI": 23,
+    "X_CODE": 137.17679,
+    "Y_CODE": 35.35819,
+    "KCODE1": "0060-01"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.1777068453666,
+          35.358968527837916
+        ],
+        [
+          137.17629798404454,
+          35.357199419516526
+        ],
+        [
+          137.17588344623712,
+          35.35741515279483
+        ],
+        [
+          137.1772763564818,
+          35.359218915025046
+        ],
+        [
+          137.1777068453666,
+          35.358968527837916
+        ]
+      ]
+    ]
+  }
+}

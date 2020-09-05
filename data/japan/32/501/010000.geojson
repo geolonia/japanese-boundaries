@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "32501010000",
+    "PREF": "32",
+    "CITY": "501",
+    "S_AREA": "010000",
+    "PREF_NAME": "島根県",
+    "CITY_NAME": "津和野町",
+    "S_NAME": "冨田",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 5622.389,
+    "PERIMETER": 324.272,
+    "H27KAxx_": 1486,
+    "H27KAxx_ID": 1485,
+    "KEN": "32",
+    "KEN_NAME": "島根県",
+    "SITYO_NAME": null,
+    "GST_NAME": "鹿足郡",
+    "CSS_NAME": "津和野町",
+    "KIHON1": "0100",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "501010000",
+    "KEYCODE2": "501010000",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "冨田",
+    "KBSUM": 1,
+    "JINKO": 49,
+    "SETAI": 24,
+    "X_CODE": 131.79979,
+    "Y_CODE": 34.5606,
+    "KCODE1": "0100-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          131.79963861669066,
+          34.56009114027101
+        ],
+        [
+          131.79938971146484,
+          34.56106744562728
+        ],
+        [
+          131.79996011857082,
+          34.56113648597101
+        ],
+        [
+          131.80015953851458,
+          34.56013439409997
+        ],
+        [
+          131.79963861669066,
+          34.56009114027101
+        ]
+      ]
+    ]
+  }
+}

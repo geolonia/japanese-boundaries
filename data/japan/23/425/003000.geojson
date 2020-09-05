@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "234250030",
+    "PREF": "23",
+    "CITY": "425",
+    "S_AREA": "003000",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "蟹江町",
+    "S_NAME": "大字須成",
+    "KIGO_E": "E3",
+    "HCODE": 8101,
+    "AREA": 1343.256,
+    "PERIMETER": 147.03,
+    "H27KAxx_": 1141,
+    "H27KAxx_ID": 1140,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "海部郡",
+    "CSS_NAME": "蟹江町",
+    "KIHON1": "0030",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "425003000",
+    "KEYCODE2": "4250030",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "大字須成",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 136.78403,
+    "Y_CODE": 35.14297,
+    "KCODE1": "0030-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.78416800789688,
+          35.143148920177424
+        ],
+        [
+          136.7842791002108,
+          35.142835674324516
+        ],
+        [
+          136.78387745620935,
+          35.14275771078982
+        ],
+        [
+          136.78380675362206,
+          35.143114395161774
+        ],
+        [
+          136.78416800789688,
+          35.143148920177424
+        ]
+      ]
+    ]
+  }
+}

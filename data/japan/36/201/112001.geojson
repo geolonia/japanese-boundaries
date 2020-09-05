@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "36201112001",
+    "PREF": "36",
+    "CITY": "201",
+    "S_AREA": "112001",
+    "PREF_NAME": "徳島県",
+    "CITY_NAME": "徳島市",
+    "S_NAME": "沖浜１丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 623.359,
+    "PERIMETER": 105.931,
+    "H27KAxx_": 1006,
+    "H27KAxx_ID": 1005,
+    "KEN": "36",
+    "KEN_NAME": "徳島県",
+    "SITYO_NAME": null,
+    "GST_NAME": "徳島市",
+    "CSS_NAME": null,
+    "KIHON1": "1120",
+    "DUMMY1": "-",
+    "KIHON2": "01",
+    "KEYCODE1": "201112001",
+    "KEYCODE2": "201112001",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "沖浜１丁目",
+    "KBSUM": 1,
+    "JINKO": 116,
+    "SETAI": 54,
+    "X_CODE": 134.55318,
+    "Y_CODE": 34.05449,
+    "KCODE1": "1120-01"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          134.55332199662232,
+          34.05462227579398
+        ],
+        [
+          134.55321406276045,
+          34.05431139408223
+        ],
+        [
+          134.55303143272127,
+          34.05435803582928
+        ],
+        [
+          134.5531350910517,
+          34.05465853065364
+        ],
+        [
+          134.55332199662232,
+          34.05462227579398
+        ]
+      ]
+    ]
+  }
+}

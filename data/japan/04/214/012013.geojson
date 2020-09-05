@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "04214012013",
+    "PREF": "04",
+    "CITY": "214",
+    "S_AREA": "012013",
+    "PREF_NAME": "宮城県",
+    "CITY_NAME": "東松島市",
+    "S_NAME": "川下字茗ケ沢",
+    "KIGO_E": "E2",
+    "HCODE": 8101,
+    "AREA": 6107.229,
+    "PERIMETER": 320.166,
+    "H27KAxx_": 389,
+    "H27KAxx_ID": 388,
+    "KEN": "04",
+    "KEN_NAME": "宮城県",
+    "SITYO_NAME": null,
+    "GST_NAME": "東松島市",
+    "CSS_NAME": null,
+    "KIHON1": "0120",
+    "DUMMY1": "-",
+    "KIHON2": "13",
+    "KEYCODE1": "214012013",
+    "KEYCODE2": "214012013",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "川下字茗ケ沢",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 141.13653,
+    "Y_CODE": 38.40949,
+    "KCODE1": "0120-13"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          141.1366281896178,
+          38.408969620085145
+        ],
+        [
+          141.13588067183264,
+          38.40962057781201
+        ],
+        [
+          141.13641057654257,
+          38.40998391413068
+        ],
+        [
+          141.1371804658917,
+          38.40935261597502
+        ],
+        [
+          141.1366281896178,
+          38.408969620085145
+        ]
+      ]
+    ]
+  }
+}

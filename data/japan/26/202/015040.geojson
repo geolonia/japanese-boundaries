@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "26202015040",
+    "PREF": "26",
+    "CITY": "202",
+    "S_AREA": "015040",
+    "PREF_NAME": "京都府",
+    "CITY_NAME": "舞鶴市",
+    "S_NAME": "中筋エクセレント伊佐津",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 1757.981,
+    "PERIMETER": 210.614,
+    "H27KAxx_": 1475,
+    "H27KAxx_ID": 1474,
+    "KEN": "26",
+    "KEN_NAME": "京都府",
+    "SITYO_NAME": null,
+    "GST_NAME": "舞鶴市",
+    "CSS_NAME": null,
+    "KIHON1": "0150",
+    "DUMMY1": "-",
+    "KIHON2": "40",
+    "KEYCODE1": "202015040",
+    "KEYCODE2": "202015040",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "中筋エクセレント伊佐津",
+    "KBSUM": 1,
+    "JINKO": 103,
+    "SETAI": 43,
+    "X_CODE": 135.33026,
+    "Y_CODE": 35.4388,
+    "KCODE1": "0150-40"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.3302969599325,
+          35.43840772140527
+        ],
+        [
+          135.33005632413895,
+          35.438439204241824
+        ],
+        [
+          135.3302418156532,
+          35.43918664216983
+        ],
+        [
+          135.33045360928455,
+          35.439157322982496
+        ],
+        [
+          135.3302969599325,
+          35.43840772140527
+        ]
+      ]
+    ]
+  }
+}

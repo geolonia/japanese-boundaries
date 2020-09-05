@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "152131050",
+    "PREF": "15",
+    "CITY": "213",
+    "S_AREA": "105000",
+    "PREF_NAME": "新潟県",
+    "CITY_NAME": "燕市",
+    "S_NAME": "五千石",
+    "KIGO_E": "E3",
+    "HCODE": 8101,
+    "AREA": 5479.842,
+    "PERIMETER": 463.186,
+    "H27KAxx_": 7767,
+    "H27KAxx_ID": 7766,
+    "KEN": "15",
+    "KEN_NAME": "新潟県",
+    "SITYO_NAME": null,
+    "GST_NAME": "燕市",
+    "CSS_NAME": null,
+    "KIHON1": "1050",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "213105000",
+    "KEYCODE2": "2131050",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "五千石",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 138.85058,
+    "Y_CODE": 37.61551,
+    "KCODE1": "1050-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          138.85116140853162,
+          37.61467825080817
+        ],
+        [
+          138.84976603014584,
+          37.616199823535155
+        ],
+        [
+          138.85007381028208,
+          37.6162926787487
+        ],
+        [
+          138.8513829303913,
+          37.614828237063456
+        ],
+        [
+          138.85116140853162,
+          37.61467825080817
+        ]
+      ]
+    ]
+  }
+}

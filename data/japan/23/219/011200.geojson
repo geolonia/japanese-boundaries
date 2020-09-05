@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "232190112",
+    "PREF": "23",
+    "CITY": "219",
+    "S_AREA": "011200",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "小牧市",
+    "S_NAME": "大字小牧原新田",
+    "KIGO_E": "E4",
+    "HCODE": 8101,
+    "AREA": 2289.367,
+    "PERIMETER": 195.434,
+    "H27KAxx_": 2800,
+    "H27KAxx_ID": 2799,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "小牧市",
+    "CSS_NAME": null,
+    "KIHON1": "0112",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "219011200",
+    "KEYCODE2": "2190112",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "大字小牧原新田",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 136.9343,
+    "Y_CODE": 35.30533,
+    "KCODE1": "0112-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.9344483202462,
+          35.30497427354502
+        ],
+        [
+          136.93400540191686,
+          35.30521940338882
+        ],
+        [
+          136.93406379867184,
+          35.30558572045987
+        ],
+        [
+          136.9346056662025,
+          35.30544522026133
+        ],
+        [
+          136.9344483202462,
+          35.30497427354502
+        ]
+      ]
+    ]
+  }
+}

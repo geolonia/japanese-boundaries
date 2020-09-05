@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "16202049001",
+    "PREF": "16",
+    "CITY": "202",
+    "S_AREA": "049001",
+    "PREF_NAME": "富山県",
+    "CITY_NAME": "高岡市",
+    "S_NAME": "片原町片原町",
+    "KIGO_E": "E2",
+    "HCODE": 8101,
+    "AREA": 574.415,
+    "PERIMETER": 96.351,
+    "H27KAxx_": 1771,
+    "H27KAxx_ID": 1770,
+    "KEN": "16",
+    "KEN_NAME": "富山県",
+    "SITYO_NAME": null,
+    "GST_NAME": "高岡市",
+    "CSS_NAME": null,
+    "KIHON1": "0490",
+    "DUMMY1": "-",
+    "KIHON2": "01",
+    "KEYCODE1": "202049001",
+    "KEYCODE2": "202049001",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "片原町片原町",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 137.01472,
+    "Y_CODE": 36.74731,
+    "KCODE1": "0490-01"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.014732668974,
+          36.74746753058752
+        ],
+        [
+          137.014904106597,
+          36.74727222611459
+        ],
+        [
+          137.01470583274588,
+          36.747159890269245
+        ],
+        [
+          137.01453439637535,
+          36.747354419441216
+        ],
+        [
+          137.014732668974,
+          36.74746753058752
+        ]
+      ]
+    ]
+  }
+}

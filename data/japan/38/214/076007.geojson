@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "38214076007",
+    "PREF": "38",
+    "CITY": "214",
+    "S_AREA": "076007",
+    "PREF_NAME": "愛媛県",
+    "CITY_NAME": "西予市",
+    "S_NAME": "城川町土居",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 4464.272,
+    "PERIMETER": 271.022,
+    "H27KAxx_": 76,
+    "H27KAxx_ID": 75,
+    "KEN": "38",
+    "KEN_NAME": "愛媛県",
+    "SITYO_NAME": null,
+    "GST_NAME": "西予市",
+    "CSS_NAME": null,
+    "KIHON1": "0760",
+    "DUMMY1": "-",
+    "KIHON2": "07",
+    "KEYCODE1": "214076007",
+    "KEYCODE2": "214076007",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "城川町土居",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 132.76642,
+    "Y_CODE": 33.38238,
+    "KCODE1": "0760-07"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          132.7661973366255,
+          33.382772292786
+        ],
+        [
+          132.76679469804378,
+          33.38268045034863
+        ],
+        [
+          132.76664163040164,
+          33.381979766126996
+        ],
+        [
+          132.76604427453807,
+          33.38207160602908
+        ],
+        [
+          132.7661973366255,
+          33.382772292786
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "36201026003",
+    "PREF": "36",
+    "CITY": "201",
+    "S_AREA": "026003",
+    "PREF_NAME": "徳島県",
+    "CITY_NAME": "徳島市",
+    "S_NAME": "秋田町３丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 5755.158,
+    "PERIMETER": 377.009,
+    "H27KAxx_": 945,
+    "H27KAxx_ID": 944,
+    "KEN": "36",
+    "KEN_NAME": "徳島県",
+    "SITYO_NAME": null,
+    "GST_NAME": "徳島市",
+    "CSS_NAME": null,
+    "KIHON1": "0260",
+    "DUMMY1": "-",
+    "KIHON2": "03",
+    "KEYCODE1": "201026003",
+    "KEYCODE2": "201026003",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "秋田町３丁目",
+    "KBSUM": 1,
+    "JINKO": 19,
+    "SETAI": 11,
+    "X_CODE": 134.54921,
+    "Y_CODE": 34.06301,
+    "KCODE1": "0260-03"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          134.54944673247323,
+          34.063677131948836
+        ],
+        [
+          134.54938326021818,
+          34.06232598178005
+        ],
+        [
+          134.5489671750039,
+          34.06234968140667
+        ],
+        [
+          134.54903422903973,
+          34.06370368838521
+        ],
+        [
+          134.54944673247323,
+          34.063677131948836
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "07209021003",
+    "PREF": "07",
+    "CITY": "209",
+    "S_AREA": "021003",
+    "PREF_NAME": "福島県",
+    "CITY_NAME": "相馬市",
+    "S_NAME": "新田字南城",
+    "KIGO_E": "E2",
+    "HCODE": 8101,
+    "AREA": 2701.251,
+    "PERIMETER": 223.853,
+    "H27KAxx_": 5740,
+    "H27KAxx_ID": 5739,
+    "KEN": "07",
+    "KEN_NAME": "福島県",
+    "SITYO_NAME": null,
+    "GST_NAME": "相馬市",
+    "CSS_NAME": null,
+    "KIHON1": "0210",
+    "DUMMY1": "-",
+    "KIHON2": "03",
+    "KEYCODE1": "209021003",
+    "KEYCODE2": "209021003",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "新田字南城",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 140.96013,
+    "Y_CODE": 37.78656,
+    "KCODE1": "0210-03"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          140.9605402554865,
+          37.78688136503887
+        ],
+        [
+          140.96054947384576,
+          37.78654226961026
+        ],
+        [
+          140.9598918386591,
+          37.78626502348528
+        ],
+        [
+          140.9596973889386,
+          37.786584491734395
+        ],
+        [
+          140.9605402554865,
+          37.78688136503887
+        ]
+      ]
+    ]
+  }
+}

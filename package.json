@@ -1,0 +1,18 @@
+{
+  "name": "estat-boundaries",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "devDependencies": {
+    "mkdirp": "^1.0.4",
+    "rimraf": "^3.0.2"
+  },
+  "dependencies": {},
+  "scripts": {
+    "clean": "node ./bin/clean.js",
+    "download": "node ./bin/download.js",
+    "transform": "node ./bin/transform.js",
+    "tree": "node ./bin/tree.js",
+    "build": "npm run clean && npm run download && npm run transform && npm run tree"
+  }
+}

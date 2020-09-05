@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "05203126006",
+    "PREF": "05",
+    "CITY": "203",
+    "S_AREA": "126006",
+    "PREF_NAME": "秋田県",
+    "CITY_NAME": "横手市",
+    "S_NAME": "十文字町梨木字御休ノ上",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 9192.66,
+    "PERIMETER": 385.347,
+    "H27KAxx_": 3073,
+    "H27KAxx_ID": 3072,
+    "KEN": "05",
+    "KEN_NAME": "秋田県",
+    "SITYO_NAME": null,
+    "GST_NAME": "横手市",
+    "CSS_NAME": null,
+    "KIHON1": "1260",
+    "DUMMY1": "-",
+    "KIHON2": "06",
+    "KEYCODE1": "203126006",
+    "KEYCODE2": "203126006",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "十文字町梨木字御休ノ上",
+    "KBSUM": 1,
+    "JINKO": 57,
+    "SETAI": 1,
+    "X_CODE": 140.52386,
+    "Y_CODE": 39.23759,
+    "KCODE1": "1260-06"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          140.52415211271764,
+          39.23699095683168
+        ],
+        [
+          140.52317627611765,
+          39.23728369578002
+        ],
+        [
+          140.52361839365744,
+          39.23817055679432
+        ],
+        [
+          140.52452809655756,
+          39.237890519250065
+        ],
+        [
+          140.52415211271764,
+          39.23699095683168
+        ]
+      ]
+    ]
+  }
+}

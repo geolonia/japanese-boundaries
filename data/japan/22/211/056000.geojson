@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "222110560",
+    "PREF": "22",
+    "CITY": "211",
+    "S_AREA": "056000",
+    "PREF_NAME": "静岡県",
+    "CITY_NAME": "磐田市",
+    "S_NAME": "豊島",
+    "KIGO_E": "E3",
+    "HCODE": 8101,
+    "AREA": 6368.104,
+    "PERIMETER": 351.235,
+    "H27KAxx_": 3284,
+    "H27KAxx_ID": 3283,
+    "KEN": "22",
+    "KEN_NAME": "静岡県",
+    "SITYO_NAME": null,
+    "GST_NAME": "磐田市",
+    "CSS_NAME": null,
+    "KIHON1": "0560",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "211056000",
+    "KEYCODE2": "2110560",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "豊島",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 137.84337,
+    "Y_CODE": 34.70162,
+    "KCODE1": "0560-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.84384284186262,
+          34.70190067538811
+        ],
+        [
+          137.84395898089977,
+          34.70134578750901
+        ],
+        [
+          137.84323827879402,
+          34.70127935512308
+        ],
+        [
+          137.8424830412708,
+          34.70190191704007
+        ],
+        [
+          137.84384284186262,
+          34.70190067538811
+        ]
+      ]
+    ]
+  }
+}

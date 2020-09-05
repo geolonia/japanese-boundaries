@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "26210603018",
+    "PREF": "26",
+    "CITY": "210",
+    "S_AREA": "603018",
+    "PREF_NAME": "京都府",
+    "CITY_NAME": "八幡市",
+    "S_NAME": "岩田（有都）西嵐",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 22422.605,
+    "PERIMETER": 734.226,
+    "H27KAxx_": 9497,
+    "H27KAxx_ID": 9496,
+    "KEN": "26",
+    "KEN_NAME": "京都府",
+    "SITYO_NAME": null,
+    "GST_NAME": "八幡市",
+    "CSS_NAME": null,
+    "KIHON1": "6030",
+    "DUMMY1": "-",
+    "KIHON2": "18",
+    "KEYCODE1": "210603018",
+    "KEYCODE2": "210603018",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "岩田（有都）西嵐",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 135.73869,
+    "Y_CODE": 34.85266,
+    "KCODE1": "6030-18"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          135.74027673823943,
+          34.85301594511882
+        ],
+        [
+          135.74027241201466,
+          34.8523121318496
+        ],
+        [
+          135.73710603388298,
+          34.85231187760822
+        ],
+        [
+          135.73710661036856,
+          34.85300349831577
+        ],
+        [
+          135.74027673823943,
+          34.85301594511882
+        ]
+      ]
+    ]
+  }
+}

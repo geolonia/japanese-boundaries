@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "23211089003",
+    "PREF": "23",
+    "CITY": "211",
+    "S_AREA": "089003",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "豊田市",
+    "S_NAME": "緑ケ丘３丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 6648.209,
+    "PERIMETER": 364.316,
+    "H27KAxx_": 5084,
+    "H27KAxx_ID": 5083,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "豊田市",
+    "CSS_NAME": null,
+    "KIHON1": "0890",
+    "DUMMY1": "-",
+    "KIHON2": "03",
+    "KEYCODE1": "211089003",
+    "KEYCODE2": "211089003",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "緑ケ丘３丁目",
+    "KBSUM": 1,
+    "JINKO": 139,
+    "SETAI": 63,
+    "X_CODE": 137.14437,
+    "Y_CODE": 35.06539,
+    "KCODE1": "0890-03"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.14487031593353,
+          35.0653317263426
+        ],
+        [
+          137.14473932484032,
+          35.06473518233133
+        ],
+        [
+          137.14385084693382,
+          35.06544834095495
+        ],
+        [
+          137.14413832005644,
+          35.06609302187516
+        ],
+        [
+          137.14487031593353,
+          35.0653317263426
+        ]
+      ]
+    ]
+  }
+}

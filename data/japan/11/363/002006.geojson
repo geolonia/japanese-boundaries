@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "11363002006",
+    "PREF": "11",
+    "CITY": "363",
+    "S_AREA": "002006",
+    "PREF_NAME": "埼玉県",
+    "CITY_NAME": "長瀞町",
+    "S_NAME": "大字本野上",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 3535.879,
+    "PERIMETER": 238.254,
+    "H27KAxx_": 4369,
+    "H27KAxx_ID": 4368,
+    "KEN": "11",
+    "KEN_NAME": "埼玉県",
+    "SITYO_NAME": null,
+    "GST_NAME": "秩父郡",
+    "CSS_NAME": "長瀞町",
+    "KIHON1": "0020",
+    "DUMMY1": "-",
+    "KIHON2": "06",
+    "KEYCODE1": "363002006",
+    "KEYCODE2": "363002006",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "大字本野上",
+    "KBSUM": 1,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 139.1141,
+    "Y_CODE": 36.11125,
+    "KCODE1": "0020-06"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          139.11453740929608,
+          36.11140782922425
+        ],
+        [
+          139.11431679110424,
+          36.11091769242314
+        ],
+        [
+          139.1136642919985,
+          36.11109708610465
+        ],
+        [
+          139.11386581961753,
+          36.1115679762846
+        ],
+        [
+          139.11453740929608,
+          36.11140782922425
+        ]
+      ]
+    ]
+  }
+}

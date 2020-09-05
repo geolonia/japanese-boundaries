@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "232131520",
+    "PREF": "23",
+    "CITY": "213",
+    "S_AREA": "152000",
+    "PREF_NAME": "愛知県",
+    "CITY_NAME": "西尾市",
+    "S_NAME": "新渡場町",
+    "KIGO_E": "E2",
+    "HCODE": 8101,
+    "AREA": 943.66,
+    "PERIMETER": 167.461,
+    "H27KAxx_": 11687,
+    "H27KAxx_ID": 11686,
+    "KEN": "23",
+    "KEN_NAME": "愛知県",
+    "SITYO_NAME": null,
+    "GST_NAME": "西尾市",
+    "CSS_NAME": null,
+    "KIHON1": "1520",
+    "DUMMY1": "-",
+    "KIHON2": "00",
+    "KEYCODE1": "213152000",
+    "KEYCODE2": "2131520",
+    "AREA_MAX_F": null,
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "新渡場町",
+    "KBSUM": 0,
+    "JINKO": 0,
+    "SETAI": 0,
+    "X_CODE": 137.05396,
+    "Y_CODE": 34.88407,
+    "KCODE1": "1520-00"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          137.0545331060208,
+          34.88431438417406
+        ],
+        [
+          137.05387585577296,
+          34.88395079138044
+        ],
+        [
+          137.05380109777371,
+          34.88418229274167
+        ],
+        [
+          137.05423188375158,
+          34.88426931523745
+        ],
+        [
+          137.0545331060208,
+          34.88431438417406
+        ]
+      ]
+    ]
+  }
+}

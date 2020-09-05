@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "03209305209",
+    "PREF": "03",
+    "CITY": "209",
+    "S_AREA": "305209",
+    "PREF_NAME": "岩手県",
+    "CITY_NAME": "一関市",
+    "S_NAME": "真柴字武奈沢",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 36343.314,
+    "PERIMETER": 779.683,
+    "H27KAxx_": 2162,
+    "H27KAxx_ID": 2161,
+    "KEN": "03",
+    "KEN_NAME": "岩手県",
+    "SITYO_NAME": null,
+    "GST_NAME": "一関市",
+    "CSS_NAME": null,
+    "KIHON1": "3052",
+    "DUMMY1": "-",
+    "KIHON2": "09",
+    "KEYCODE1": "209305209",
+    "KEYCODE2": "209305209",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "真柴字武奈沢",
+    "KBSUM": 1,
+    "JINKO": 53,
+    "SETAI": 1,
+    "X_CODE": 141.11642,
+    "Y_CODE": 38.88561,
+    "KCODE1": "3052-09"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          141.11506851208355,
+          38.88632290500542
+        ],
+        [
+          141.11778315881324,
+          38.8862869058267
+        ],
+        [
+          141.11776782230396,
+          38.88490571860989
+        ],
+        [
+          141.1150530464059,
+          38.884924123525536
+        ],
+        [
+          141.11506851208355,
+          38.88632290500542
+        ]
+      ]
+    ]
+  }
+}

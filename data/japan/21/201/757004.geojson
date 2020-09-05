@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "properties": {
+    "KEY_CODE": "21201757004",
+    "PREF": "21",
+    "CITY": "201",
+    "S_AREA": "757004",
+    "PREF_NAME": "岐阜県",
+    "CITY_NAME": "岐阜市",
+    "S_NAME": "雄総緑町４丁目",
+    "KIGO_E": null,
+    "HCODE": 8101,
+    "AREA": 48107.155,
+    "PERIMETER": 1009.863,
+    "H27KAxx_": 5688,
+    "H27KAxx_ID": 5687,
+    "KEN": "21",
+    "KEN_NAME": "岐阜県",
+    "SITYO_NAME": null,
+    "GST_NAME": "岐阜市",
+    "CSS_NAME": null,
+    "KIHON1": "7570",
+    "DUMMY1": "-",
+    "KIHON2": "04",
+    "KEYCODE1": "201757004",
+    "KEYCODE2": "201757004",
+    "AREA_MAX_F": "M",
+    "KIGO_D": null,
+    "N_KEN": null,
+    "N_CITY": null,
+    "KIGO_I": null,
+    "MOJI": "雄総緑町４丁目",
+    "KBSUM": 1,
+    "JINKO": 55,
+    "SETAI": 32,
+    "X_CODE": 136.7974,
+    "Y_CODE": 35.44146,
+    "KCODE1": "7570-04"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          136.79786738476759,
+          35.44320646667528
+        ],
+        [
+          136.79833147339045,
+          35.43987045065155
+        ],
+        [
+          136.7969517658637,
+          35.43963610976774
+        ],
+        [
+          136.79647231792978,
+          35.443054010202935
+        ],
+        [
+          136.79786738476759,
+          35.44320646667528
+        ]
+      ]
+    ]
+  }
+}
