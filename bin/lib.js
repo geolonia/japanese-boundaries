@@ -24,8 +24,17 @@ const rmDir = (path) => {
   });
 };
 
+const applyFilters = (geojson) => {
+  const filterNames = process.env.FILTERS ? process.env.FILTERS.split(",") : [];
+  return filterNames.reduce((prev, filterName) => {
+    const filter = require(`./filters/${filterName}`);
+    return filter(prev);
+  }, geojson);
+};
+
 module.exports = {
   rmDir,
+  applyFilters,
   tmp_dir,
   shape_dir,
   geojson_dir,

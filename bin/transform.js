@@ -2,7 +2,12 @@ const fs = require("fs");
 const path = require("path");
 const child_process = require("child_process");
 const mkdirp = require("mkdirp");
-const { shape_dir, geojson_dir, ndgeojson_dir } = require("./lib");
+const {
+  shape_dir,
+  geojson_dir,
+  ndgeojson_dir,
+  applyFilters,
+} = require("./lib");
 
 const findShapes = () => {
   return new Promise((resolve, reject) => {
@@ -26,10 +31,14 @@ const toGeoJSON = (shape_path) => {
       child_process.execSync(
         `ogr2ogr -t_srs "urn:ogc:def:crs:OGC:1.3:CRS84" -f geojson ${geojson_path} ${shape_path}`
       );
-      resolve(geojson_path);
     } catch (error) {
       reject(error);
     }
+    const geojson = applyFilters(
+      JSON.parse(fs.readFileSync(geojson_path).toString("utf-8"))
+    );
+    fs.writeFileSync(geojson_path, JSON.stringify(geojson));
+    resolve(geojson_path);
   });
 };
 
