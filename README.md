@@ -4,6 +4,10 @@
 
 本データは、2015 年度国勢調査の境界データ（小地域（町丁・字等別））をベースにし、現在までの市区町村変更を反映させたものです。
 
+データは以下の URL からダウンロードできます。
+
+https://raw.githubusercontent.com/geolonia/japanese-boundaries/master/data/japan/{都道府県番号}/{市区町村番号}/{町字コード+丁目、字などの番号}.geojson
+
 ## 領域データ仕様
 
 ### ファイルフォーマット

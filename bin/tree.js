@@ -44,7 +44,7 @@ const parseAsDirectoryTree = async (ndgeojson_path) => {
       S_AREA: smallAreaCode,
     } = geojson.properties;
 
-    const city_dir = `${dest_dir}/${prefCode}/${prefCode + cityCode}`;
+    const city_dir = `${dest_dir}/${prefCode}/${cityCode}`;
     const geojson_path = `${city_dir}/${smallAreaCode}.geojson`;
     await mkdirp(city_dir);
     fs.writeFileSync(geojson_path, JSON.stringify(geojson, null, 2));
